@@ -4,17 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="init" />
+    <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/프로그래머스Lv2마법의엘리베이터/프로그래머스Lv2마법의엘리베이터.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/프로그래머스Lv1달리기경주/프로그래머스Lv1달리기경주.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/프로그래머스Lv1완주하지못한선수/프로그래머스Lv1완주하지못한선수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/프로그래머스Lv1체육복/프로그래머스Lv1체육복.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/프로그래머스Lv2의상/프로그래머스Lv2의상.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackQueue/프로그래머스Lv2올바른괄호/프로그래머싀Lv2올바른괄호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackQueue/프로그래머스Lv2주식가격/프로그래머스Lv2주식가격.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv1공원산책/프로그래머스Lv1공원산책.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv1둘만의암호/프로그래머스Lv1둘만의암호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv1바탕화면정리/프로그래머스Lv1바탕화면정리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv1신규아이디추천/프로그래머스Lv1신규아이디추천.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv2_124나라의숫자/프로그래머스Lv2_124나라의숫자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv2문자열압축/프로그래머스Lv2문자열압축.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy/프로그래머스Lv3단속카메라.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greedy/프로그래머스Lv3단속카메라/프로그래머스Lv3단속카메라.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f9610410-d590-46ee-8be4-5b60a77bdaa5" />
+        <option name="url" value="https://github.com/dlehddn/Algorithm.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2RL4Z431MutRFGL2Tn1rNIVCUZ7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,6 +63,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -39,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687016079550</updated>
-      <workItem from="1687016080807" duration="395000" />
+      <workItem from="1687016080807" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -48,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687016235434</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1687016799177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687016799177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

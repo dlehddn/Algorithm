@@ -1,4 +1,4 @@
-package Greedy;
+package Greedy.프로그래머스Lv3단속카메라;
 import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
