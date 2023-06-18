@@ -1,4 +1,4 @@
-package Greedy.프로그래머스Lv2마법의엘리베이터;
+package Greedy.프로그래머스Lv2_마법의엘리베이터;
 
 class Solution {
     private int magicRock = 0; // 멤버변수

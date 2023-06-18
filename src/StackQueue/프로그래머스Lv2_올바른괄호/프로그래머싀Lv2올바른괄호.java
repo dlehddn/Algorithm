@@ -1,4 +1,4 @@
-package StackQueue.프로그래머스Lv2올바른괄호;
+package StackQueue.프로그래머스Lv2_올바른괄호;
 import java.util.*;
 class Solution {
     boolean solution(String s) {

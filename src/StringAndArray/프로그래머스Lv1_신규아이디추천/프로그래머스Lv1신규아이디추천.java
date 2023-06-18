@@ -1,4 +1,4 @@
-package StringAndArray.프로그래머스Lv1신규아이디추천;
+package StringAndArray.프로그래머스Lv1_신규아이디추천;
 
 class Solution {
     public String solution(String new_id) {

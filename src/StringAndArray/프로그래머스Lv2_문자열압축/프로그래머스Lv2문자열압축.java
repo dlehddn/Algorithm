@@ -1,4 +1,4 @@
-package StringAndArray.프로그래머스Lv2문자열압축;
+package StringAndArray.프로그래머스Lv2_문자열압축;
 
 class Solution {
 

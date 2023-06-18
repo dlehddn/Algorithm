@@ -1,4 +1,4 @@
-package StackQueue.프로그래머스Lv2주식가격;
+package StackQueue.프로그래머스Lv2_주식가격;
 
 import java.util.*;
 

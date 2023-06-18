@@ -1,5 +1,4 @@
-package StringAndArray.프로그래머스Lv1둘만의암호;
-import java.util.*;
+package StringAndArray.프로그래머스Lv1_둘만의암호;
 
 class Solution {
     public String solution(String s, String skip, int index) {

@@ -1,4 +1,4 @@
-package Hash.프로그래머스Lv2의상;
+package Hash.프로그래머스Lv2_의상;
 
 import java.util.Map;
 import java.util.HashMap;

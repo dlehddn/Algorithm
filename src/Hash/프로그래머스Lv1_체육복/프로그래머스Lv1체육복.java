@@ -1,4 +1,4 @@
-package Hash.프로그래머스Lv1체육복;
+package Hash.프로그래머스Lv1_체육복;
 import java.util.Set;
 import java.util.HashSet;
 

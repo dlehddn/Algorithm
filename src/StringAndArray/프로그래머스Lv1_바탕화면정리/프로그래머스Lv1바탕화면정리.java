@@ -1,4 +1,4 @@
-package StringAndArray.프로그래머스Lv1바탕화면정리;
+package StringAndArray.프로그래머스Lv1_바탕화면정리;
 
 class Solution {
     public int[] solution(String[] wallpaper) {

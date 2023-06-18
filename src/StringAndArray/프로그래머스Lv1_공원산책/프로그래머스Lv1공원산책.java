@@ -1,4 +1,4 @@
-package StringAndArray.프로그래머스Lv1공원산책;
+package StringAndArray.프로그래머스Lv1_공원산책;
 
 class Solution {
 

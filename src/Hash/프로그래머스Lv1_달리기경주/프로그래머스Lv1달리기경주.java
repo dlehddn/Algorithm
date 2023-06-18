@@ -1,4 +1,4 @@
-package Hash.프로그래머스Lv1달리기경주;
+package Hash.프로그래머스Lv1_달리기경주;
 import java.util.*;
 class Solution {
     public String[] solution(String[] players, String[] callings) {
