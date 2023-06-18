@@ -1,5 +1,6 @@
 package StringAndArray.백준5597번_과제안내신분;
 
+
 import java.io.*;
 import java.util.*;
 public class Main {
@@ -12,7 +13,7 @@ public class Main {
         }
 
         for (int i = 0; i < arr.length; i++) {
-            if(arr[i] == 0) {
+            if(arr[i] != i+1) {
                 System.out.println(i+1);
             }
         }

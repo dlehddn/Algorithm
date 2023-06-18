@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Heap/백준11279번_최대힙/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/백준11279번_최대힙/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringAndArray/백준10807번_개수세기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringAndArray/백준5597번_과제안내신분/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap/백준2075번_N번째큰수/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heap/백준11279번_최대힙/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heap/백준11279번_최대힙/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAndArray/백준5597번_과제안내신분/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAndArray/백준5597번_과제안내신분/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringAndArray.백준5597번_과제안내신분.Main">
+  <component name="RunManager" selected="Application.Heap.백준2075번_N번째큰수.Main">
+    <configuration name="Heap.백준2075번_N번째큰수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.백준2075번_N번째큰수.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heap.백준2075번_N번째큰수.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heap.백준11279번_최대힙.Main" />
       <module name="Algorithm" />
@@ -90,13 +102,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
       <item itemvalue="Application.StringAndArray.백준5597번_과제안내신분.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringAndArray.백준5597번_과제안내신분.Main" />
+        <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StringAndArray.백준5597번_과제안내신분.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +124,7 @@
       <updated>1687016079550</updated>
       <workItem from="1687016080807" duration="3458000" />
       <workItem from="1687019879000" duration="637000" />
-      <workItem from="1687062968634" duration="7686000" />
+      <workItem from="1687062968634" duration="15679000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -133,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687019290506</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1687079103128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687079103128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,20 +164,5 @@
     <MESSAGE value="init" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/StringAndArray/백준5597번_과제안내신분/Main.java</url>
-          <line>5</line>
-          <properties class="StringAndArray.백준5597번_과제안내신분.Main" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
