@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/백준10870번_피보나치수5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/백준2447_별찍기10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/백준27433번_팩토리얼2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/프로그래머스Lv2_하노이의탑/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/백준2447_별찍기10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/백준2447_별찍기10/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +162,7 @@
       <workItem from="1687396538224" duration="1027000" />
       <workItem from="1687744186522" duration="9170000" />
       <workItem from="1687763972782" duration="7000" />
-      <workItem from="1687789835470" duration="1753000" />
+      <workItem from="1687789835470" duration="5649000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -216,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687418761510</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1687791622838</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687791622838</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
