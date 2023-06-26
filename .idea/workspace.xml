@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BruteForce/프로그래머스Lv2_전력망을둘로나누기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/백준10870번_피보나치수5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/백준2447_별찍기10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/백준27433번_팩토리얼2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/프로그래머스Lv2_하노이의탑/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Recursion.백준2447_별찍기10.Main">
     <configuration name="Heap.백준2075번_N번째큰수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heap.백준2075번_N번째큰수.Main" />
       <module name="Algorithm" />
@@ -86,12 +89,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAndArray.백준5597번_과제안내신분.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAndArray.백준5597번_과제안내신분.Main" />
+    <configuration name="Recursion.백준10870번_피보나치수5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준10870번_피보나치수5.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringAndArray.백준5597번_과제안내신분.*" />
+          <option name="PATTERN" value="Recursion.백준10870번_피보나치수5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion.백준2447_별찍기10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준2447_별찍기10.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.백준2447_별찍기10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion.백준27433번_팩토리얼2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준27433번_팩토리얼2.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.백준27433번_팩토리얼2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,15 +129,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Recursion.백준10870번_피보나치수5.Main" />
+      <item itemvalue="Application.Recursion.백준2447_별찍기10.Main" />
+      <item itemvalue="Application.Recursion.백준27433번_팩토리얼2.Main" />
       <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
-      <item itemvalue="Application.StringAndArray.백준5597번_과제안내신분.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion.백준2447_별찍기10.Main" />
+        <item itemvalue="Application.Recursion.백준10870번_피보나치수5.Main" />
+        <item itemvalue="Application.Recursion.백준27433번_팩토리얼2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
-        <item itemvalue="Application.StringAndArray.백준5597번_과제안내신분.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +162,10 @@
       <workItem from="1687248421189" duration="663000" />
       <workItem from="1687275844495" duration="859000" />
       <workItem from="1687310035671" duration="20000" />
-      <workItem from="1687396538224" duration="672000" />
+      <workItem from="1687396538224" duration="1027000" />
+      <workItem from="1687744186522" duration="9170000" />
+      <workItem from="1687763972782" duration="7000" />
+      <workItem from="1687789835470" duration="1753000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -173,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687276072237</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1687418761510</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687418761510</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
