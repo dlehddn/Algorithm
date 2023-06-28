@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/Hash/프로그래머스Lv3_베스트앨범/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackQueue/프로그래머스Lv1_같은숫자는싫어/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/백준2447_별찍기10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/백준2447_별찍기10/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +163,9 @@
       <workItem from="1687396538224" duration="1027000" />
       <workItem from="1687744186522" duration="9170000" />
       <workItem from="1687763972782" duration="7000" />
-      <workItem from="1687789835470" duration="5649000" />
+      <workItem from="1687789835470" duration="5660000" />
+      <workItem from="1687844458597" duration="2972000" />
+      <workItem from="1687964449978" duration="140000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -220,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687791622838</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1687796013552</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687796013552</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
