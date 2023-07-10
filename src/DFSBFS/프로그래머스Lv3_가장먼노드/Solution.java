@@ -1,4 +1,4 @@
-package BfsDfs.프로그래머스Lv3_가장먼노드;
+package DFSBFS.프로그래머스Lv3_가장먼노드;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

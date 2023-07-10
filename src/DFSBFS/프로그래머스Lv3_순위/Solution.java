@@ -1,4 +1,4 @@
-package BfsDfs.프로그래머스Lv3_순위;
+package DFSBFS.프로그래머스Lv3_순위;
 
 import java.util.*;
 class Solution {
