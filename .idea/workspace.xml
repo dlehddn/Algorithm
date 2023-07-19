@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/백준16930번_달리기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulation/백준14501번_퇴사/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulation/백준14719번_빗물/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준6987번_월드컵/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation/프로그래머스_크레인인형뽑기게임/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <recent name="$PROJECT_DIR$/src/BfsDfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Simulation.백준14719번_빗물.Main">
+  <component name="RunManager" selected="Application.Simulation.백준6987번_월드컵.Main">
     <configuration name="DFSBFS.백준16930번_달리기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준16930번_달리기.Main" />
       <module name="Algorithm" />
@@ -108,19 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion.백준2447_별찍기10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.백준2447_별찍기10.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.백준2447_별찍기10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Simulation.백준14719번_빗물.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Simulation.백준14719번_빗물.Main" />
       <module name="Algorithm" />
@@ -134,20 +120,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Simulation.백준6987번_월드컵.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준6987번_월드컵.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Simulation.백준6987번_월드컵.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Simulation.백준14719번_빗물.Main" />
+      <item itemvalue="Application.Simulation.백준6987번_월드컵.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DFSBFS.백준16930번_달리기.Main" />
       <item itemvalue="Application.DFSBFS.백준1743번_음식물피하기.Main" />
-      <item itemvalue="Application.Recursion.백준2447_별찍기10.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Simulation.백준6987번_월드컵.Main" />
         <item itemvalue="Application.Simulation.백준14719번_빗물.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DFSBFS.백준16930번_달리기.Main" />
         <item itemvalue="Application.DFSBFS.백준1743번_음식물피하기.Main" />
-        <item itemvalue="Application.Recursion.백준2447_별찍기10.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +195,14 @@
       <workItem from="1689557623377" duration="1131000" />
       <workItem from="1689562617553" duration="30000" />
       <workItem from="1689573155816" duration="1408000" />
-      <workItem from="1689605650888" duration="2461000" />
+      <workItem from="1689605650888" duration="6370000" />
+      <workItem from="1689645641682" duration="711000" />
+      <workItem from="1689659986042" duration="3875000" />
+      <workItem from="1689693756782" duration="16022000" />
+      <workItem from="1689734644967" duration="278000" />
+      <workItem from="1689746274314" duration="2715000" />
+      <workItem from="1689757070996" duration="23000" />
+      <workItem from="1689781957415" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -303,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689168704219</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <created>1689608722709</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1689608722709</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +334,11 @@
           <url>file://$PROJECT_DIR$/src/Heap/백준11279번_최대힙/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Simulation/백준6987번_월드컵/Main.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
