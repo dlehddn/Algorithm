@@ -4,6 +4,11 @@ import java.util.*;
 import java.io.*;
 public class Main {
     public static void main(String[] args) throws IOException {
+
+        int a = 0; // -21억 ~ 21억
+        a = 2100000000;
+        System.out.println(a);
+        long b = 0l; //
         Queue<Integer> pq = new PriorityQueue<>();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
