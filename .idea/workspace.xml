@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Simulation/백준14891번_톱니바퀴/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simulation/프로그래머스_프렌즈4블록/Solution.java" afterDir="false" />
+    <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="톱니바퀴, 프렌즈4블록">
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준1194번_달이차오른다가자/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Simulation/백준14891번_톱니바퀴/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simulation/백준14891번_톱니바퀴/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -59,6 +64,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -67,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/BfsDfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Simulation.백준14891번_톱니바퀴.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Heap.백준2075번_N번째큰수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Heap.백준2075번_N번째큰수.Main" />
       <module name="Algorithm" />
@@ -81,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simulation.백준11559번_PuyoPuyo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.백준11559번_PuyoPuyo.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준1194번_달이차오른다가자.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simulation.백준11559번_PuyoPuyo.*" />
+          <option name="PATTERN" value="Simulation.백준1194번_달이차오른다가자.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simulation.백준14719번_빗물.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.백준14719번_빗물.Main" />
+    <configuration name="Simulation.백준11559번_PuyoPuyo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준11559번_PuyoPuyo.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simulation.백준14719번_빗물.*" />
+          <option name="PATTERN" value="Simulation.백준11559번_PuyoPuyo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +140,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Simulation.백준14891번_톱니바퀴.Main" />
       <item itemvalue="Application.Simulation.백준11559번_PuyoPuyo.Main" />
       <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
-      <item itemvalue="Application.Simulation.백준14719번_빗물.Main" />
       <item itemvalue="Application.Simulation.백준6987번_월드컵.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Simulation.백준14891번_톱니바퀴.Main" />
         <item itemvalue="Application.Simulation.백준11559번_PuyoPuyo.Main" />
         <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
         <item itemvalue="Application.Simulation.백준6987번_월드컵.Main" />
-        <item itemvalue="Application.Simulation.백준14719번_빗물.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +219,9 @@
       <workItem from="1690262370399" duration="4091000" />
       <workItem from="1690295809089" duration="6026000" />
       <workItem from="1690334053514" duration="3013000" />
-      <workItem from="1690350108943" duration="499000" />
+      <workItem from="1690350108943" duration="3012000" />
+      <workItem from="1690380586639" duration="13815000" />
+      <workItem from="1690419998168" duration="3504000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -341,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690177394492</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="톱니바퀴, 프렌즈4블록">
+      <created>1690350629840</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1690350629840</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +365,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="톱니바퀴, 프렌즈4블록" />
+    <option name="LAST_COMMIT_MESSAGE" value="톱니바퀴, 프렌즈4블록" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

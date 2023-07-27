@@ -45,7 +45,6 @@ public class Main {
             makeEdge();
             visited = new boolean[5];
             dfs(dialNum, direction);
-
         }
         calculateSum();
 
@@ -54,17 +53,23 @@ public class Main {
         bw.close();
     }
 
+    /**
+     * 붙어있는 톱니바퀴 간 연쇄 회전이 가능한지 체크
+     */
     private static void makeEdge() {
         if(dial[0][2] == dial[1][6]) edge[3] = false;
-        else edge[3] = true;
+        else edge[3] = true; // 1번 2번 사이의 엣지
 
         if(dial[1][2] == dial[2][6]) edge[5] = false;
-        else edge[5] = true;
+        else edge[5] = true; // 2번 3번 사이의 엣지
 
         if(dial[2][2] == dial[3][6]) edge[7] = false;
-        else edge[7] = true;
+        else edge[7] = true; // 3번 4번 사이의 엣지
     }
 
+    /**
+     * 실제 톱니바퀴 회전시키는 로직
+     */
     private static void moveDial(int dialNumber, int direction) {
         if(direction == 1) { // 시계방향
             int lastIndexValue = dial[dialNumber-1][7];
@@ -83,6 +88,9 @@ public class Main {
         }
     }
 
+    /**
+     * dfs로 연쇄 회전 시키기
+     */
     private static void dfs(int dialNumber, int direction) {
         visited[dialNumber] = true;
         moveDial(dialNumber, direction);
@@ -116,6 +124,9 @@ public class Main {
 //        }
 //    }
 
+    /**
+     * 마무리 연산
+     */
     private static void calculateSum() {
         if(dial[0][0] == 1) count += 1;
         if(dial[1][0] == 1) count += 2;
