@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="톱니바퀴, 프렌즈4블록">
-      <change afterPath="$PROJECT_DIR$/src/Simulation/백준1194번_달이차오른다가자/Main.java" afterDir="false" />
+    <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="달이차오른다">
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준3197번_백조의호수/Try1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준3197번_백조의호수/Try2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준3197번_백조의호수/Try3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simulation/백준14891번_톱니바퀴/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simulation/백준14891번_톱니바퀴/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Simulation/백준1194번_달이차오른다가자/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simulation/백준1194번_달이차오른다가자/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,20 +74,7 @@
       <recent name="$PROJECT_DIR$/src/BfsDfs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Heap.백준2075번_N번째큰수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.백준2075번_N번째큰수.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Heap.백준2075번_N번째큰수.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Try3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Simulation.백준1194번_달이차오른다가자.Main" />
       <module name="Algorithm" />
@@ -100,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simulation.백준11559번_PuyoPuyo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.백준11559번_PuyoPuyo.Main" />
+    <configuration name="Simulation.백준3197번_백조의호수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준3197번_백조의호수.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simulation.백준11559번_PuyoPuyo.*" />
+          <option name="PATTERN" value="Simulation.백준3197번_백조의호수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simulation.백준14891번_톱니바퀴.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.백준14891번_톱니바퀴.Main" />
+    <configuration name="Try1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준3197번_백조의호수.Try1" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simulation.백준14891번_톱니바퀴.*" />
+          <option name="PATTERN" value="Simulation.백준3197번_백조의호수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simulation.백준6987번_월드컵.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.백준6987번_월드컵.Main" />
+    <configuration name="Try2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준3197번_백조의호수.Try2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simulation.백준6987번_월드컵.*" />
+          <option name="PATTERN" value="Simulation.백준3197번_백조의호수.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준3197번_백조의호수.Try3" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Simulation.백준3197번_백조의호수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,19 +141,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Try3" />
+      <item itemvalue="Application.Try1" />
+      <item itemvalue="Application.Try2" />
+      <item itemvalue="Application.Simulation.백준3197번_백조의호수.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Simulation.백준14891번_톱니바퀴.Main" />
-      <item itemvalue="Application.Simulation.백준11559번_PuyoPuyo.Main" />
-      <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
-      <item itemvalue="Application.Simulation.백준6987번_월드컵.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Try3" />
+        <item itemvalue="Application.Try2" />
+        <item itemvalue="Application.Try1" />
+        <item itemvalue="Application.Simulation.백준3197번_백조의호수.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Simulation.백준14891번_톱니바퀴.Main" />
-        <item itemvalue="Application.Simulation.백준11559번_PuyoPuyo.Main" />
-        <item itemvalue="Application.Heap.백준2075번_N번째큰수.Main" />
-        <item itemvalue="Application.Simulation.백준6987번_월드컵.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +222,14 @@
       <workItem from="1690334053514" duration="3013000" />
       <workItem from="1690350108943" duration="3012000" />
       <workItem from="1690380586639" duration="13815000" />
-      <workItem from="1690419998168" duration="3504000" />
+      <workItem from="1690419998168" duration="5014000" />
+      <workItem from="1690436798201" duration="4878000" />
+      <workItem from="1690446242291" duration="15000" />
+      <workItem from="1690469539721" duration="10456000" />
+      <workItem from="1690506590655" duration="660000" />
+      <workItem from="1690523050426" duration="6567000" />
+      <workItem from="1690767587157" duration="7695000" />
+      <workItem from="1690782120555" duration="2738000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -356,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690350629840</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="달이차오른다">
+      <created>1690425280128</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1690425280128</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +381,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="update" />
     <MESSAGE value="톱니바퀴, 프렌즈4블록" />
-    <option name="LAST_COMMIT_MESSAGE" value="톱니바퀴, 프렌즈4블록" />
+    <MESSAGE value="달이차오른다" />
+    <option name="LAST_COMMIT_MESSAGE" value="달이차오른다" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

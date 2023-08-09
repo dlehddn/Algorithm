@@ -6,8 +6,7 @@ import java.util.*;
 
 public class Main {
 
-    private static int H, W, startX, startY, endX, endY;
-    private static HashSet<Character> keySet = new HashSet<>();
+    private static int H, W, startX, startY;
     private static char[][] coordinate;
     private static boolean[][][] visited;
     private static int[] dx = {1, -1, 0, 0};
@@ -39,7 +38,6 @@ public class Main {
         bw.write(Integer.toString(result));
         bw.flush();
         bw.close();
-
     }
 
     private static int bfs(int startY, int startX) {
@@ -59,26 +57,27 @@ public class Main {
                     if(nextChar != '#' && !visited[nextY][nextX][currentKey]) {
                         if (Character.isUpperCase(nextChar)) {
                             int door = 1 << nextChar - 'A';
-                            if((currentKey & door) > 0) {
+                            // 0000001 == 'a'
+                            if((currentKey & door) > 0) { // And 연산  기호
                                 visited[nextY][nextX][currentKey] = true;
                                 q.add(new int[]{nextY, nextX, currentKey});
                                 count[nextY][nextX] = count[poll[0]][poll[1]] + 1;
                             }
-                        }
+                        } // 문을 만났다면
                         else if (Character.isLowerCase(nextChar)) {
                             int newKey = 1 << nextChar - 'a';
-                            int sumKey = currentKey | newKey;
+                            int sumKey = currentKey | newKey; // Or 연산
                             if(!visited[nextY][nextX][sumKey]) {
                                 visited[nextY][nextX][sumKey] = true;
                                 q.add(new int[]{nextY, nextX, sumKey});
                                 count[nextY][nextX] = count[poll[0]][poll[1]] + 1;
                             }
-                        }
+                        } // 열쇠를 만났다면
                         else {
                             visited[nextY][nextX][currentKey] = true;
                             q.add(new int[]{nextY, nextX, currentKey});
                             count[nextY][nextX] = count[poll[0]][poll[1]] + 1;
-                        }
+                        } // '.' 인 상황
                         if (coordinate[nextY][nextX] == '1') {
                             return count[nextY][nextX];
                         }
