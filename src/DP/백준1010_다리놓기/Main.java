@@ -15,7 +15,7 @@ public class Main {
         StringTokenizer st;
 
         size = Integer.parseInt(br.readLine());
-        combination(N);
+        combination();
         for (int i = 0; i < size; i++) {
             st = new StringTokenizer(br.readLine());
             N = Integer.parseInt(st.nextToken());
@@ -24,7 +24,7 @@ public class Main {
         }
     }
 
-    static void combination(int n) {
+    static void combination() {
 
         for (int i = 0; i < 30; i++) {
             dp[i][i] = 1;

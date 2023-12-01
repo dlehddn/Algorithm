@@ -16,7 +16,6 @@ public class Main {
         for (int i = 3; i < N + 1; i++) {
             if(i == 3) dp[i] = 1;
             if(i == 5) dp[i] = 1;
-
             try {
                 if (dp[i - 3] == 0 && dp[i - 5] != 0) {
                     dp[i] = dp[i - 5] + 1;
