@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/DP/백준2758_로또/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/백준1520_내리막길/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/백준1823_수확/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/백준2747_피보나치수/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/백준1823_수확/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준1823_수확/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +84,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준2758_로또.Main">
+  <component name="RunManager" selected="Application.DP.백준1823_수확.Main">
     <configuration name="DP.백준1106_호텔.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준1106_호텔.Main" />
       <module name="Algorithm" />
@@ -94,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준15486_퇴사2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준15486_퇴사2.Main" />
+    <configuration name="DP.백준1520_내리막길.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준1520_내리막길.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준15486_퇴사2.*" />
+          <option name="PATTERN" value="DP.백준1520_내리막길.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준1912_연속합.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준1912_연속합.Main" />
+    <configuration name="DP.백준1823_수확.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준1823_수확.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준1912_연속합.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP.백준2758_로또.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2758_로또.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.백준2758_로또.*" />
+          <option name="PATTERN" value="DP.백준1823_수확.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +125,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2839_설탕배달.Main" />
+      <option name="MAIN_CLASS_NAME" value="DP.백준2747_피보나치수.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2839_설탕배달.*" />
+          <option name="PATTERN" value="DP.백준2747_피보나치수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Samsung.마법사상어와복제.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.마법사상어와복제.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준1823_수확.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Samsung.마법사상어와복제.*" />
+          <option name="PATTERN" value="DP.백준1823_수확.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,20 +268,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Samsung.마법사상어와복제.Main" />
-      <item itemvalue="Application.DP.백준2758_로또.Main" />
+      <item itemvalue="Application.DP.백준1520_내리막길.Main" />
+      <item itemvalue="Application.DP.백준1823_수확.Main" />
+      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.DP.백준1106_호텔.Main" />
-      <item itemvalue="Application.DP.백준15486_퇴사2.Main" />
-      <item itemvalue="Application.DP.백준1912_연속합.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DP.백준2758_로또.Main" />
-        <item itemvalue="Application.DP.백준1106_호텔.Main" />
-        <item itemvalue="Application.DP.백준15486_퇴사2.Main" />
-        <item itemvalue="Application.DP.백준1912_연속합.Main" />
+        <item itemvalue="Application.DP.백준1823_수확.Main" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DP.백준1520_내리막길.Main" />
+        <item itemvalue="Application.DP.백준1106_호텔.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +396,7 @@
       <workItem from="1701345743667" duration="19016000" />
       <workItem from="1701428216186" duration="4000" />
       <workItem from="1701443599922" duration="2143000" />
-      <workItem from="1701446184697" duration="3898000" />
+      <workItem from="1701446184697" duration="14708000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -628,6 +618,11 @@
           <url>file://$PROJECT_DIR$/src/KakaoIntenShip/_2022/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DP/백준2747_피보나치수/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
