@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/DP/백준2056_작업/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/백준2631번_줄세우기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/백준2758_로또/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/백준2758_로또/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준2056_작업.Main">
+  <component name="RunManager" selected="Application.DP.백준2758_로또.Main2">
     <configuration name="DP.백준1823_수확.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준1823_수확.Main" />
       <module name="Algorithm" />
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2747_피보나치수.Main" />
+    <configuration name="DP.백준2758_로또.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준2758_로또.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2747_피보나치수.*" />
+          <option name="PATTERN" value="DP.백준2758_로또.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,25 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준1823_수확.Main2" />
+    <configuration name="DP.백준2758_로또.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준2758_로또.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준1823_수확.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Samsung.예술성.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.예술성.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.예술성.*" />
+          <option name="PATTERN" value="DP.백준2758_로또.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,19 +226,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DP.백준2758_로또.Main" />
+      <item itemvalue="Application.DP.백준2758_로또.Main2" />
       <item itemvalue="Application.DP.백준2056_작업.Main" />
       <item itemvalue="Application.DP.백준2631번_줄세우기.Main" />
       <item itemvalue="Application.DP.백준1823_수확.Main" />
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준2758_로또.Main2" />
+        <item itemvalue="Application.DP.백준2758_로또.Main" />
         <item itemvalue="Application.DP.백준2056_작업.Main" />
         <item itemvalue="Application.DP.백준2631번_줄세우기.Main" />
         <item itemvalue="Application.DP.백준1823_수확.Main" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +356,8 @@
       <workItem from="1701443599922" duration="2143000" />
       <workItem from="1701446184697" duration="22899000" />
       <workItem from="1701768322912" duration="5793000" />
-      <workItem from="1701790322519" duration="2310000" />
+      <workItem from="1701790322519" duration="3361000" />
+      <workItem from="1701794630153" duration="16695000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
