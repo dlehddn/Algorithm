@@ -12,7 +12,6 @@ public class Main {
 
         int[] dp = new int[N + 1];
 
-
         for (int i = 3; i < N + 1; i++) {
             if(i == 3) dp[i] = 1;
             if(i == 5) dp[i] = 1;

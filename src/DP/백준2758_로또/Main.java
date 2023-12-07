@@ -38,6 +38,17 @@ public class Main {
         System.out.println(sb);
     }
 
+
+    /**
+     *
+     * dp[i][j] = i = 자릿수, j는 해당 자리에 무슨숫자를 뽑았는지
+     * dp[1][1] = 4
+     *
+     * dp[1][1] = 1
+     * dp[4][10] = 4
+     *
+     */
+
     static long findLotto(int depth, int pick) {
         if (depth == 1) {
             return 1;
