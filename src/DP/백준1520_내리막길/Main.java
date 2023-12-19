@@ -28,15 +28,11 @@ public class Main {
                 map[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-        System.out.println(dfs(0, 0));
-//                Arrays.stream(dp)
-//                        .forEach(arr -> System.out.println(Arrays.toString(arr)));
-//        Arrays.stream(map)
-//                .forEach(arr -> System.out.println(Arrays.toString(arr)));
+        System.out.println(dp_dfs(0, 0));
 
     }
 
-    static int dfs(int y, int x) {
+    static int dp_dfs(int y, int x) {
         if (y == N - 1 && x == M - 1) {
             return 1;
         }
@@ -51,7 +47,7 @@ public class Main {
             int nextX = x + dx[i];
             if(nextY < 0 || nextX < 0 || nextX >= M || nextY >= N) continue;
             if (map[nextY][nextX] < map[y][x]) {
-                dp[y][x] += dfs(nextY, nextX);
+                dp[y][x] += dp_dfs(nextY, nextX);
             }
         }
         return dp[y][x];

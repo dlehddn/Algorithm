@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/DP/백준14567_선수과목/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/백준2758_로또/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준2758_로또/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/백준2758_로또/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준2758_로또/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/백준2839_설탕배달/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준2839_설탕배달/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/백준1520_내리막길/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준1520_내리막길/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/백준2747_피보나치수/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준2747_피보나치수/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dijkstra/백준1753번_최단경로/Again.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dijkstra/백준1753번_최단경로/Again.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/백준10870번_피보나치수5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/백준10870번_피보나치수5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,26 +83,13 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DP.백준2056_작업.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2056_작업.Main" />
+  <component name="RunManager" selected="Application.Dijkstra.백준1238번_파티.Main">
+    <configuration name="Again" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1753번_최단경로.Again" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2056_작업.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP.백준2631번_줄세우기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2631번_줄세우기.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.백준2631번_줄세우기.*" />
+          <option name="PATTERN" value="Dijkstra.백준1753번_최단경로.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,38 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dijkstra.백준1238번_파티.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1238번_파티.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dijkstra.백준1238번_파티.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준14567_선수과목.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.백준14567_선수과목.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Samsung.메이즈러너.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.메이즈러너.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Samsung.포탑부수기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.포탑부수기.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.포탑부수기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DP.백준2758_로또.Main" />
+      <item itemvalue="Application.Dijkstra.백준1238번_파티.Main" />
+      <item itemvalue="Application.Again" />
       <item itemvalue="Application.DP.백준2758_로또.Main2" />
-      <item itemvalue="Application.DP.백준2056_작업.Main" />
-      <item itemvalue="Application.DP.백준2631번_줄세우기.Main" />
+      <item itemvalue="Application.DP.백준2758_로또.Main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dijkstra.백준1238번_파티.Main" />
+        <item itemvalue="Application.Again" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DP.백준2758_로또.Main2" />
         <item itemvalue="Application.DP.백준2758_로또.Main" />
-        <item itemvalue="Application.DP.백준2056_작업.Main" />
-        <item itemvalue="Application.DP.백준2631번_줄세우기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +322,17 @@
       <workItem from="1701790322519" duration="3361000" />
       <workItem from="1701794630153" duration="17916000" />
       <workItem from="1701925423371" duration="3459000" />
-      <workItem from="1701964384622" duration="1012000" />
+      <workItem from="1701964384622" duration="3226000" />
+      <workItem from="1702112495379" duration="17000" />
+      <workItem from="1702186154691" duration="26000" />
+      <workItem from="1702281605605" duration="628000" />
+      <workItem from="1702287218996" duration="4711000" />
+      <workItem from="1702356681012" duration="3617000" />
+      <workItem from="1702529864520" duration="3558000" />
+      <workItem from="1702834303343" duration="3422000" />
+      <workItem from="1702891454242" duration="4000" />
+      <workItem from="1702972491061" duration="71000" />
+      <workItem from="1703002610570" duration="1418000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -571,21 +555,10 @@
           <line>8</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DP/백준2747_피보나치수/Main.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="4" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/SWEA/미생물격리/Solution.java</url>
-          <line>11</line>
-          <properties field="coordinate" class="SWEA.미생물격리.Solution" />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/Samsung/포탑부수기/Main.java</url>
           <line>36</line>
