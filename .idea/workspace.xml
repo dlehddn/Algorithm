@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/백준1520_내리막길/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준1520_내리막길/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/백준2747_피보나치수/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준2747_피보나치수/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dijkstra/백준1753번_최단경로/Again.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dijkstra/백준1753번_최단경로/Again.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/백준10870번_피보나치수5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/백준10870번_피보나치수5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dijkstra/백준2307번_도로검문/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dijkstra/백준2307번_도로검문/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dijkstra.백준2307번_도로검문.Main">
+  <component name="RunManager" selected="Application.DFSBFS.백준1976번_여행가자.Main">
     <configuration name="Again" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1753번_최단경로.Again" />
       <module name="Algorithm" />
@@ -97,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준2758_로또.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2758_로또.Main2" />
+    <configuration name="DFSBFS.백준1976번_여행가자.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1976번_여행가자.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2758_로또.*" />
+          <option name="PATTERN" value="DFSBFS.백준1976번_여행가자.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +146,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Samsung.코드트리빵.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.코드트리빵.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.코드트리빵.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Samsung.메이즈러너.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main" />
       <module name="Algorithm" />
@@ -189,19 +173,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main" />
       <item itemvalue="Application.Dijkstra.백준1238번_파티.Main" />
       <item itemvalue="Application.Dijkstra.백준2307번_도로검문.Main" />
       <item itemvalue="Application.Again" />
-      <item itemvalue="Application.DP.백준2758_로또.Main2" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main" />
         <item itemvalue="Application.Dijkstra.백준2307번_도로검문.Main" />
         <item itemvalue="Application.Dijkstra.백준1238번_파티.Main" />
         <item itemvalue="Application.Again" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DP.백준2758_로또.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +316,9 @@
       <workItem from="1702834303343" duration="3422000" />
       <workItem from="1702891454242" duration="4000" />
       <workItem from="1702972491061" duration="71000" />
-      <workItem from="1703002610570" duration="8732000" />
+      <workItem from="1703002610570" duration="12090000" />
+      <workItem from="1703208568311" duration="820000" />
+      <workItem from="1703863711934" duration="3047000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -588,6 +574,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DFSBFS/백준1976번_여행가자/Main.java</url>
+          <line>16</line>
+          <properties class="DFSBFS.백준1976번_여행가자.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

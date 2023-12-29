@@ -68,7 +68,7 @@ public class Main {
     }
 
     static void dijkstra() {
-        PriorityQueue<Node> pq = new PriorityQueue<>((n1, n2) -> Integer.compare(n1.cost, n2.cost));
+        PriorityQueue<Node> pq = new PriorityQueue<>();
         pq.add(new Node(1, 0));
 
         while (!pq.isEmpty()) {
