@@ -80,7 +80,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준1976번_여행가자.Main">
+  <component name="RunManager" selected="Application.UnionFind.백준10775번_공항.Main">
     <configuration name="Again" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1753번_최단경로.Again" />
       <module name="Algorithm" />
@@ -133,19 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준14567_선수과목.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.백준14567_선수과목.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Samsung.메이즈러너.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main" />
       <module name="Algorithm" />
@@ -172,20 +159,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnionFind.백준10775번_공항.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionFind.백준10775번_공항.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnionFind.백준10775번_공항.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main" />
+      <item itemvalue="Application.UnionFind.백준10775번_공항.Main" />
       <item itemvalue="Application.Dijkstra.백준1238번_파티.Main" />
       <item itemvalue="Application.Dijkstra.백준2307번_도로검문.Main" />
       <item itemvalue="Application.Again" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnionFind.백준10775번_공항.Main" />
         <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main" />
         <item itemvalue="Application.Dijkstra.백준2307번_도로검문.Main" />
         <item itemvalue="Application.Dijkstra.백준1238번_파티.Main" />
         <item itemvalue="Application.Again" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +318,7 @@
       <workItem from="1702972491061" duration="71000" />
       <workItem from="1703002610570" duration="12090000" />
       <workItem from="1703208568311" duration="820000" />
-      <workItem from="1703863711934" duration="4670000" />
+      <workItem from="1703863711934" duration="7894000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -583,6 +583,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/UnionFind/백준10775번_공항/Main.java</url>
+          <line>10</line>
+          <properties class="UnionFind.백준10775번_공항.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

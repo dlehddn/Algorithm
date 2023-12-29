@@ -52,12 +52,9 @@ public class Main {
                 return;
             }
         }
-
         System.out.println("YES");
-
     }
-
-
+    
     static int find(int x) {
         if(x == parent[x]) return x;
 
