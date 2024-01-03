@@ -30,7 +30,6 @@ public class Main {
     }
 
     static void comb(int cnt, int start) {
-
         if (cnt == M) {
             for (int c : choice) {
                 sb.append(c).append(" ");
@@ -42,6 +41,7 @@ public class Main {
         for (int i = start; i <= N; i++) {
             choice[cnt] = i;
             comb(cnt + 1, i + 1);
+
         }
     }
 }

@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
+      <change afterPath="$PROJECT_DIR$/src/Hash/백준1043번_거짓말/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnionFind/백준1043번_거짓말/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comb_Per/백준15650번_N과M2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comb_Per/백준15650번_N과M2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +82,13 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Comb_Per.백준15652번_N과M4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15652번_N과M4.Main" />
+  <component name="RunManager" selected="Application.DFSBFS.백준3109번_빵집.Main">
+    <configuration name="DFSBFS.백준3109번_빵집.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준3109번_빵집.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comb_Per.백준15652번_N과M4.*" />
+          <option name="PATTERN" value="DFSBFS.백준3109번_빵집.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comb_Per.백준15654번_N과M5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15654번_N과M5.Main" />
+    <configuration name="Hash.백준1043번_거짓말.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash.백준1043번_거짓말.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comb_Per.백준15654번_N과M5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Comb_Per.백준15666번_N과M12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15666번_N과M12.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Comb_Per.백준15666번_N과M12.*" />
+          <option name="PATTERN" value="Hash.백준1043번_거짓말.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Samsung.마법사상어와복제.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.마법사상어와복제.Main" />
+    <configuration name="UnionFind.백준1043번_거짓말.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionFind.백준1043번_거짓말.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Samsung.마법사상어와복제.*" />
+          <option name="PATTERN" value="UnionFind.백준1043번_거짓말.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,19 +149,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Comb_Per.백준15652번_N과M4.Main" />
-      <item itemvalue="Application.Comb_Per.백준15654번_N과M5.Main" />
-      <item itemvalue="Application.Comb_Per.백준15666번_N과M12.Main" />
+      <item itemvalue="Application.DFSBFS.백준3109번_빵집.Main" />
+      <item itemvalue="Application.Hash.백준1043번_거짓말.Main" />
+      <item itemvalue="Application.UnionFind.백준1043번_거짓말.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준3109번_빵집.Main" />
+        <item itemvalue="Application.UnionFind.백준1043번_거짓말.Main" />
+        <item itemvalue="Application.Hash.백준1043번_거짓말.Main" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Comb_Per.백준15666번_N과M12.Main" />
-        <item itemvalue="Application.Comb_Per.백준15654번_N과M5.Main" />
-        <item itemvalue="Application.Comb_Per.백준15652번_N과M4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +296,10 @@
       <workItem from="1703208568311" duration="820000" />
       <workItem from="1703863711934" duration="11524000" />
       <workItem from="1704116719625" duration="21000" />
-      <workItem from="1704120187625" duration="6947000" />
+      <workItem from="1704120187625" duration="10989000" />
+      <workItem from="1704217623743" duration="4294000" />
+      <workItem from="1704246953883" duration="854000" />
+      <workItem from="1704271527349" duration="2877000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -528,11 +521,6 @@
           <url>file://$PROJECT_DIR$/src/KakaoIntenShip/_2022/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTracking/백준1987번_알파벳/Main.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="27" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
