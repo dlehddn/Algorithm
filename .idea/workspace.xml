@@ -89,13 +89,13 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1800번_인터넷설치.Main" />
+  <component name="RunManager" selected="Application.Main3">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.싸움땅.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준1800번_인터넷설치.*" />
+          <option name="PATTERN" value="Samsung.싸움땅.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.싸움땅.Main2" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.팩맨.Main3" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Samsung.싸움땅.*" />
+          <option name="PATTERN" value="Samsung.팩맨.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +156,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Samsung.술래잡기.Main" />
       <item itemvalue="Application.Samsung.술래잡기.Main2" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Samsung.술래잡기.Main2" />
         <item itemvalue="Application.Samsung.술래잡기.Main" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -315,6 +315,7 @@
       <workItem from="1705036096409" duration="48000" />
       <workItem from="1705140160539" duration="7125000" />
       <workItem from="1705238194556" duration="22000" />
+      <workItem from="1705308527212" duration="14740000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
