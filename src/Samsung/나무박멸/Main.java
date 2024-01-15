@@ -31,7 +31,7 @@ public class Main {
 			for(int j = 0; j < N; j++) {
 				map[i][j] = Integer.parseInt(st.nextToken());
 			}
-		}
+		} // 인터프리터
 		int turn = 0;
 		while(turn < M) {
 			step1_GrowTree();

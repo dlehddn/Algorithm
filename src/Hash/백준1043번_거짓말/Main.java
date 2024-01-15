@@ -12,7 +12,6 @@ import java.util.HashSet;
 import java.util.StringTokenizer;
 
 public class Main {
-
     static int N, M, result, trueFriendSize;
     static HashSet<Integer> set = new HashSet<>();
     static ArrayList<Integer>[] list;

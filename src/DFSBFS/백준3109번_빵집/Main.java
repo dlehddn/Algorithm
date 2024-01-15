@@ -54,11 +54,18 @@ public class Main {
             int nextX = x + dx[i];
             if(nextY < 0 || nextX < 0 || nextY >= R || nextX >= C) continue;
             if(visited[nextY][nextX] || map[nextY][nextX] == 'x') continue;
+            /**
+            * 다음 자리의 도달 여부에 따라 true를 반환할지, 다음 루프로 넘어갈지 결정
+            */
             boolean arrive = dfs(nextY, nextX);
             if (arrive) {
                 return true;
             }
         }
+        /**
+        * 끝내 true를 반환하지 못했다면 3가지 방향 어디로 가도 목적지에 도달할 수 없는 것!
+        * -> false 반환
+        */
         return false;
     }
 }

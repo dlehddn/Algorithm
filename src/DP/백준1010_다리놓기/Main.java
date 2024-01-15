@@ -7,6 +7,9 @@ import java.util.StringTokenizer;
 
 public class Main {
 
+    /**
+     * nCr = n-1Cr-1 + n-1Cr
+     */
     static int size, N, R;
     static int[][] dp = new int[30][30];
 
