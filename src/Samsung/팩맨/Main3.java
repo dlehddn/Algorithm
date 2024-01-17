@@ -122,7 +122,6 @@ public class Main3 {
             }
         }
     }
-
     static void step3_MovePack() {
         routes = new int[3];
         maxEat = 0;
@@ -138,7 +137,6 @@ public class Main3 {
             }
         }
     }
-
     static void selectRoute(int cnt, int eat, int curY, int curX, int[] choice, int[][] visited) {
         if (cnt == 3) {
             if (eat >= maxEat) {

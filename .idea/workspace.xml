@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/Comb_Per/백준1256번_사전/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dijkstra/백준1800번_인터넷설치/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kakao/_2024/q3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Samsung/술래잡기/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Samsung/싸움땅/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Samsung/싸움땅/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFSBFS/백준3109번_빵집/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/백준3109번_빵집/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/백준1010_다리놓기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준1010_다리놓기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hash/백준1043번_거짓말/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hash/백준1043번_거짓말/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Samsung/나무박멸/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/나무박멸/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samsung/팩맨/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/팩맨/Main3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +80,13 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main3">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.싸움땅.Main2" />
+      <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Samsung.싸움땅.*" />
+          <option name="PATTERN" value="Samsung.메이즈러너.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Samsung.술래잡기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.술래잡기.Main" />
+    <configuration name="Samsung.술래잡기.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.술래잡기.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Samsung.술래잡기.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.술래잡기.Main2" />
+    <configuration name="Samsung.메이즈러너.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main3" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Samsung.술래잡기.*" />
+          <option name="PATTERN" value="Samsung.메이즈러너.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +147,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Samsung.메이즈러너.Main3" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Samsung.술래잡기.Main" />
       <item itemvalue="Application.Samsung.술래잡기.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Samsung.메이즈러너.Main3" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Samsung.술래잡기.Main2" />
-        <item itemvalue="Application.Samsung.술래잡기.Main" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +306,8 @@
       <workItem from="1705036096409" duration="48000" />
       <workItem from="1705140160539" duration="7125000" />
       <workItem from="1705238194556" duration="22000" />
-      <workItem from="1705308527212" duration="14740000" />
+      <workItem from="1705308527212" duration="21408000" />
+      <workItem from="1705481033138" duration="8946000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
