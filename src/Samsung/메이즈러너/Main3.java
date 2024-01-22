@@ -6,9 +6,9 @@ import java.util.*;
 public class Main3 {
     /**
      * 플레이어를 이동시킬 때 누적합(+=)으로 계산해야하는데, 단순 (=) 으로 해버려서 플레이어 수 계산이 제대로 안됐음.
-     * 총 2시간 소요
      */
     static int[][][][] peopleMap;
+    // [y][x][turn][spin의 유무]
     static int[][][] wallMap;
     static Pair exit;
     static int N, M, K, exitCnt, moveCnt;
@@ -51,7 +51,7 @@ public class Main3 {
             step2_SpinMap(i);
         }
         System.out.println(moveCnt);
-        System.out.print((exit.y) + 1 + " " + (exit.x + 1));
+        System.out.print((exit.y + 1) + " " + (exit.x + 1));
     }
 
     static void step1_MovePeople(int turn) {
@@ -103,12 +103,10 @@ public class Main3 {
         Pair start = smallestBox[0];
         Pair end = smallestBox[1];
         spinning(turn, start, end);
-
     }
 
     static Pair[] findSmallestBox(int turn) {
         Pair[] result = new Pair[2];
-
         // 정사각형 사이즈 2부터 N까지 늘려보면서 찾기
         for (int i = 2; i <= N; i++) {
             // 시작 y, x 좌표
@@ -146,11 +144,9 @@ public class Main3 {
             }
         }
         //2. 정사각형 사이즈 체크하고 tmpBox 만들기
-
         int size = end.y - start.y + 1;
         int[][] tmpBox = new int[size][size];
         int[][] tmpPeople = new int[size][size];
-
         //3. 구했던 정사각형을 tmpBox로 복사 -> 좌측 최상단으로 박스를 이동시키기 위함
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < size; j++) {

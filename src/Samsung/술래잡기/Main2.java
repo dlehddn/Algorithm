@@ -15,6 +15,7 @@ public class Main2 {
     static Boss boss;
     static int[][] treeMap;
     static ArrayList<Integer>[][] runnerMap;
+
     static int cnt, line;
     static boolean inToOut;
     static boolean[][] visited;
@@ -75,7 +76,7 @@ public class Main2 {
 
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
-                if (runnerMap[i][j].size() > 0 && checkDistance(new Pair(i, j))) {
+                 if (runnerMap[i][j].size() > 0 && checkDistance(new Pair(i, j))) {
                     for (Integer curDir : runnerMap[i][j]) {
                         int nextY = i + dy[curDir];
                         int nextX = j + dx[curDir];
@@ -130,9 +131,14 @@ public class Main2 {
         int nextY = boss.y + dy[boss.dir];
         int nextX = boss.x + dx[boss.dir];
 
+
         boss.y = nextY;
         boss.x = nextX;
         cnt--;
+
+
+        // 1, 1, 2, 2, 3, 3, 4, 4 ......
+        // 1, 2, 3, 4, 5, 6
 
         if (boss.y == 0 && boss.x == 0) {
             visited = new boolean[N][N];

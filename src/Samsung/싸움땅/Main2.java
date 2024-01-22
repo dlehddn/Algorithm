@@ -113,22 +113,6 @@ public class Main2 {
         gunMap[pair.y][pair.x].add(player.gPower);
         player.gPower = 0;
 
-        /**
-         * 이거 무슨 차이??;;; 이거때문에 한시간 날렸음
-         */
-//        for (int i = player.dir; i < player.dir + 4; i++) {
-//            int dir = i % 4;
-//            player.dir = dir;
-//            int nextY = pair.y + dy[dir];
-//            int nextX = pair.x + dx[dir];
-//            if (canEnter(new Pair(nextY, nextX))) {
-//                playerMap[nextY][nextX].add(new Player(player.num, player.pPower, player.gPower, player.dir));
-//                playerDir[player.num] = new Pair(nextY, nextX);
-//                getPowerfulGun(new Pair(nextY, nextX));
-//                return;
-//            }
-//        }
-
         while (true) {
             int nextY = pair.y + dy[player.dir];
             int nextX = pair.x + dx[player.dir];
