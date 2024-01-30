@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Samsung/메이즈러너/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/메이즈러너/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Samsung/술래잡기/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/술래잡기/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Samsung/싸움땅/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/싸움땅/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samsung/포탑부수기/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/포탑부수기/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Samsung/포탑부수기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/포탑부수기/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
   <component name="ProjectId" id="2RL4Z431MutRFGL2Tn1rNIVCUZ7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -82,35 +84,61 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Samsung.포탑부수기.Main3">
+  <component name="RunManager" selected="Application.Kruskal.백준2887번_행성터널.Main">
+    <configuration name="Kruskal.백준1647번_도시분할계획.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1647번_도시분할계획.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kruskal.백준1647번_도시분할계획.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal.백준1922번_네트워크연결.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1922번_네트워크연결.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kruskal.백준1922번_네트워크연결.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal.백준2887번_행성터널.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준2887번_행성터널.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kruskal.백준2887번_행성터널.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.왕실의기사대결.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Samsung.왕실의기사대결.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main2" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.메이즈러너.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.팩맨.Main3" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.팩맨.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Samsung.메이즈러너.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main3" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -135,12 +163,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kakao._2024.q3.Solution" />
+    <configuration name="Samsung.포탑부수기.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.포탑부수기.Main3" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kakao._2024.q3.*" />
+          <option name="PATTERN" value="Samsung.포탑부수기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Samsung.포탑부수기.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.포탑부수기.Main3" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Samsung.포탑부수기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +190,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Samsung.포탑부수기.Main3" />
-      <item itemvalue="Application.Samsung.메이즈러너.Main3" />
-      <item itemvalue="Application.Main3" />
-      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Kruskal.백준1647번_도시분할계획.Main" />
+      <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Main" />
+      <item itemvalue="Application.Kruskal.백준2887번_행성터널.Main" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Samsung.포탑부수기.Main3" />
+        <item itemvalue="Application.Kruskal.백준2887번_행성터널.Main" />
+        <item itemvalue="Application.Kruskal.백준1647번_도시분할계획.Main" />
+        <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Samsung.메이즈러너.Main3" />
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +358,17 @@
       <workItem from="1705584717688" duration="2000" />
       <workItem from="1705584743924" duration="1587000" />
       <workItem from="1705901323468" duration="135000" />
-      <workItem from="1705914817233" duration="9661000" />
+      <workItem from="1705914817233" duration="10249000" />
+      <workItem from="1705928467733" duration="13000" />
+      <workItem from="1705985977459" duration="4746000" />
+      <workItem from="1705999191654" duration="16000" />
+      <workItem from="1706082135470" duration="1776000" />
+      <workItem from="1706083917820" duration="8647000" />
+      <workItem from="1706153773432" duration="2345000" />
+      <workItem from="1706163542893" duration="5445000" />
+      <workItem from="1706380861329" duration="361000" />
+      <workItem from="1706431267955" duration="61000" />
+      <workItem from="1706546212537" duration="7181000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -539,6 +590,11 @@
           <url>file://$PROJECT_DIR$/src/KakaoIntenShip/_2022/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Samsung/왕실의기사대결/Main.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />

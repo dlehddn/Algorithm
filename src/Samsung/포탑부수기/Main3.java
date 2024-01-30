@@ -8,6 +8,7 @@ import java.util.*;
 
 /**
  * 디버깅 한 부분
+ * 0. 부서지지 않은 포탑이 1개가 됐다 -> 즉시 종료 -> 이 조건 놓쳐서 조금 얼탔음
  * 1. 공격자 선정된 턴을 각자 관리하는 부분에서, 단순히 ++ 연산이 아니라 turn + 1을 해줘야 논리적으로 맞음
  * 2. 공격자 선정 우선순위에서, 열 값이란 내 코드에서 y 값이 아니라 x 값을 의미함
  * -> 이거 처음부터 애매한 줄 알았으면 체크 해놓고 시작했어야지
@@ -170,10 +171,12 @@ public class Main3 {
 
         map[depender.y][depender.x].power = Math.max(0,
                 map[depender.y][depender.x].power - map[attacker.y][attacker.x].power);
+
         for (int i = 0; i < 8; i++) {
             int nY = (depender.y + dy8[i] + N) % N;
             int nX = (depender.x + dx8[i] + M) % M;
             if (map[nY][nX].power == 0) continue;
+            // 공격자는 공격받을 수 없음
             if (attacker.y == nY && attacker.x == nX) continue;
             repairMap[nY][nX] = 1;
             map[nY][nX].power = Math.max(0, map[nY][nX].power - map[attacker.y][attacker.x].power / 2);
