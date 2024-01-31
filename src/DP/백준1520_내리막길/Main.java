@@ -28,28 +28,8 @@ public class Main {
                 map[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-        System.out.println(dp_dfs(0, 0));
-
     }
 
-    static int dp_dfs(int y, int x) {
-        if (y == N - 1 && x == M - 1) {
-            return 1;
-        }
 
-        if (dp[y][x] != -1) {
-            return dp[y][x];
-        }
 
-        dp[y][x] = 0;
-        for (int i = 0; i < 4; i++) {
-            int nextY = y + dy[i];
-            int nextX = x + dx[i];
-            if(nextY < 0 || nextX < 0 || nextX >= M || nextY >= N) continue;
-            if (map[nextY][nextX] < map[y][x]) {
-                dp[y][x] += dp_dfs(nextY, nextX);
-            }
-        }
-        return dp[y][x];
-    }
 }

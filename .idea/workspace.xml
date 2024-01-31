@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
+      <change afterPath="$PROJECT_DIR$/src/Kruskal/백준1647번_도시분할계획/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kruskal/백준1922번_네트워크연결/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kruskal/백준2887번_행성터널/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Samsung/왕실의기사대결/input.txt" afterDir="false" />
@@ -84,7 +87,33 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kruskal.백준2887번_행성터널.Main">
+  <component name="RunManager" selected="Application.BackTracking.백준2169번_로봇조종하기.Main">
+    <configuration name="BackTracking.백준2169번_로봇조종하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTracking.백준2169번_로봇조종하기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BackTracking.백준2169번_로봇조종하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSBFS.백준2169번_로봇조종하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2169번_로봇조종하기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFSBFS.백준2169번_로봇조종하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Kruskal.백준1647번_도시분할계획.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kruskal.백준1647번_도시분할계획.Main" />
       <module name="Algorithm" />
@@ -124,45 +153,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.왕실의기사대결.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.왕실의기사대결.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.메이즈러너.Main2" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.메이즈러너.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Samsung.포탑부수기.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.포탑부수기.Main3" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Samsung.포탑부수기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Samsung.포탑부수기.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Samsung.포탑부수기.Main3" />
       <module name="Algorithm" />
@@ -190,19 +180,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BackTracking.백준2169번_로봇조종하기.Main" />
+      <item itemvalue="Application.DFSBFS.백준2169번_로봇조종하기.Main" />
       <item itemvalue="Application.Kruskal.백준1647번_도시분할계획.Main" />
       <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Main" />
       <item itemvalue="Application.Kruskal.백준2887번_행성터널.Main" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BackTracking.백준2169번_로봇조종하기.Main" />
+        <item itemvalue="Application.DFSBFS.백준2169번_로봇조종하기.Main" />
         <item itemvalue="Application.Kruskal.백준2887번_행성터널.Main" />
         <item itemvalue="Application.Kruskal.백준1647번_도시분할계획.Main" />
         <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -369,6 +359,7 @@
       <workItem from="1706380861329" duration="361000" />
       <workItem from="1706431267955" duration="61000" />
       <workItem from="1706546212537" duration="7181000" />
+      <workItem from="1706636555903" duration="14174000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
