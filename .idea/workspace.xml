@@ -80,7 +80,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Kruskal.백준1944번_복제로봇.Main">
     <configuration name="BackTracking.백준2169번_로봇조종하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BackTracking.백준2169번_로봇조종하기.Main" />
       <module name="Algorithm" />
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSBFS.백준2169번_로봇조종하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2169번_로봇조종하기.Main" />
+    <configuration name="Kruskal.백준1944번_복제로봇.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1944번_복제로봇.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준2169번_로봇조종하기.*" />
+          <option name="PATTERN" value="Kruskal.백준1944번_복제로봇.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kruskal.백준1647번_도시분할계획.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1647번_도시분할계획.Main" />
+    <configuration name="Kruskal.백준4386번_별자리만들기.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준4386번_별자리만들기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kruskal.백준1647번_도시분할계획.*" />
+          <option name="PATTERN" value="Kruskal.백준4386번_별자리만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kruskal.백준2887번_행성터널.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kruskal.백준2887번_행성터널.Main" />
+    <configuration name="Kruskal.백준4386번_별자리만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준4386번_별자리만들기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kruskal.백준2887번_행성터널.*" />
+          <option name="PATTERN" value="Kruskal.백준4386번_별자리만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +160,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Kruskal.백준1944번_복제로봇.Main" />
+      <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main" />
+      <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BackTracking.백준2169번_로봇조종하기.Main" />
-      <item itemvalue="Application.DFSBFS.백준2169번_로봇조종하기.Main" />
-      <item itemvalue="Application.Kruskal.백준1647번_도시분할계획.Main" />
-      <item itemvalue="Application.Kruskal.백준2887번_행성터널.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kruskal.백준1944번_복제로봇.Main" />
+        <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main" />
+        <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BackTracking.백준2169번_로봇조종하기.Main" />
-        <item itemvalue="Application.DFSBFS.백준2169번_로봇조종하기.Main" />
-        <item itemvalue="Application.Kruskal.백준2887번_행성터널.Main" />
-        <item itemvalue="Application.Kruskal.백준1647번_도시분할계획.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +340,7 @@
       <workItem from="1706431267955" duration="61000" />
       <workItem from="1706546212537" duration="7181000" />
       <workItem from="1706636555903" duration="14888000" />
-      <workItem from="1706722654372" duration="2514000" />
+      <workItem from="1706722654372" duration="13060000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>

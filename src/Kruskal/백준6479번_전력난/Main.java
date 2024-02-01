@@ -61,10 +61,9 @@ public class Main {
             for (Connection con : tmpList) {
                 save += con.cost;
             }
+
             System.out.println(save);
         }
-
-
     }
 
     static int find(int x) {
