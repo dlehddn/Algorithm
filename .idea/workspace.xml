@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
+      <change afterPath="$PROJECT_DIR$/src/Kakao/_2024/q4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,7 +347,8 @@
       <workItem from="1706863191759" duration="605000" />
       <workItem from="1706950895966" duration="651000" />
       <workItem from="1707124389280" duration="13527000" />
-      <workItem from="1707230062296" duration="10193000" />
+      <workItem from="1707230062296" duration="12769000" />
+      <workItem from="1707315418759" duration="1369000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
