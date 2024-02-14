@@ -38,7 +38,7 @@ class Solution {
         Collections.sort(scoreB);
 
         int beforeWin = 0;
-        int winCnt = 0;
+        int winCnt = 0; // totalCnt
         int beforeIdx = 0;
 
         for (int i = 0; i < scoreA.size(); i++) {
@@ -55,7 +55,7 @@ class Solution {
                 }
             }
         }
-        System.out.println(winCnt);
+
         if (winCnt > maxWin) {
             maxWin = winCnt;
             for (int i = 0; i < N / 2; i++) {
