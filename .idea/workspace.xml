@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
+      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q2/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +68,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -351,7 +360,12 @@
       <workItem from="1707368238624" duration="2177000" />
       <workItem from="1707401694119" duration="504000" />
       <workItem from="1707886596447" duration="3543000" />
-      <workItem from="1707921389355" duration="4531000" />
+      <workItem from="1707921389355" duration="6125000" />
+      <workItem from="1707991125796" duration="601000" />
+      <workItem from="1708310558294" duration="27000" />
+      <workItem from="1708345806150" duration="15361000" />
+      <workItem from="1708421738500" duration="99000" />
+      <workItem from="1708445479465" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
