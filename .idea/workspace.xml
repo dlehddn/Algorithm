@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q4/FirstSolve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Kruskal.백준1944번_복제로봇.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kruskal.백준1944번_복제로봇.Main" />
       <module name="Algorithm" />
@@ -130,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kruskal.백준6479번_전력난.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kruskal.백준6479번_전력난.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kruskal.백준1944번_복제로봇.Main2" />
       <module name="Algorithm" />
@@ -156,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Samsung.포탑부수기.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.포탑부수기.Main3" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kakao._2023.q4.Solution" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Samsung.포탑부수기.*" />
+          <option name="PATTERN" value="Kakao._2023.q4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,20 +157,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Samsung.포탑부수기.Main3" />
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Kruskal.백준1944번_복제로봇.Main" />
       <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main" />
       <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main (1)" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Kruskal.백준1944번_복제로봇.Main" />
         <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main" />
         <item itemvalue="Application.Kruskal.백준4386번_별자리만들기.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +353,10 @@
       <workItem from="1708421738500" duration="99000" />
       <workItem from="1708445479465" duration="2000" />
       <workItem from="1708574164399" duration="3197000" />
+      <workItem from="1708577468190" duration="660000" />
+      <workItem from="1708744158832" duration="90000" />
+      <workItem from="1709123772414" duration="2378000" />
+      <workItem from="1709126162316" duration="3223000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
