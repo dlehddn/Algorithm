@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q4/FirstSolve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q5/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kakao/_2023/q6/FirstSolve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kakao/_2023/q6/FirstSolve.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +356,12 @@
       <workItem from="1708577468190" duration="660000" />
       <workItem from="1708744158832" duration="90000" />
       <workItem from="1709123772414" duration="2378000" />
-      <workItem from="1709126162316" duration="8456000" />
+      <workItem from="1709126162316" duration="14382000" />
+      <workItem from="1709218788364" duration="11000" />
+      <workItem from="1709612769654" duration="610000" />
+      <workItem from="1709623141946" duration="605000" />
+      <workItem from="1709644286370" duration="598000" />
+      <workItem from="1709739937349" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -641,15 +646,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Kakao/_2023/q6/Solution.java</url>
-          <line>18</line>
-          <properties class="Kakao._2023.q6.Solution" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
