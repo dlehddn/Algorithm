@@ -88,7 +88,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kakao._2022.성격유형검사하기.Solution">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Kakao._2022.성격유형검사하기.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kakao._2022.성격유형검사하기.Solution" />
       <module name="Algorithm" />
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kruskal.백준1944번_복제로봇.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1944번_복제로봇.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준2668번.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kruskal.백준1944번_복제로봇.*" />
+          <option name="PATTERN" value="Greedy.백준2668번.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,19 +155,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Kakao._2022.성격유형검사하기.Solution" />
       <item itemvalue="Application.Kakao._2023.q6.Solution" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Kruskal.백준1944번_복제로봇.Main" />
       <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Kakao._2022.성격유형검사하기.Solution" />
         <item itemvalue="Application.Kakao._2023.q6.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Kruskal.백준1944번_복제로봇.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +362,8 @@
       <workItem from="1709739937349" duration="5054000" />
       <workItem from="1709748743421" duration="2778000" />
       <workItem from="1709799286858" duration="8000" />
-      <workItem from="1709809376055" duration="4123000" />
+      <workItem from="1709809376055" duration="5669000" />
+      <workItem from="1709818084633" duration="1916000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
