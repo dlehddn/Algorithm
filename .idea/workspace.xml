@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/Kakao/_2023/q5/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kakao/_2023/q6/FirstSolve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kakao/_2023/q6/FirstSolve.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -362,7 +360,9 @@
       <workItem from="1709623141946" duration="605000" />
       <workItem from="1709644286370" duration="598000" />
       <workItem from="1709739937349" duration="5054000" />
-      <workItem from="1709748743421" duration="2722000" />
+      <workItem from="1709748743421" duration="2778000" />
+      <workItem from="1709799286858" duration="8000" />
+      <workItem from="1709809376055" duration="4123000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
