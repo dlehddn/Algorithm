@@ -94,13 +94,13 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoPointer.백준2467번_용액.Main">
-    <configuration name="Kakao._2022.성격유형검사하기.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kakao._2022.성격유형검사하기.Solution" />
+  <component name="RunManager" selected="Application.BinarySearch.백준2110번_공유기설치.Main">
+    <configuration name="BinarySearch.백준1654번_랜선자르기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준1654번_랜선자르기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kakao._2022.성격유형검사하기.*" />
+          <option name="PATTERN" value="BinarySearch.백준1654번_랜선자르기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2668번_숫자고르기.Main" />
+    <configuration name="BinarySearch.백준2110번_공유기설치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2110번_공유기설치.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준2668번_숫자고르기.*" />
+          <option name="PATTERN" value="BinarySearch.백준2110번_공유기설치.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,19 +161,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BinarySearch.백준1654번_랜선자르기.Main" />
+      <item itemvalue="Application.BinarySearch.백준2110번_공유기설치.Main" />
       <item itemvalue="Application.TwoPointer.백준1806번_부분합.Main" />
       <item itemvalue="Application.TwoPointer.백준2467번_용액.Main" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Simulation.백준16234번_인구이동.Main" />
-      <item itemvalue="Application.Kakao._2022.성격유형검사하기.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch.백준2110번_공유기설치.Main" />
+        <item itemvalue="Application.BinarySearch.백준1654번_랜선자르기.Main" />
         <item itemvalue="Application.TwoPointer.백준2467번_용액.Main" />
         <item itemvalue="Application.TwoPointer.백준1806번_부분합.Main" />
         <item itemvalue="Application.Simulation.백준16234번_인구이동.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Kakao._2022.성격유형검사하기.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +374,7 @@
       <workItem from="1709832401073" duration="1873000" />
       <workItem from="1709985180034" duration="219000" />
       <workItem from="1709985405068" duration="194000" />
-      <workItem from="1709985606696" duration="12228000" />
+      <workItem from="1709985606696" duration="18073000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
