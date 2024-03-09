@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준16234번_인구이동/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준16234번_인구이동/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/dongwoo/workspace/Algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -64,7 +68,8 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18820225&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -88,7 +93,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Simulation.백준16234번_인구이동.Main">
     <configuration name="Kakao._2022.성격유형검사하기.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kakao._2022.성격유형검사하기.Solution" />
       <module name="Algorithm" />
@@ -116,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2668번.Main" />
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2668번_숫자고르기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준2668번.*" />
+          <option name="PATTERN" value="DFSBFS.백준2668번_숫자고르기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1944번_복제로봇.Main2" />
+    <configuration name="Simulation.백준16234번_인구이동.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준16234번_인구이동.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kruskal.백준1944번_복제로봇.*" />
+          <option name="PATTERN" value="Simulation.백준16234번_인구이동.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,18 +161,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Simulation.백준16234번_인구이동.Main" />
       <item itemvalue="Application.Kakao._2022.성격유형검사하기.Solution" />
       <item itemvalue="Application.Kakao._2023.q6.Solution" />
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Simulation.백준16234번_인구이동.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Kakao._2022.성격유형검사하기.Solution" />
         <item itemvalue="Application.Kakao._2023.q6.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +368,12 @@
       <workItem from="1709748743421" duration="2778000" />
       <workItem from="1709799286858" duration="8000" />
       <workItem from="1709809376055" duration="5669000" />
-      <workItem from="1709818084633" duration="1916000" />
+      <workItem from="1709818084633" duration="11127000" />
+      <workItem from="1709830432834" duration="1488000" />
+      <workItem from="1709832401073" duration="1873000" />
+      <workItem from="1709985180034" duration="219000" />
+      <workItem from="1709985405068" duration="194000" />
+      <workItem from="1709985606696" duration="1447000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -525,6 +535,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="update" />
@@ -591,6 +612,11 @@
           <line>66</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Simulation/백준11559번_PuyoPuyo/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="4" />
@@ -612,6 +638,12 @@
           <line>17</line>
           <properties field="playerMap" class="Samsung.싸움땅.Main2" />
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Simulation/백준11559번_PuyoPuyo/Main.java</url>
+          <line>10</line>
+          <properties field="visited" class="Simulation.백준11559번_PuyoPuyo.Main" />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Samsung/포탑부수기/Main.java</url>
