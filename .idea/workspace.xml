@@ -94,7 +94,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch.백준2110번_공유기설치.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BinarySearch.백준1654번_랜선자르기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.백준1654번_랜선자르기.Main" />
       <module name="Algorithm" />
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simulation.백준16234번_인구이동.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.백준16234번_인구이동.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackQueue.백준2493번_탑.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simulation.백준16234번_인구이동.*" />
+          <option name="PATTERN" value="StackQueue.백준2493번_탑.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,15 +165,15 @@
       <item itemvalue="Application.BinarySearch.백준2110번_공유기설치.Main" />
       <item itemvalue="Application.TwoPointer.백준1806번_부분합.Main" />
       <item itemvalue="Application.TwoPointer.백준2467번_용액.Main" />
-      <item itemvalue="Application.Simulation.백준16234번_인구이동.Main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BinarySearch.백준2110번_공유기설치.Main" />
         <item itemvalue="Application.BinarySearch.백준1654번_랜선자르기.Main" />
         <item itemvalue="Application.TwoPointer.백준2467번_용액.Main" />
         <item itemvalue="Application.TwoPointer.백준1806번_부분합.Main" />
-        <item itemvalue="Application.Simulation.백준16234번_인구이동.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +374,7 @@
       <workItem from="1709832401073" duration="1873000" />
       <workItem from="1709985180034" duration="219000" />
       <workItem from="1709985405068" duration="194000" />
-      <workItem from="1709985606696" duration="18073000" />
+      <workItem from="1709985606696" duration="20387000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
