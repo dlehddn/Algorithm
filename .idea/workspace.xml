@@ -95,13 +95,13 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준2206번_벽부수고이동하기.Main">
-    <configuration name="BinarySearch.백준2110번_공유기설치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2110번_공유기설치.Main" />
+  <component name="RunManager" selected="Application.BruteForce.백준3687번_성냥개비.Main">
+    <configuration name="BruteForce.백준1027번_고층건물.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준1027번_고층건물.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.백준2110번_공유기설치.*" />
+          <option name="PATTERN" value="BruteForce.백준1027번_고층건물.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +115,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BruteForce.백준1253번_좋다.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BruteForce.백준3687번_성냥개비.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준3687번_성냥개비.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BruteForce.백준3687번_성냥개비.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,33 +161,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackQueue.백준2493번_탑.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StackQueue.백준2493번_탑.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.BruteForce.백준1027번_고층건물.Main" />
       <item itemvalue="Application.BruteForce.백준1253번_좋다.Main" />
+      <item itemvalue="Application.BruteForce.백준3687번_성냥개비.Main" />
       <item itemvalue="Application.DFSBFS.백준2206번_벽부수고이동하기.Main" />
       <item itemvalue="Application.DFSBFS.백준2206번_벽부수고이동하기.Main (1)" />
-      <item itemvalue="Application.BinarySearch.백준2110번_공유기설치.Main" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce.백준3687번_성냥개비.Main" />
+        <item itemvalue="Application.BruteForce.백준1027번_고층건물.Main" />
         <item itemvalue="Application.DFSBFS.백준2206번_벽부수고이동하기.Main" />
         <item itemvalue="Application.DFSBFS.백준2206번_벽부수고이동하기.Main (1)" />
         <item itemvalue="Application.BruteForce.백준1253번_좋다.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BinarySearch.백준2110번_공유기설치.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +376,7 @@
       <workItem from="1709985180034" duration="219000" />
       <workItem from="1709985405068" duration="194000" />
       <workItem from="1709985606696" duration="20591000" />
-      <workItem from="1710055840661" duration="10225000" />
+      <workItem from="1710055840661" duration="17175000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
