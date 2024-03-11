@@ -54,7 +54,6 @@ public class Main {
                 int nY = poll.y + dy[i];
                 int nX = poll.x + dx[i];
                 if (nY < 0 || nX < 0 || nY >= N || nX >= M) continue;
-
                 if (map[nY][nX] == 0 && !visited[nY][nX][poll.wall]) {
                     visited[nY][nX][poll.wall] = true;
                     q.add(new Node(nY, nX, poll.move + 1, poll.wall, poll.sun * -1));
