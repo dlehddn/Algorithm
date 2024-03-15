@@ -99,7 +99,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.BruteForce.백준2512번_예산.Main">
     <configuration name="BruteForce.백준2252번_줄세우기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준2252번_줄세우기.Main" />
       <module name="Algorithm" />
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준11066번_파일합치기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준11066번_파일합치기.Main" />
+    <configuration name="BruteForce.백준2512번_예산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준2512번_예산.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준11066번_파일합치기.*" />
+          <option name="PATTERN" value="BruteForce.백준2512번_예산.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Floyd.백준11404번_플로이드.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Floyd.백준11404번_플로이드.Main" />
+    <configuration name="DP.백준11066번_파일합치기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준11066번_파일합치기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Floyd.백준11404번_플로이드.*" />
+          <option name="PATTERN" value="DP.백준11066번_파일합치기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
       <item itemvalue="Application.BruteForce.백준2252번_줄세우기.Main" />
       <item itemvalue="Application.DP.백준11066번_파일합치기.Main" />
       <item itemvalue="Application.Heap.백준11066번_파일합치기.Main" />
-      <item itemvalue="Application.Floyd.백준11404번_플로이드.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BruteForce.백준2252번_줄세우기.Main" />
         <item itemvalue="Application.DP.백준11066번_파일합치기.Main" />
         <item itemvalue="Application.Heap.백준11066번_파일합치기.Main" />
-        <item itemvalue="Application.Floyd.백준11404번_플로이드.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -386,6 +386,7 @@
       <workItem from="1710176482701" duration="6228000" />
       <workItem from="1710224124757" duration="20510000" />
       <workItem from="1710347956843" duration="7000" />
+      <workItem from="1710520650005" duration="2262000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -628,6 +629,16 @@
           <url>file://$PROJECT_DIR$/src/Simulation/백준11559번_PuyoPuyo/Main.java</url>
           <line>5</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/백준2512번_예산/Main.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/백준2512번_예산/Main.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
