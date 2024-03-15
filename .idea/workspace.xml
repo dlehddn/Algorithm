@@ -99,7 +99,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackQueue.백준2164번_카드2.Main">
+  <component name="RunManager" selected="Application.DFSBFS.백준1260번_DFS와BFS.Main">
     <configuration name="BruteForce.백준2252번_줄세우기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준2252번_줄세우기.Main" />
       <module name="Algorithm" />
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준11066번_파일합치기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준11066번_파일합치기.Main" />
+    <configuration name="DFSBFS.백준1260번_DFS와BFS.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1260번_DFS와BFS.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준11066번_파일합치기.*" />
+          <option name="PATTERN" value="DFSBFS.백준1260번_DFS와BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,18 +167,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
+      <item itemvalue="Application.DFSBFS.백준1260번_DFS와BFS.Main" />
       <item itemvalue="Application.StackQueue.백준2164번_카드2.Main" />
       <item itemvalue="Application.BruteForce.백준2252번_줄세우기.Main" />
-      <item itemvalue="Application.DP.백준11066번_파일합치기.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준1260번_DFS와BFS.Main" />
         <item itemvalue="Application.StackQueue.백준2164번_카드2.Main" />
         <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BruteForce.백준2252번_줄세우기.Main" />
-        <item itemvalue="Application.DP.백준11066번_파일합치기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +386,7 @@
       <workItem from="1710176482701" duration="6228000" />
       <workItem from="1710224124757" duration="20510000" />
       <workItem from="1710347956843" duration="7000" />
-      <workItem from="1710520650005" duration="2838000" />
+      <workItem from="1710520650005" duration="3380000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
