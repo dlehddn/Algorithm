@@ -97,7 +97,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Simulation.백준1406번_에디터.Main">
+  <component name="RunManager" selected="Application.DP.백준13549번_숨바꼭질3.Main">
     <configuration name="BruteForce.백준2512번_예산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준2512번_예산.Main" />
       <module name="Algorithm" />
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TopologicalSort.백준2637번_장난감조립.Main" />
+    <configuration name="DP.백준13549번_숨바꼭질3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준13549번_숨바꼭질3.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TopologicalSort.백준2637번_장난감조립.*" />
+          <option name="PATTERN" value="DP.백준13549번_숨바꼭질3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +164,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DP.백준13549번_숨바꼭질3.Main" />
       <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
       <item itemvalue="Application.DFSBFS.백준1260번_DFS와BFS.Main" />
       <item itemvalue="Application.Simulation.백준1406번_에디터.Main" />
       <item itemvalue="Application.StackQueue.백준2164번_카드2.Main" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준13549번_숨바꼭질3.Main" />
         <item itemvalue="Application.Simulation.백준1406번_에디터.Main" />
         <item itemvalue="Application.DFSBFS.백준1260번_DFS와BFS.Main" />
         <item itemvalue="Application.StackQueue.백준2164번_카드2.Main" />
         <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +385,7 @@
       <workItem from="1710224124757" duration="20510000" />
       <workItem from="1710347956843" duration="7000" />
       <workItem from="1710520650005" duration="7126000" />
-      <workItem from="1710670112670" duration="4504000" />
+      <workItem from="1710670112670" duration="11983000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
