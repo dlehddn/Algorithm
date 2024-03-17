@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
+      <change afterPath="$PROJECT_DIR$/src/Simulation/백준1406번_에디터/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopologicalSort/백준2252번_줄세우기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopologicalSort/백준2252번_줄세우기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopologicalSort/백준2252번_줄세우기/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopologicalSort/백준2252번_줄세우기/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopologicalSort/백준2637번_장난감조립/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopologicalSort/백준2637번_장난감조립/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,20 +97,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준1260번_DFS와BFS.Main">
-    <configuration name="BruteForce.백준2252번_줄세우기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.백준2252번_줄세우기.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BruteForce.백준2252번_줄세우기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Simulation.백준1406번_에디터.Main">
     <configuration name="BruteForce.백준2512번_예산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준2512번_예산.Main" />
       <module name="Algorithm" />
@@ -152,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Simulation.백준1406번_에디터.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준1406번_에디터.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Simulation.백준1406번_에디터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackQueue.백준2164번_카드2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackQueue.백준2164번_카드2.Main" />
       <module name="Algorithm" />
@@ -168,17 +166,17 @@
     <list>
       <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
       <item itemvalue="Application.DFSBFS.백준1260번_DFS와BFS.Main" />
+      <item itemvalue="Application.Simulation.백준1406번_에디터.Main" />
       <item itemvalue="Application.StackQueue.백준2164번_카드2.Main" />
-      <item itemvalue="Application.BruteForce.백준2252번_줄세우기.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Simulation.백준1406번_에디터.Main" />
         <item itemvalue="Application.DFSBFS.백준1260번_DFS와BFS.Main" />
         <item itemvalue="Application.StackQueue.백준2164번_카드2.Main" />
         <item itemvalue="Application.BruteForce.백준2512번_예산.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BruteForce.백준2252번_줄세우기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +384,8 @@
       <workItem from="1710176482701" duration="6228000" />
       <workItem from="1710224124757" duration="20510000" />
       <workItem from="1710347956843" duration="7000" />
-      <workItem from="1710520650005" duration="3380000" />
+      <workItem from="1710520650005" duration="7126000" />
+      <workItem from="1710670112670" duration="4504000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
