@@ -97,7 +97,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준1446번_지름길.Main">
+  <component name="RunManager" selected="Application.TwoPointer.백준2531번_회전초밥.Main">
     <configuration name="DP.백준13549번_숨바꼭질3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준13549번_숨바꼭질3.Main" />
       <module name="Algorithm" />
@@ -137,19 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simulation.백준1406번_에디터.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulation.백준1406번_에디터.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Simulation.백준1406번_에디터.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StackQueue.백준9935번_문자열폭발.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackQueue.백준9935번_문자열폭발.Main" />
       <module name="Algorithm" />
@@ -163,20 +150,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoPointer.백준2531번_회전초밥.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준2531번_회전초밥.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoPointer.백준2531번_회전초밥.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.DP.백준1446번_지름길.Main" />
       <item itemvalue="Application.StackQueue.백준9935번_문자열폭발.Main" />
+      <item itemvalue="Application.TwoPointer.백준2531번_회전초밥.Main" />
       <item itemvalue="Application.DP.백준13549번_숨바꼭질3.Main" />
-      <item itemvalue="Application.Simulation.백준1406번_에디터.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoPointer.백준2531번_회전초밥.Main" />
         <item itemvalue="Application.DP.백준1446번_지름길.Main" />
         <item itemvalue="Application.StackQueue.백준9935번_문자열폭발.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DP.백준13549번_숨바꼭질3.Main" />
-        <item itemvalue="Application.Simulation.백준1406번_에디터.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +386,7 @@
       <workItem from="1710347956843" duration="7000" />
       <workItem from="1710520650005" duration="7126000" />
       <workItem from="1710670112670" duration="13809000" />
-      <workItem from="1710756418686" duration="11069000" />
+      <workItem from="1710756418686" duration="12857000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -634,6 +634,11 @@
           <url>file://$PROJECT_DIR$/src/StackQueue/백준9935번_문자열폭발/Main.java</url>
           <line>18</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoPointer/백준2531번_회전초밥/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
