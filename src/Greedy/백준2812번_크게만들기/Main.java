@@ -1,4 +1,4 @@
-package Greedy.백준1715번_카드정렬하기.백준2812번_크게만들기;
+package Greedy.백준2812번_크게만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
