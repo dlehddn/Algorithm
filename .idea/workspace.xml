@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/백준14940번_쉬운최단거리/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,17 +92,18 @@
       <recent name="$PROJECT_DIR$/src/SWEA/보물상자비밀번호" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="StringAndArray.백준2607번_비슷한단어" />
       <recent name="DFSBFS.백준16933번_벽부수고이동하기3" />
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DP.백준13305번_주유소.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준13305번_주유소.Main" />
+  <component name="RunManager" selected="Application.DFSBFS.백준9205번_맥주마시면서걸어가기.Main">
+    <configuration name="DFSBFS.백준9205번_맥주마시면서걸어가기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준9205번_맥주마시면서걸어가기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준13305번_주유소.*" />
+          <option name="PATTERN" value="DFSBFS.백준9205번_맥주마시면서걸어가기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준1446번_지름길.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준1446번_지름길.Main" />
+    <configuration name="DP.백준13305번_주유소.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준13305번_주유소.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준1446번_지름길.*" />
+          <option name="PATTERN" value="DP.백준13305번_주유소.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +164,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DFSBFS.백준9205번_맥주마시면서걸어가기.Main" />
       <item itemvalue="Application.DP.백준13305번_주유소.Main" />
-      <item itemvalue="Application.DP.백준1446번_지름길.Main" />
       <item itemvalue="Application.Dijkstra.백준7569번_토마토.Main" />
       <item itemvalue="Application.TwoPointer.백준2531번_회전초밥.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준9205번_맥주마시면서걸어가기.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Dijkstra.백준7569번_토마토.Main" />
         <item itemvalue="Application.DP.백준13305번_주유소.Main" />
         <item itemvalue="Application.TwoPointer.백준2531번_회전초밥.Main" />
-        <item itemvalue="Application.DP.백준1446번_지름길.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +386,9 @@
       <workItem from="1710347956843" duration="7000" />
       <workItem from="1710520650005" duration="7126000" />
       <workItem from="1710670112670" duration="13809000" />
-      <workItem from="1710756418686" duration="18903000" />
+      <workItem from="1710756418686" duration="19600000" />
+      <workItem from="1710836180130" duration="10000" />
+      <workItem from="1710928623194" duration="2067000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
