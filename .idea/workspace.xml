@@ -97,7 +97,7 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준9205번_맥주마시면서걸어가기.Main">
+  <component name="RunManager" selected="Application.Greedy.백준1715번_카드정렬하기.Main">
     <configuration name="DFSBFS.백준9205번_맥주마시면서걸어가기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준9205번_맥주마시면서걸어가기.Main" />
       <module name="Algorithm" />
@@ -137,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Greedy.백준1715번_카드정렬하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준1715번_카드정렬하기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.백준1715번_카드정렬하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringAndArray.Main" />
       <module name="Algorithm" />
@@ -150,33 +163,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointer.백준2531번_회전초밥.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준2531번_회전초밥.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoPointer.백준2531번_회전초밥.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DFSBFS.백준9205번_맥주마시면서걸어가기.Main" />
+      <item itemvalue="Application.Greedy.백준1715번_카드정렬하기.Main" />
       <item itemvalue="Application.DP.백준13305번_주유소.Main" />
       <item itemvalue="Application.Dijkstra.백준7569번_토마토.Main" />
-      <item itemvalue="Application.TwoPointer.백준2531번_회전초밥.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준1715번_카드정렬하기.Main" />
         <item itemvalue="Application.DFSBFS.백준9205번_맥주마시면서걸어가기.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Dijkstra.백준7569번_토마토.Main" />
         <item itemvalue="Application.DP.백준13305번_주유소.Main" />
-        <item itemvalue="Application.TwoPointer.백준2531번_회전초밥.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +388,7 @@
       <workItem from="1710670112670" duration="13809000" />
       <workItem from="1710756418686" duration="19600000" />
       <workItem from="1710836180130" duration="10000" />
-      <workItem from="1710928623194" duration="2067000" />
+      <workItem from="1710928623194" duration="3338000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
