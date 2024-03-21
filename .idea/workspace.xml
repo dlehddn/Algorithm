@@ -44,45 +44,45 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dongwoo/workspace/Algorithm/src/Dijkstra&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18820225&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dongwoo/workspace/Algorithm/src/DP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.splitter.proportion": "0.18820225",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DP" />
       <recent name="$PROJECT_DIR$/src/Dijkstra" />
       <recent name="$PROJECT_DIR$/src/TopologicalSort" />
-      <recent name="$PROJECT_DIR$/src/DP" />
       <recent name="$PROJECT_DIR$/src/Floyd" />
       <recent name="$PROJECT_DIR$/src/Hash" />
     </key>
@@ -99,13 +99,13 @@
       <recent name="DFSBFS.백준16933번_벽부수고이동하기3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준11727번_2XN타일링2.Main">
-    <configuration name="Comb_Per.백준15649번_N과M1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15649번_N과M1.Main" />
+  <component name="RunManager" selected="Application.DP.백준1149번_RGB거리.Main">
+    <configuration name="Comb_Per.백준1149번_RGB거리.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준1149번_RGB거리.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comb_Per.백준15649번_N과M1.*" />
+          <option name="PATTERN" value="Comb_Per.백준1149번_RGB거리.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comb_Per.백준6603번_로또.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준6603번_로또.Main" />
+    <configuration name="DP.백준1149번_RGB거리.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준1149번_RGB거리.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comb_Per.백준6603번_로또.*" />
+          <option name="PATTERN" value="DP.백준1149번_RGB거리.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,19 +160,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
-      <item itemvalue="Application.Comb_Per.백준6603번_로또.Main" />
+      <item itemvalue="Application.Comb_Per.백준1149번_RGB거리.Main" />
+      <item itemvalue="Application.DP.백준1149번_RGB거리.Main" />
       <item itemvalue="Application.DP.백준11726번_2XN타일링.Main" />
       <item itemvalue="Application.DP.백준11727번_2XN타일링2.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준1149번_RGB거리.Main" />
+        <item itemvalue="Application.Comb_Per.백준1149번_RGB거리.Main" />
         <item itemvalue="Application.DP.백준11727번_2XN타일링2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DP.백준11726번_2XN타일링.Main" />
-        <item itemvalue="Application.Comb_Per.백준6603번_로또.Main" />
-        <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +384,7 @@
       <workItem from="1710670112670" duration="13809000" />
       <workItem from="1710756418686" duration="19600000" />
       <workItem from="1710836180130" duration="10000" />
-      <workItem from="1710928623194" duration="38914000" />
+      <workItem from="1710928623194" duration="41906000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
