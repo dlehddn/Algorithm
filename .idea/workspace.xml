@@ -99,13 +99,13 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1931번_회의실배정.Main">
-    <configuration name="Comb_Per.백준15686번_치킨배달.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15686번_치킨배달.Main" />
+  <component name="RunManager" selected="Application.DP.백준11726번_2XN타일링.Main">
+    <configuration name="Comb_Per.백준15649번_N과M1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15649번_N과M1.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comb_Per.백준15686번_치킨배달.*" />
+          <option name="PATTERN" value="Comb_Per.백준15649번_N과M1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dijkstra.백준12851번_숨바꼭질2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준12851번_숨바꼭질2.Main" />
+    <configuration name="Comb_Per.백준6603번_로또.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준6603번_로또.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준12851번_숨바꼭질2.*" />
+          <option name="PATTERN" value="Comb_Per.백준6603번_로또.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dijkstra.백준13549번_숨바꼭질3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준13549번_숨바꼭질3.Main" />
+    <configuration name="DP.백준11726번_2XN타일링.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준11726번_2XN타일링.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준13549번_숨바꼭질3.*" />
+          <option name="PATTERN" value="DP.백준11726번_2XN타일링.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준13913번_숨바꼭질4.Main" />
+    <configuration name="StackQueue.백준5430번_AC.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackQueue.백준5430번_AC.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준13913번_숨바꼭질4.*" />
+          <option name="PATTERN" value="StackQueue.백준5430번_AC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Comb_Per.백준15686번_치킨배달.Main" />
-      <item itemvalue="Application.Dijkstra.백준12851번_숨바꼭질2.Main" />
-      <item itemvalue="Application.Dijkstra.백준13549번_숨바꼭질3.Main" />
+      <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
+      <item itemvalue="Application.Comb_Per.백준6603번_로또.Main" />
+      <item itemvalue="Application.DP.백준11726번_2XN타일링.Main" />
       <item itemvalue="Application.Greedy.백준1931번_회의실배정.Main" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StackQueue.백준5430번_AC.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준11726번_2XN타일링.Main" />
+        <item itemvalue="Application.Comb_Per.백준6603번_로또.Main" />
+        <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
+        <item itemvalue="Application.StackQueue.백준5430번_AC.Main" />
         <item itemvalue="Application.Greedy.백준1931번_회의실배정.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Dijkstra.백준12851번_숨바꼭질2.Main" />
-        <item itemvalue="Application.Dijkstra.백준13549번_숨바꼭질3.Main" />
-        <item itemvalue="Application.Comb_Per.백준15686번_치킨배달.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +390,7 @@
       <workItem from="1710670112670" duration="13809000" />
       <workItem from="1710756418686" duration="19600000" />
       <workItem from="1710836180130" duration="10000" />
-      <workItem from="1710928623194" duration="29978000" />
+      <workItem from="1710928623194" duration="37802000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
