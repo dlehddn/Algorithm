@@ -97,7 +97,33 @@
       <recent name="Samsung.팩맨" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준2293번_동전1.Main">
+  <component name="RunManager" selected="Application.Comb_Per.백준15686번_치킨배달.Main">
+    <configuration name="Comb_Per.백준15686번_치킨배달.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15686번_치킨배달.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comb_Per.백준15686번_치킨배달.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSBFS.백준2583번_영역구하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2583번_영역구하기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFSBFS.백준2583번_영역구하기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DP.백준2293번_동전1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준2293번_동전1.Main" />
       <module name="Algorithm" />
@@ -124,32 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준2138번_전구와스위치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2138번_전구와스위치.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준2138번_전구와스위치.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Greedy.백준2812번_크게만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2812번_크게만들기.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준2812번_크게만들기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dijkstra.백준7569번_토마토.Main" />
       <module name="Algorithm" />
@@ -164,19 +164,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Comb_Per.백준15686번_치킨배달.Main" />
+      <item itemvalue="Application.DFSBFS.백준2583번_영역구하기.Main" />
       <item itemvalue="Application.DP.백준2293번_동전1.Main" />
       <item itemvalue="Application.Greedy.백준17609번_회문.Main" />
-      <item itemvalue="Application.Greedy.백준2138번_전구와스위치.Main" />
-      <item itemvalue="Application.Greedy.백준2812번_크게만들기.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comb_Per.백준15686번_치킨배달.Main" />
+        <item itemvalue="Application.DFSBFS.백준2583번_영역구하기.Main" />
         <item itemvalue="Application.DP.백준2293번_동전1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Greedy.백준17609번_회문.Main" />
-        <item itemvalue="Application.Greedy.백준2138번_전구와스위치.Main" />
-        <item itemvalue="Application.Greedy.백준2812번_크게만들기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +388,7 @@
       <workItem from="1710670112670" duration="13809000" />
       <workItem from="1710756418686" duration="19600000" />
       <workItem from="1710836180130" duration="10000" />
-      <workItem from="1710928623194" duration="19396000" />
+      <workItem from="1710928623194" duration="24620000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
