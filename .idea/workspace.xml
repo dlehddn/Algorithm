@@ -104,20 +104,7 @@
       <recent name="DFSBFS.백준16933번_벽부수고이동하기3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준1149번_RGB거리.retry1.Main">
-    <configuration name="Comb_Per.백준1149번_RGB거리.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준1149번_RGB거리.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Comb_Per.백준1149번_RGB거리.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DFSBFS.백준2668번_숫자고르기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2668번_숫자고르기.Main" />
       <module name="Algorithm" />
@@ -170,20 +157,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준1138번_한줄로서기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.백준1138번_한줄로서기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.DP.백준1149번_RGB거리.retry1.Main" />
       <item itemvalue="Application.DFSBFS.백준2668번_숫자고르기.Main" />
-      <item itemvalue="Application.Comb_Per.백준1149번_RGB거리.Main" />
       <item itemvalue="Application.DP.백준1149번_RGB거리.Main" />
       <item itemvalue="Application.DP.백준11727번_2XN타일링2.Main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.DP.백준1149번_RGB거리.retry1.Main" />
         <item itemvalue="Application.DFSBFS.백준2668번_숫자고르기.Main" />
         <item itemvalue="Application.DP.백준11727번_2XN타일링2.Main" />
         <item itemvalue="Application.DP.백준1149번_RGB거리.Main" />
-        <item itemvalue="Application.Comb_Per.백준1149번_RGB거리.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +399,7 @@
       <workItem from="1711090290501" duration="6363000" />
       <workItem from="1711103678206" duration="5114000" />
       <workItem from="1711292955858" duration="27000" />
-      <workItem from="1713542479218" duration="5206000" />
+      <workItem from="1713542479218" duration="8017000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -653,6 +653,11 @@
           <line>35</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/백준1138번_한줄로서기/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="4" />
@@ -719,7 +724,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/DP/백준1149번_RGB거리/retry1/Main.java</url>
-          <line>44</line>
+          <line>41</line>
           <properties class="DP.백준1149번_RGB거리.retry1.Main" method="memorization">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
