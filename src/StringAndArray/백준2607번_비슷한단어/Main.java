@@ -9,6 +9,7 @@ import java.util.Map;
 public class Main {
 
     static Map<Character, Integer> initMap;
+
     static int N, result;
 
     public static void main(String[] args) throws IOException {

@@ -10,6 +10,7 @@ class Solution {
             map.put(clothes[i][1], map.getOrDefault(clothes[i][1], 1) + 1);
         }
 
+
         int product = 0;
         int temp = 1;
         for(int value : map.values()) {

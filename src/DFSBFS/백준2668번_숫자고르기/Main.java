@@ -16,7 +16,6 @@ public class Main {
     static int N;
 
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("src/Greedy/백준2668번/input.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         N = Integer.parseInt(br.readLine());
         visited = new boolean[N + 1];
