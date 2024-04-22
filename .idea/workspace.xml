@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFSBFS/백준2668번_숫자고르기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/백준2668번_숫자고르기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/백준11727번_2XN타일링2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/백준11727번_2XN타일링2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hash/프로그래머스Lv2_의상/프로그래머스Lv2의상.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hash/프로그래머스Lv2_의상/프로그래머스Lv2의상.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAndArray/백준2607번_비슷한단어/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAndArray/백준2607번_비슷한단어/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv2_124나라의숫자/프로그래머스Lv2_124나라의숫자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAndArray/프로그래머스Lv2_124나라의숫자/프로그래머스Lv2_124나라의숫자.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,26 +99,13 @@
       <recent name="DFSBFS.백준16933번_벽부수고이동하기3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.DP.백준2156번_포도주시식.Main">
     <configuration name="DFSBFS.백준2668번_숫자고르기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2668번_숫자고르기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DFSBFS.백준2668번_숫자고르기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DP.백준1149번_RGB거리.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준1149번_RGB거리.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.백준1149번_RGB거리.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준11727번_2XN타일링2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준11727번_2XN타일링2.Main" />
+    <configuration name="DP.백준1912_연속합.retry1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준1912_연속합.retry1.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준11727번_2XN타일링2.*" />
+          <option name="PATTERN" value="DP.백준1912_연속합.retry1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DP.백준2156번_포도주시식.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준2156번_포도주시식.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.백준2156번_포도주시식.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DP.백준1912_연속합.retry1.Main" />
+      <item itemvalue="Application.DP.백준2156번_포도주시식.Main" />
       <item itemvalue="Application.DP.백준1149번_RGB거리.retry1.Main" />
       <item itemvalue="Application.DFSBFS.백준2668번_숫자고르기.Main" />
-      <item itemvalue="Application.DP.백준1149번_RGB거리.Main" />
-      <item itemvalue="Application.DP.백준11727번_2XN타일링2.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준2156번_포도주시식.Main" />
+        <item itemvalue="Application.DP.백준1912_연속합.retry1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DP.백준1149번_RGB거리.retry1.Main" />
         <item itemvalue="Application.DFSBFS.백준2668번_숫자고르기.Main" />
-        <item itemvalue="Application.DP.백준11727번_2XN타일링2.Main" />
-        <item itemvalue="Application.DP.백준1149번_RGB거리.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +394,9 @@
       <workItem from="1711090290501" duration="6363000" />
       <workItem from="1711103678206" duration="5114000" />
       <workItem from="1711292955858" duration="27000" />
-      <workItem from="1713542479218" duration="8017000" />
+      <workItem from="1713542479218" duration="8195000" />
+      <workItem from="1713599619672" duration="10000" />
+      <workItem from="1713784108446" duration="4825000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -730,6 +727,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DP/백준2156번_포도주시식/Main.java</url>
+          <line>13</line>
+          <properties class="DP.백준2156번_포도주시식.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
