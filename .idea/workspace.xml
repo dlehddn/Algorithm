@@ -99,7 +99,7 @@
       <recent name="DFSBFS.백준16933번_벽부수고이동하기3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1439번_뒤집기.Main">
+  <component name="RunManager" selected="Application.Greedy.백준1874번_스택수열.Main">
     <configuration name="DFSBFS.벽부수고이동하기_다시풀기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.벽부수고이동하기_다시풀기.Main" />
       <module name="Algorithm" />
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준2631번_줄세우기.retry.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2631번_줄세우기.retry.Main" />
+    <configuration name="Greedy.백준1439번_뒤집기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준1439번_뒤집기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2631번_줄세우기.retry.*" />
+          <option name="PATTERN" value="Greedy.백준1439번_뒤집기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준1439번_뒤집기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1439번_뒤집기.Main" />
+    <configuration name="Greedy.백준1874번_스택수열.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준1874번_스택수열.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준1439번_뒤집기.*" />
+          <option name="PATTERN" value="Greedy.백준1874번_스택수열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Greedy.백준1874번_스택수열.Main" />
       <item itemvalue="Application.DFSBFS.벽부수고이동하기_다시풀기.Main" />
-      <item itemvalue="Application.DP.백준2631번_줄세우기.retry.Main" />
       <item itemvalue="Application.Greedy.백준1439번_뒤집기.Main" />
       <item itemvalue="Application.Greedy.백준2012번_등수매기기.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준1874번_스택수열.Main" />
         <item itemvalue="Application.Greedy.백준1439번_뒤집기.Main" />
         <item itemvalue="Application.Greedy.백준2012번_등수매기기.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DFSBFS.벽부수고이동하기_다시풀기.Main" />
-        <item itemvalue="Application.DP.백준2631번_줄세우기.retry.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +396,9 @@
       <workItem from="1711292955858" duration="27000" />
       <workItem from="1713542479218" duration="8195000" />
       <workItem from="1713599619672" duration="10000" />
-      <workItem from="1713784108446" duration="18913000" />
+      <workItem from="1713784108446" duration="19044000" />
+      <workItem from="1713937430099" duration="1041000" />
+      <workItem from="1713947190229" duration="3014000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
