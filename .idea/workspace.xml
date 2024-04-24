@@ -99,13 +99,13 @@
       <recent name="DFSBFS.백준16933번_벽부수고이동하기3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1874번_스택수열.Main">
-    <configuration name="DFSBFS.벽부수고이동하기_다시풀기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.벽부수고이동하기_다시풀기.Main" />
+  <component name="RunManager" selected="Application.Dijkstra.백준10282번_해킹.Main">
+    <configuration name="Dijkstra.백준10282번_해킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준10282번_해킹.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.벽부수고이동하기_다시풀기.*" />
+          <option name="PATTERN" value="Dijkstra.백준10282번_해킹.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Dijkstra.백준10282번_해킹.Main" />
       <item itemvalue="Application.Greedy.백준1874번_스택수열.Main" />
-      <item itemvalue="Application.DFSBFS.벽부수고이동하기_다시풀기.Main" />
       <item itemvalue="Application.Greedy.백준1439번_뒤집기.Main" />
       <item itemvalue="Application.Greedy.백준2012번_등수매기기.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dijkstra.백준10282번_해킹.Main" />
         <item itemvalue="Application.Greedy.백준1874번_스택수열.Main" />
         <item itemvalue="Application.Greedy.백준1439번_뒤집기.Main" />
         <item itemvalue="Application.Greedy.백준2012번_등수매기기.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DFSBFS.벽부수고이동하기_다시풀기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +398,7 @@
       <workItem from="1713599619672" duration="10000" />
       <workItem from="1713784108446" duration="19044000" />
       <workItem from="1713937430099" duration="1041000" />
-      <workItem from="1713947190229" duration="3014000" />
+      <workItem from="1713947190229" duration="5544000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -656,6 +656,11 @@
           <url>file://$PROJECT_DIR$/src/Greedy/백준1138번_한줄로서기/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dijkstra/백준10282번_해킹/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
