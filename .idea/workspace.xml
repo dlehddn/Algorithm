@@ -100,39 +100,13 @@
       <recent name="DFSBFS.백준16933번_벽부수고이동하기3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준20922번_겹치는건싫어.Main">
-    <configuration name="DP.백준2579번_계단오르기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2579번_계단오르기.Main" />
+  <component name="RunManager" selected="Application.BruteForce.백준2636번_치즈.Main">
+    <configuration name="BruteForce.백준2636번_치즈.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준2636번_치즈.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2579번_계단오르기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dijkstra.백준10282번_해킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준10282번_해킹.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dijkstra.백준10282번_해킹.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Greedy.백준1874번_스택수열.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1874번_스택수열.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준1874번_스택수열.*" />
+          <option name="PATTERN" value="BruteForce.백준2636번_치즈.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,20 +140,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackQueue.백준17298번_오큰수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackQueue.백준17298번_오큰수.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackQueue.백준17298번_오큰수.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoPointer.백준21921번_블로그.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준21921번_블로그.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoPointer.백준21921번_블로그.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DP.백준2579번_계단오르기.Main" />
+      <item itemvalue="Application.BruteForce.백준2636번_치즈.Main" />
       <item itemvalue="Application.Greedy.백준20922번_겹치는건싫어.Main" />
-      <item itemvalue="Application.Dijkstra.백준10282번_해킹.Main" />
-      <item itemvalue="Application.Greedy.백준1874번_스택수열.Main" />
+      <item itemvalue="Application.StackQueue.백준17298번_오큰수.Main" />
+      <item itemvalue="Application.TwoPointer.백준21921번_블로그.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce.백준2636번_치즈.Main" />
+        <item itemvalue="Application.StackQueue.백준17298번_오큰수.Main" />
+        <item itemvalue="Application.TwoPointer.백준21921번_블로그.Main" />
         <item itemvalue="Application.Greedy.백준20922번_겹치는건싫어.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DP.백준2579번_계단오르기.Main" />
-        <item itemvalue="Application.Dijkstra.백준10282번_해킹.Main" />
-        <item itemvalue="Application.Greedy.백준1874번_스택수열.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +400,7 @@
       <workItem from="1713784108446" duration="19044000" />
       <workItem from="1713937430099" duration="1041000" />
       <workItem from="1713947190229" duration="5544000" />
-      <workItem from="1713969365794" duration="6033000" />
+      <workItem from="1713969365794" duration="15997000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
