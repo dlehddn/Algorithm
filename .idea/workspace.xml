@@ -99,13 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BruteForce.백준2636번_치즈.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.백준2636번_치즈.Main" />
+  <component name="RunManager" selected="Application.Dijkstra.백준1916번_최소비용구하기.Main">
+    <configuration name="Dijkstra.백준1916번_최소비용구하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1916번_최소비용구하기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BruteForce.백준2636번_치즈.*" />
+          <option name="PATTERN" value="Dijkstra.백준1916번_최소비용구하기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Dijkstra.백준1916번_최소비용구하기.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Dijkstra.백준7576번_토마토.Main" />
-      <item itemvalue="Application.BruteForce.백준2636번_치즈.Main" />
       <item itemvalue="Application.Heap.백준1655번_가운데를말해요.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dijkstra.백준1916번_최소비용구하기.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Dijkstra.백준7576번_토마토.Main" />
         <item itemvalue="Application.Heap.백준1655번_가운데를말해요.Main" />
-        <item itemvalue="Application.BruteForce.백준2636번_치즈.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +403,9 @@
       <workItem from="1714068955882" duration="3008000" />
       <workItem from="1714147490576" duration="8048000" />
       <workItem from="1714719424226" duration="7000" />
-      <workItem from="1715238462548" duration="1033000" />
+      <workItem from="1715238462548" duration="1781000" />
+      <workItem from="1715263826592" duration="18000" />
+      <workItem from="1715532904004" duration="1345000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
