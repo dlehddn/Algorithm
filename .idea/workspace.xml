@@ -99,7 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dijkstra.백준1916번_최소비용구하기.Main">
+  <component name="RunManager" selected="Application.Recursion.백준1967번_트리의지름.Main">
     <configuration name="Dijkstra.백준1916번_최소비용구하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1916번_최소비용구하기.Main" />
       <module name="Algorithm" />
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Heap.백준1655번_가운데를말해요.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.백준1655번_가운데를말해요.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2606번_바이러스.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.백준1655번_가운데를말해요.*" />
+          <option name="PATTERN" value="DFSBFS.백준2606번_바이러스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2606번_바이러스.Main" />
+    <configuration name="Recursion.백준1967번_트리의지름.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준1967번_트리의지름.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준2606번_바이러스.*" />
+          <option name="PATTERN" value="Recursion.백준1967번_트리의지름.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,18 +167,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Dijkstra.백준1916번_최소비용구하기.Main" />
+      <item itemvalue="Application.Recursion.백준1967번_트리의지름.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Dijkstra.백준7576번_토마토.Main" />
-      <item itemvalue="Application.Heap.백준1655번_가운데를말해요.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion.백준1967번_트리의지름.Main" />
         <item itemvalue="Application.Dijkstra.백준1916번_최소비용구하기.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Dijkstra.백준7576번_토마토.Main" />
-        <item itemvalue="Application.Heap.백준1655번_가운데를말해요.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +405,7 @@
       <workItem from="1714719424226" duration="7000" />
       <workItem from="1715238462548" duration="1781000" />
       <workItem from="1715263826592" duration="18000" />
-      <workItem from="1715532904004" duration="1345000" />
+      <workItem from="1715532904004" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
