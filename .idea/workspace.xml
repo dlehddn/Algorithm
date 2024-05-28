@@ -99,13 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Recursion.백준11729번_하노이탑이동순서.Main">
-    <configuration name="Dijkstra.백준1916번_최소비용구하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1916번_최소비용구하기.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Dijkstra.백준1261번_알고스팟.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1261번_알고스팟.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준1916번_최소비용구하기.*" />
+          <option name="PATTERN" value="Dijkstra.백준1261번_알고스팟.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2606번_바이러스.Main" />
+      <option name="MAIN_CLASS_NAME" value="TopologicalSort.백준1766번_문제집.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준2606번_바이러스.*" />
+          <option name="PATTERN" value="TopologicalSort.백준1766번_문제집.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Dijkstra.백준1261번_알고스팟.Main" />
       <item itemvalue="Application.Dijkstra.백준4485번_녹색옷입은애가젤다지.Main" />
       <item itemvalue="Application.Recursion.백준11729번_하노이탑이동순서.Main" />
-      <item itemvalue="Application.Dijkstra.백준1916번_최소비용구하기.Main" />
       <item itemvalue="Application.Recursion.백준1967번_트리의지름.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Dijkstra.백준1261번_알고스팟.Main" />
         <item itemvalue="Application.Recursion.백준11729번_하노이탑이동순서.Main" />
         <item itemvalue="Application.Dijkstra.백준4485번_녹색옷입은애가젤다지.Main" />
         <item itemvalue="Application.Recursion.백준1967번_트리의지름.Main" />
-        <item itemvalue="Application.Dijkstra.백준1916번_최소비용구하기.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +406,8 @@
       <workItem from="1715238462548" duration="1781000" />
       <workItem from="1715263826592" duration="18000" />
       <workItem from="1715532904004" duration="5024000" />
-      <workItem from="1716772881355" duration="2432000" />
+      <workItem from="1716772881355" duration="3330000" />
+      <workItem from="1716862442116" duration="7145000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -669,6 +670,11 @@
           <url>file://$PROJECT_DIR$/src/Dijkstra/백준10282번_해킹/Main.java</url>
           <line>42</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TopologicalSort/백준1766번_문제집/Main.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
