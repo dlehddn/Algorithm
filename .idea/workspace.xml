@@ -99,26 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.TopologicalSort.백준2623번_음악프로그램.Main">
     <configuration name="Dijkstra.백준1261번_알고스팟.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1261번_알고스팟.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Dijkstra.백준1261번_알고스팟.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dijkstra.백준4485번_녹색옷입은애가젤다지.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준4485번_녹색옷입은애가젤다지.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dijkstra.백준4485번_녹색옷입은애가젤다지.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +139,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion.백준1967번_트리의지름.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.백준1967번_트리의지름.Main" />
+    <configuration name="TopologicalSort.백준1516번_게임개발.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TopologicalSort.백준1516번_게임개발.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.백준1967번_트리의지름.*" />
+          <option name="PATTERN" value="TopologicalSort.백준1516번_게임개발.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopologicalSort.백준2623번_음악프로그램.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TopologicalSort.백준2623번_음악프로그램.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TopologicalSort.백준2623번_음악프로그램.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TopologicalSort.백준1516번_게임개발.Main" />
+      <item itemvalue="Application.TopologicalSort.백준2623번_음악프로그램.Main" />
       <item itemvalue="Application.Dijkstra.백준1261번_알고스팟.Main" />
-      <item itemvalue="Application.Dijkstra.백준4485번_녹색옷입은애가젤다지.Main" />
       <item itemvalue="Application.Recursion.백준11729번_하노이탑이동순서.Main" />
-      <item itemvalue="Application.Recursion.백준1967번_트리의지름.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopologicalSort.백준2623번_음악프로그램.Main" />
+        <item itemvalue="Application.TopologicalSort.백준1516번_게임개발.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Dijkstra.백준1261번_알고스팟.Main" />
         <item itemvalue="Application.Recursion.백준11729번_하노이탑이동순서.Main" />
-        <item itemvalue="Application.Dijkstra.백준4485번_녹색옷입은애가젤다지.Main" />
-        <item itemvalue="Application.Recursion.백준1967번_트리의지름.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +407,8 @@
       <workItem from="1715263826592" duration="18000" />
       <workItem from="1715532904004" duration="5024000" />
       <workItem from="1716772881355" duration="3330000" />
-      <workItem from="1716862442116" duration="7145000" />
+      <workItem from="1716862442116" duration="7577000" />
+      <workItem from="1716970011118" duration="4206000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
