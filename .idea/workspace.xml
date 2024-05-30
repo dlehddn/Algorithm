@@ -99,13 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TopologicalSort.백준2623번_음악프로그램.Main">
-    <configuration name="Dijkstra.백준1261번_알고스팟.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1261번_알고스팟.Main" />
+  <component name="RunManager" selected="Application.UnionFind.백준1717번_집합의표현.Main">
+    <configuration name="Dijkstra.백준1939번_중량제한.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1939번_중량제한.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준1261번_알고스팟.*" />
+          <option name="PATTERN" value="Dijkstra.백준1939번_중량제한.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,19 +119,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TopologicalSort.백준1766번_문제집.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recursion.백준11729번_하노이탑이동순서.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.백준11729번_하노이탑이동순서.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.백준11729번_하노이탑이동순서.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,20 +152,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnionFind.백준1717번_집합의표현.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionFind.백준1717번_집합의표현.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnionFind.백준1717번_집합의표현.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Dijkstra.백준1939번_중량제한.Main" />
+      <item itemvalue="Application.UnionFind.백준1717번_집합의표현.Main" />
       <item itemvalue="Application.TopologicalSort.백준1516번_게임개발.Main" />
       <item itemvalue="Application.TopologicalSort.백준2623번_음악프로그램.Main" />
-      <item itemvalue="Application.Dijkstra.백준1261번_알고스팟.Main" />
-      <item itemvalue="Application.Recursion.백준11729번_하노이탑이동순서.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnionFind.백준1717번_집합의표현.Main" />
+        <item itemvalue="Application.Dijkstra.백준1939번_중량제한.Main" />
         <item itemvalue="Application.TopologicalSort.백준2623번_음악프로그램.Main" />
         <item itemvalue="Application.TopologicalSort.백준1516번_게임개발.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Dijkstra.백준1261번_알고스팟.Main" />
-        <item itemvalue="Application.Recursion.백준11729번_하노이탑이동순서.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +408,8 @@
       <workItem from="1715532904004" duration="5024000" />
       <workItem from="1716772881355" duration="3330000" />
       <workItem from="1716862442116" duration="7577000" />
-      <workItem from="1716970011118" duration="4206000" />
+      <workItem from="1716970011118" duration="5408000" />
+      <workItem from="1717047904995" duration="2309000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
