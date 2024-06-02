@@ -99,13 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Heap.백준11286번_절댓값힙.Main (1)">
-    <configuration name="BellmanFord.백준11657번_타임머신.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BellmanFord.백준11657번_타임머신.Main" />
+  <component name="RunManager" selected="Application.DP.백준10844번_쉬운계단수.Main">
+    <configuration name="BruteForce.백준2485번_가로수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준2485번_가로수.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BellmanFord.백준11657번_타임머신.*" />
+          <option name="PATTERN" value="BruteForce.백준2485번_가로수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BruteForce.백준2485번_가로수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.백준2485번_가로수.Main" />
+    <configuration name="DP.백준10844번_쉬운계단수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준10844번_쉬운계단수.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BruteForce.백준2485번_가로수.*" />
+          <option name="PATTERN" value="DP.백준10844번_쉬운계단수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DP.백준10844번_쉬운계단수.Main" />
       <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main" />
       <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main (1)" />
       <item itemvalue="Application.BruteForce.백준2485번_가로수.Main" />
-      <item itemvalue="Application.BellmanFord.백준11657번_타임머신.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준10844번_쉬운계단수.Main" />
         <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main (1)" />
         <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main" />
         <item itemvalue="Application.BruteForce.백준2485번_가로수.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BellmanFord.백준11657번_타임머신.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +415,8 @@
       <workItem from="1717262827749" duration="1688000" />
       <workItem from="1717264572205" duration="290000" />
       <workItem from="1717334963466" duration="302000" />
-      <workItem from="1717335275063" duration="806000" />
+      <workItem from="1717335275063" duration="2022000" />
+      <workItem from="1717337536984" duration="4552000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>

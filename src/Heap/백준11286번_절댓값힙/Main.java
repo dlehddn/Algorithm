@@ -27,10 +27,7 @@ public class Main {
                 pq.add(new Node(command));
             }
         }
-
         System.out.println(sb);
-
-
     }
 
     static class Node implements Comparable<Node>{
