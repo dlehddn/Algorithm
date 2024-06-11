@@ -7,10 +7,8 @@ import java.util.*;
 
 public class Main {
 
-    static int N, P, K;
-    static ArrayList<Node>[] graph;
-    static boolean[] visited;
-    static int[] dist;
+    static List<Edge>[] graph;
+    static int N, P, K, start, end;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -18,84 +16,72 @@ public class Main {
         N = Integer.parseInt(st.nextToken());
         P = Integer.parseInt(st.nextToken());
         K = Integer.parseInt(st.nextToken());
+        start = 0;
+        end = Integer.MIN_VALUE;
 
-        graph = new ArrayList[N + 1];
-        visited = new boolean[N + 1];
-        dist = new int[N + 1];
-        for (int i = 0; i < N + 1; i++) {
+        graph = new List[N + 1];
+        for (int i = 1; i < N + 1; i++) {
             graph[i] = new ArrayList<>();
         }
 
         for (int i = 0; i < P; i++) {
             st = new StringTokenizer(br.readLine());
-            int from = Integer.parseInt(st.nextToken());
-            int to = Integer.parseInt(st.nextToken());
+            int s = Integer.parseInt(st.nextToken());
+            int e = Integer.parseInt(st.nextToken());
             int cost = Integer.parseInt(st.nextToken());
-            graph[from].add(new Node(to, cost));
-            graph[to].add(new Node(from, cost));
+            graph[s].add(new Edge(e, cost));
+            graph[e].add(new Edge(s, cost));
+            end = Math.max(end, cost);
         }
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dijkstra();
-        if(dist[1] == Integer.MAX_VALUE) {
-            System.out.println(-1);
-        } else System.out.println(dist[1]);
+
+        System.out.println(binarySearch());
     }
 
-    static void dijkstra() {
-        PriorityQueue<Route> pq = new PriorityQueue<>((r1, r2) -> Integer.compare(r1.minCost, r2.minCost));
-        Route init = new Route(new ArrayList<>(), 0, N);
-        pq.add(init);
+    static int binarySearch() {
+        int answer = Integer.MAX_VALUE;
+
+        while (start <= end) {
+            int mid = (start + end) / 2;
+            if (bfs(mid)) {
+                end = mid - 1;
+                answer = mid;
+            } else {
+                start = mid + 1;
+            }
+        }
+        return answer == Integer.MAX_VALUE ? -1 : answer;
+    }
+
+    static boolean bfs(int mid) {
+        PriorityQueue<Edge> pq = new PriorityQueue<>(Comparator.comparingInt(e -> e.cost));
+        boolean[] visited = new boolean[N + 1];
+        pq.add(new Edge(1, 0));
 
         while (!pq.isEmpty()) {
-            Route poll = pq.poll();
-            if(visited[poll.vertex]) continue;
+            Edge poll = pq.poll();
+
+            if (visited[poll.vertex] || poll.cost > K) continue;
             visited[poll.vertex] = true;
 
-            for (Node node : graph[poll.vertex]) {
-                Route tmp = new Route(new ArrayList<>(poll.routes), poll.minCost, node.vertex);
-                tmp.routes.add(node.cost);
-                tmp.update();
-                if (dist[node.vertex] > tmp.minCost) {
-                    dist[node.vertex] = tmp.minCost;
-                    pq.add(new Route(new ArrayList<>(tmp.routes), tmp.minCost, tmp.vertex));
+            if (poll.vertex == N) return true;
+
+            for (Edge edge : graph[poll.vertex]) {
+                if (edge.cost <= mid) {
+                    pq.add(new Edge(edge.vertex, poll.cost));
+                } else {
+                    pq.add(new Edge(edge.vertex, poll.cost + 1));
                 }
             }
         }
-
+        return false;
     }
 
-    static class Node {
-        int vertex;
-        int cost;
+    static class Edge {
+        int vertex, cost;
 
-        public Node(int vertex, int cost) {
+        public Edge(int vertex, int cost) {
             this.vertex = vertex;
             this.cost = cost;
-        }
-    }
-
-    static class Route {
-        ArrayList<Integer> routes;
-        int minCost;
-        int vertex;
-
-        public Route(ArrayList<Integer> routes, int minCost, int vertex) {
-            this.routes = routes;
-            this.minCost = minCost;
-            this.vertex = vertex;
-        }
-
-        void update() {
-            if (routes.size() <= K) {
-                minCost = 0;
-            } else {
-                routes.sort(Comparator.reverseOrder());
-                minCost = routes.stream()
-                        .skip(K)
-                        .mapToInt(n -> n)
-                        .max()
-                        .orElse(-1);
-            }
         }
     }
 }

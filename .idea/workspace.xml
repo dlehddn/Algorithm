@@ -44,47 +44,47 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dongwoo/workspace/Algorithm/src/DP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18820225&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dongwoo/workspace/Algorithm/src/DFSBFS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.splitter.proportion": "0.18820225",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/DFSBFS" />
       <recent name="$PROJECT_DIR$/src/DP" />
       <recent name="$PROJECT_DIR$/src/Dijkstra" />
       <recent name="$PROJECT_DIR$/src/TopologicalSort" />
       <recent name="$PROJECT_DIR$/src/Floyd" />
-      <recent name="$PROJECT_DIR$/src/Hash" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/SWEA/활주로건설" />
@@ -99,13 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DP.백준10844번_쉬운계단수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준10844번_쉬운계단수.Main" />
+  <component name="RunManager" selected="Application.DFSBFS.백준1800번_인터넷설치.Main">
+    <configuration name="DFSBFS.백준13913번_숨바꼭질4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준13913번_숨바꼭질4.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준10844번_쉬운계단수.*" />
+          <option name="PATTERN" value="DFSBFS.백준13913번_숨바꼭질4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Heap.백준11286번_절댓값힙.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.백준11286번_절댓값힙.Main" />
+    <configuration name="DFSBFS.백준1800번_인터넷설치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1800번_인터넷설치.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.백준11286번_절댓값힙.*" />
+          <option name="PATTERN" value="DFSBFS.백준1800번_인터넷설치.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Heap.백준11286번_절댓값힙.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.백준11286번_절댓값힙.Main" />
+    <configuration name="Dijkstra.백준1800번_인터넷설치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1800번_인터넷설치.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.백준11286번_절댓값힙.*" />
+          <option name="PATTERN" value="Dijkstra.백준1800번_인터넷설치.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DFSBFS.백준13913번_숨바꼭질4.Main" />
+      <item itemvalue="Application.DFSBFS.백준1800번_인터넷설치.Main" />
+      <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main" />
       <item itemvalue="Application.Heap.백준1927번_최소힙.Main" />
-      <item itemvalue="Application.DP.백준10844번_쉬운계단수.Main" />
-      <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main" />
-      <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main (1)" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준1800번_인터넷설치.Main" />
+        <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main" />
+        <item itemvalue="Application.DFSBFS.백준13913번_숨바꼭질4.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Heap.백준1927번_최소힙.Main" />
-        <item itemvalue="Application.DP.백준10844번_쉬운계단수.Main" />
-        <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main (1)" />
-        <item itemvalue="Application.Heap.백준11286번_절댓값힙.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +419,8 @@
       <workItem from="1717337536984" duration="4648000" />
       <workItem from="1717391227303" duration="599000" />
       <workItem from="1717937048280" duration="44000" />
-      <workItem from="1718032021090" duration="4482000" />
+      <workItem from="1718032021090" duration="4877000" />
+      <workItem from="1718098121309" duration="8558000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
