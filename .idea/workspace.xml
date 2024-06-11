@@ -99,7 +99,20 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준1800번_인터넷설치.Main">
+  <component name="RunManager" selected="Application.Comb_Per.백준15663번_N과M9.Main">
+    <configuration name="Comb_Per.백준15663번_N과M9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15663번_N과M9.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comb_Per.백준15663번_N과M9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DFSBFS.백준13913번_숨바꼭질4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준13913번_숨바꼭질4.Main" />
       <module name="Algorithm" />
@@ -139,25 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Heap.백준1927번_최소힙.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Heap.백준1927번_최소힙.Main" />
+    <configuration name="Recursion.백준1167번_트리의지름.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준1167번_트리의지름.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Heap.백준1927번_최소힙.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준12865번_평범한배낭.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.백준12865번_평범한배낭.*" />
+          <option name="PATTERN" value="Recursion.백준1167번_트리의지름.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Comb_Per.백준15663번_N과M9.Main" />
       <item itemvalue="Application.DFSBFS.백준13913번_숨바꼭질4.Main" />
       <item itemvalue="Application.DFSBFS.백준1800번_인터넷설치.Main" />
       <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main" />
-      <item itemvalue="Application.Heap.백준1927번_최소힙.Main" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Recursion.백준1167번_트리의지름.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comb_Per.백준15663번_N과M9.Main" />
+        <item itemvalue="Application.Recursion.백준1167번_트리의지름.Main" />
         <item itemvalue="Application.DFSBFS.백준1800번_인터넷설치.Main" />
         <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main" />
         <item itemvalue="Application.DFSBFS.백준13913번_숨바꼭질4.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Heap.백준1927번_최소힙.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +420,7 @@
       <workItem from="1717391227303" duration="599000" />
       <workItem from="1717937048280" duration="44000" />
       <workItem from="1718032021090" duration="4877000" />
-      <workItem from="1718098121309" duration="8558000" />
+      <workItem from="1718098121309" duration="15957000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -779,6 +779,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/백준1167번_트리의지름/Main.java</url>
+          <line>42</line>
+          <properties class="Recursion.백준1167번_트리의지름.Main" method="recursion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
