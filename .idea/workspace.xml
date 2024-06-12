@@ -99,26 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackQueue.백준6549번_히스토그램에서가장큰직사각형.Main">
+  <component name="RunManager" selected="Application.Recursion.백준9466번_텀프로젝트.Main">
     <configuration name="Comb_Per.백준15663번_N과M9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15663번_N과M9.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Comb_Per.백준15663번_N과M9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFSBFS.백준1800번_인터넷설치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1800번_인터넷설치.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFSBFS.백준1800번_인터넷설치.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Recursion.백준9466번_텀프로젝트.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준9466번_텀프로젝트.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.백준9466번_텀프로젝트.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackQueue.백준6549번_히스토그램에서가장큰직사각형.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StackQueue.백준6549번_히스토그램에서가장큰직사각형.Main" />
       <module name="Algorithm" />
@@ -167,18 +167,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
       <item itemvalue="Application.StackQueue.백준6549번_히스토그램에서가장큰직사각형.Main" />
       <item itemvalue="Application.Comb_Per.백준15663번_N과M9.Main" />
-      <item itemvalue="Application.DFSBFS.백준1800번_인터넷설치.Main" />
       <item itemvalue="Application.Recursion.백준1167번_트리의지름.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
         <item itemvalue="Application.StackQueue.백준6549번_히스토그램에서가장큰직사각형.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Comb_Per.백준15663번_N과M9.Main" />
         <item itemvalue="Application.Recursion.백준1167번_트리의지름.Main" />
-        <item itemvalue="Application.DFSBFS.백준1800번_인터넷설치.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +421,7 @@
       <workItem from="1717937048280" duration="44000" />
       <workItem from="1718032021090" duration="4877000" />
       <workItem from="1718098121309" duration="16260000" />
-      <workItem from="1718181135937" duration="4758000" />
+      <workItem from="1718181135937" duration="13552000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
