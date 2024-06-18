@@ -99,7 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준3584번_가장가까운공통조상.Main">
+  <component name="RunManager" selected="Application.DP.백준2096번_내려가기.Main">
     <configuration name="DFSBFS.백준3584번_가장가까운공통조상.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준3584번_가장가까운공통조상.Main" />
       <module name="Algorithm" />
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackQueue.백준1725번_히스토그램.Main" />
+    <configuration name="DP.백준2096번_내려가기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준2096번_내려가기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackQueue.백준1725번_히스토그램.*" />
+          <option name="PATTERN" value="DP.백준2096번_내려가기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,17 +168,17 @@
     <list>
       <item itemvalue="Application.DFSBFS.백준3584번_가장가까운공통조상.Main" />
       <item itemvalue="Application.DFSBFS.백준4179번_불.Main" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DP.백준2096번_내려가기.Main" />
       <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
       <item itemvalue="Application.StackQueue.백준6549번_히스토그램에서가장큰직사각형.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준2096번_내려가기.Main" />
         <item itemvalue="Application.DFSBFS.백준3584번_가장가까운공통조상.Main" />
         <item itemvalue="Application.DFSBFS.백준4179번_불.Main" />
         <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
         <item itemvalue="Application.StackQueue.백준6549번_히스토그램에서가장큰직사각형.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +423,7 @@
       <workItem from="1718098121309" duration="16260000" />
       <workItem from="1718181135937" duration="14602000" />
       <workItem from="1718624499010" duration="17000" />
-      <workItem from="1718640138694" duration="7678000" />
+      <workItem from="1718640138694" duration="10667000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
