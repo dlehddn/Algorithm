@@ -99,7 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Hash.백준12764번_싸지방에간준하.Main">
     <configuration name="DFSBFS.백준3584번_가장가까운공통조상.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준3584번_가장가까운공통조상.Main" />
       <module name="Algorithm" />
@@ -139,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hash.백준12764번_싸지방에간준하.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash.백준12764번_싸지방에간준하.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hash.백준12764번_싸지방에간준하.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준1947번_선물전달.Main" />
       <module name="Algorithm" />
@@ -152,33 +165,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion.백준9466번_텀프로젝트.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.백준9466번_텀프로젝트.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.백준9466번_텀프로젝트.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Hash.백준12764번_싸지방에간준하.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DFSBFS.백준3584번_가장가까운공통조상.Main" />
       <item itemvalue="Application.DFSBFS.백준4179번_불.Main" />
       <item itemvalue="Application.DP.백준2096번_내려가기.Main" />
-      <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hash.백준12764번_싸지방에간준하.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DP.백준2096번_내려가기.Main" />
         <item itemvalue="Application.DFSBFS.백준3584번_가장가까운공통조상.Main" />
         <item itemvalue="Application.DFSBFS.백준4179번_불.Main" />
-        <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +425,7 @@
       <workItem from="1718624499010" duration="17000" />
       <workItem from="1718640138694" duration="11885000" />
       <workItem from="1718781617117" duration="599000" />
-      <workItem from="1719046821654" duration="964000" />
+      <workItem from="1719046821654" duration="3793000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
