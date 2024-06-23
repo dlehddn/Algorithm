@@ -99,20 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1202번_보석도둑.Main">
-    <configuration name="DP.백준2096번_내려가기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2096번_내려가기.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.백준2096번_내려가기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Heap.백준2109번_순회강연.Main">
     <configuration name="Greedy.백준1202번_보석도둑.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준1202번_보석도둑.Main" />
       <module name="Algorithm" />
@@ -152,12 +139,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준1947번_선물전달.Main" />
+    <configuration name="Heap.백준2109번_순회강연.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.백준2109번_순회강연.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준1947번_선물전달.*" />
+          <option name="PATTERN" value="Heap.백준2109번_순회강연.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Heap.백준2109번_순회강연.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.백준2109번_순회강연.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heap.백준2109번_순회강연.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,16 +169,16 @@
       <item itemvalue="Application.Greedy.백준1202번_보석도둑.Main" />
       <item itemvalue="Application.Hash.백준12764번_싸지방에간준하.Main" />
       <item itemvalue="Application.Heap.백준11003번_최솟값찾기.Main" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DP.백준2096번_내려가기.Main" />
+      <item itemvalue="Application.Heap.백준2109번_순회강연.Main" />
+      <item itemvalue="Application.Heap.백준2109번_순회강연.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Heap.백준2109번_순회강연.Main" />
+        <item itemvalue="Application.Heap.백준2109번_순회강연.Main (1)" />
         <item itemvalue="Application.Greedy.백준1202번_보석도둑.Main" />
         <item itemvalue="Application.Heap.백준11003번_최솟값찾기.Main" />
         <item itemvalue="Application.Hash.백준12764번_싸지방에간준하.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DP.백준2096번_내려가기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +425,7 @@
       <workItem from="1718624499010" duration="17000" />
       <workItem from="1718640138694" duration="11885000" />
       <workItem from="1718781617117" duration="599000" />
-      <workItem from="1719046821654" duration="9845000" />
+      <workItem from="1719046821654" duration="13444000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
