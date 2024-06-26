@@ -100,13 +100,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준18185번_라면사기Small.Main">
-    <configuration name="Greedy.백준1781번_컵라면.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1781번_컵라면.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Dijkstra.백준1854번_K번째최단경로찾기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1854번_K번째최단경로찾기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준1781번_컵라면.*" />
+          <option name="PATTERN" value="Dijkstra.백준1854번_K번째최단경로찾기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준13904번_과제.Main" />
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준1461번_도서관.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준13904번_과제.*" />
+          <option name="PATTERN" value="Greedy.백준1461번_도서관.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +167,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Dijkstra.백준1854번_K번째최단경로찾기.Main" />
       <item itemvalue="Application.Greedy.백준18185번_라면사기Small.Main" />
       <item itemvalue="Application.Greedy.백준2212번_센서.Main" />
-      <item itemvalue="Application.Greedy.백준1781번_컵라면.Main" />
       <item itemvalue="Application.Greedy.백준8980번_택배.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Dijkstra.백준1854번_K번째최단경로찾기.Main" />
         <item itemvalue="Application.Greedy.백준18185번_라면사기Small.Main" />
         <item itemvalue="Application.Greedy.백준2212번_센서.Main" />
         <item itemvalue="Application.Greedy.백준8980번_택배.Main" />
-        <item itemvalue="Application.Greedy.백준1781번_컵라면.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +428,7 @@
       <workItem from="1718781617117" duration="599000" />
       <workItem from="1719046821654" duration="15230000" />
       <workItem from="1719325256701" duration="8846000" />
-      <workItem from="1719378210306" duration="4852000" />
+      <workItem from="1719378210306" duration="11965000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -696,11 +696,6 @@
           <url>file://$PROJECT_DIR$/src/TopologicalSort/백준1766번_문제집/Main.java</url>
           <line>52</line>
           <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Greedy/백준8980번_택배/Main.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
