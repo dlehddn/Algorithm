@@ -13,7 +13,7 @@ public class Main {
 
     static int T, N;
     static int[] infos;
-    static PriorityQueue<Price> sellPoint;
+    static PriorityQueue<Price> pq;
     static Queue<Integer> buying;
 
     public static void main(String[] args) throws IOException {
@@ -23,7 +23,7 @@ public class Main {
         for (int i = 0; i < T; i++) {
             N = Integer.parseInt(br.readLine());
             infos = new int[N];
-            sellPoint = new PriorityQueue<>((p1, p2) -> {
+            pq = new PriorityQueue<>((p1, p2) -> {
                 if (p1.value != p2.value) {
                     return p2.value - p1.value;
                 } else {
@@ -35,35 +35,26 @@ public class Main {
             for (int j = 0; j < N; j++) {
                 int n = Integer.parseInt(st.nextToken());
                 infos[j] = n;
-                sellPoint.add(new Price(j, n));
+                pq.add(new Price(j, n));
             }
 
-            long max = 0;
+            long sum = 0;
             for (int j = 0; j < N; j++) {
-                Price peek = sellPoint.peek();
-                if (peek.value == infos[j]) {
-                    while (!buying.isEmpty()) {
-                        max += peek.value - buying.poll();
-                    }
-                    sellPoint.poll();
+                while (pq.peek().day < j) {
+                    pq.poll();
                 }
-//                else if (peek.value == infos[j] && peek.day != j) {
-//                    while (true) {
-//                        if (sellPoint.peek().value == infos[j] && sellPoint.peek().day < j) {
-//                            sellPoint.poll();
-//                        } else if (sellPoint.peek().value == infos[j] && sellPoint.peek().day == j) {
-//                            Price poll = sellPoint.poll();
-//                            while (!buying.isEmpty()) {
-//                                max += poll.value - buying.poll();
-//                            }
-//                        } else break;
-//                    }
-//                }
-                else {
+
+                Price peek = pq.peek();
+                if (infos[j] != peek.value) {
                     buying.add(infos[j]);
+                } else {
+                    while (!buying.isEmpty()) {
+                        sum += peek.value - buying.poll();
+                    }
+                    pq.poll();
                 }
             }
-            sb.append(max + "\n");
+            sb.append(sum + "\n");
         }
         System.out.println(sb);
     }

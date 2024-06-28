@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/Greedy/백준8980번_택배/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -429,7 +428,8 @@
       <workItem from="1719046821654" duration="15230000" />
       <workItem from="1719325256701" duration="8846000" />
       <workItem from="1719378210306" duration="13797000" />
-      <workItem from="1719466057686" duration="4533000" />
+      <workItem from="1719466057686" duration="4890000" />
+      <workItem from="1719566563537" duration="1315000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -697,6 +697,11 @@
           <url>file://$PROJECT_DIR$/src/TopologicalSort/백준1766번_문제집/Main.java</url>
           <line>52</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/백준11501번_주식/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
