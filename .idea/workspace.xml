@@ -99,7 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준11501번_주식.Main">
+  <component name="RunManager" selected="Application.Greedy.백준2141번_우체국.Main">
     <configuration name="Greedy.백준11501번_주식.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준11501번_주식.Main" />
       <module name="Algorithm" />
@@ -152,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1461번_도서관.Main" />
+    <configuration name="Greedy.백준2141번_우체국.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준2141번_우체국.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준1461번_도서관.*" />
+          <option name="PATTERN" value="Greedy.백준2141번_우체국.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Greedy.백준2141번_우체국.Main" />
       <item itemvalue="Application.Greedy.백준11501번_주식.Main" />
       <item itemvalue="Application.Greedy.백준11501번_주식.Main (1)" />
       <item itemvalue="Application.Greedy.백준11501번_주식.Main (2)" />
       <item itemvalue="Application.Greedy.백준1911번_흙길보수하기.Main" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준2141번_우체국.Main" />
         <item itemvalue="Application.Greedy.백준11501번_주식.Main" />
         <item itemvalue="Application.Greedy.백준11501번_주식.Main (2)" />
         <item itemvalue="Application.Greedy.백준11501번_주식.Main (1)" />
         <item itemvalue="Application.Greedy.백준1911번_흙길보수하기.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +429,7 @@
       <workItem from="1719325256701" duration="8846000" />
       <workItem from="1719378210306" duration="13797000" />
       <workItem from="1719466057686" duration="4890000" />
-      <workItem from="1719566563537" duration="1315000" />
+      <workItem from="1719566563537" duration="6931000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
