@@ -28,10 +28,6 @@ public class Main {
         for (House house : houses) {
             entire += house.humans;
         }
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (Integer integer : map.keySet()) {
-            
-        }
 
         long cnt = 0;
         int result = 0;
