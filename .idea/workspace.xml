@@ -57,7 +57,7 @@
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dongwoo/workspace/Algorithm/src/Greedy",
+    "last_opened_file_path": "/Users/dongwoo/workspace/Algorithm/src/BinarySearch",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,11 +80,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/BinarySearch" />
       <recent name="$PROJECT_DIR$/src/Greedy" />
       <recent name="$PROJECT_DIR$/src/DFSBFS" />
       <recent name="$PROJECT_DIR$/src/DP" />
       <recent name="$PROJECT_DIR$/src/Dijkstra" />
-      <recent name="$PROJECT_DIR$/src/TopologicalSort" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/SWEA/활주로건설" />
@@ -99,7 +99,20 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준2805번_나무자르기.Main">
+  <component name="RunManager" selected="Application.BinarySearch.백준2805번_나무자르기.Main">
+    <configuration name="BinarySearch.백준2805번_나무자르기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2805번_나무자르기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.백준2805번_나무자르기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Greedy.백준1700번_멀티탭스케줄링.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준1700번_멀티탭스케줄링.Main" />
       <module name="Algorithm" />
@@ -119,19 +132,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Greedy.백준1826번_연료채우기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Greedy.백준2141번_우체국.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2141번_우체국.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준2141번_우체국.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BinarySearch.백준2805번_나무자르기.Main" />
       <item itemvalue="Application.Greedy.백준1700번_멀티탭스케줄링.Main" />
       <item itemvalue="Application.Greedy.백준1826번_연료채우기.Main" />
-      <item itemvalue="Application.Greedy.백준2141번_우체국.Main" />
       <item itemvalue="Application.Greedy.백준2805번_나무자르기.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch.백준2805번_나무자르기.Main" />
         <item itemvalue="Application.Greedy.백준2805번_나무자르기.Main" />
         <item itemvalue="Application.Greedy.백준1826번_연료채우기.Main" />
         <item itemvalue="Application.Greedy.백준1700번_멀티탭스케줄링.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Greedy.백준2141번_우체국.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +429,7 @@
       <workItem from="1719325256701" duration="8846000" />
       <workItem from="1719378210306" duration="13797000" />
       <workItem from="1719466057686" duration="4890000" />
-      <workItem from="1719566563537" duration="23093000" />
+      <workItem from="1719566563537" duration="24081000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
