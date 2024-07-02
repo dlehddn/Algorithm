@@ -99,20 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1826번_연료채우기.Main">
-    <configuration name="Greedy.백준11501번_주식.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준11501번_주식.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준11501번_주식.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Greedy.백준2805번_나무자르기.Main">
     <configuration name="Greedy.백준1700번_멀티탭스케줄링.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준1700번_멀티탭스케줄링.Main" />
       <module name="Algorithm" />
@@ -152,6 +139,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Greedy.백준2805번_나무자르기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준2805번_나무자르기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.백준2805번_나무자르기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1700번_멀티탭스케줄링.Main" />
       <module name="Algorithm" />
@@ -169,16 +169,16 @@
       <item itemvalue="Application.Greedy.백준1700번_멀티탭스케줄링.Main" />
       <item itemvalue="Application.Greedy.백준1826번_연료채우기.Main" />
       <item itemvalue="Application.Greedy.백준2141번_우체국.Main" />
-      <item itemvalue="Application.Greedy.백준11501번_주식.Main" />
+      <item itemvalue="Application.Greedy.백준2805번_나무자르기.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준2805번_나무자르기.Main" />
         <item itemvalue="Application.Greedy.백준1826번_연료채우기.Main" />
         <item itemvalue="Application.Greedy.백준1700번_멀티탭스케줄링.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Greedy.백준2141번_우체국.Main" />
-        <item itemvalue="Application.Greedy.백준11501번_주식.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +429,7 @@
       <workItem from="1719325256701" duration="8846000" />
       <workItem from="1719378210306" duration="13797000" />
       <workItem from="1719466057686" duration="4890000" />
-      <workItem from="1719566563537" duration="20538000" />
+      <workItem from="1719566563537" duration="23093000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
