@@ -3,6 +3,7 @@ package DP.백준2579번_계단오르기;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 
 public class Main {
 

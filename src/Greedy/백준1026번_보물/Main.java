@@ -3,10 +3,7 @@ package Greedy.백준1026번_보물;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Main {
 
@@ -29,12 +26,10 @@ public class Main {
         }
         a.sort(Comparator.naturalOrder());
         b.sort(Comparator.reverseOrder());
-
         int result = 0;
         for (int i = 0; i < a.size(); i++) {
             result += a.get(i) * b.get(i);
         }
-
         System.out.println(result);
     }
 }
