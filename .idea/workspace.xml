@@ -99,7 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준9095번_123더하기.Main">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="DP.백준9095번_123더하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준9095번_123더하기.Main" />
       <module name="Algorithm" />
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1026번_보물.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준13913번_숨바꼭질4.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준1026번_보물.*" />
+          <option name="PATTERN" value="DFSBFS.백준13913번_숨바꼭질4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.DP.백준9095번_123더하기.Main" />
       <item itemvalue="Application.Greedy.백11053번_가장긴증가하는부분수열.Main" />
       <item itemvalue="Application.SegmentTree.백준1849번_순열.Main" />
       <item itemvalue="Application.SegmentTree.백준2042번_구간합구하기.Main" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.DP.백준9095번_123더하기.Main" />
         <item itemvalue="Application.SegmentTree.백준1849번_순열.Main" />
         <item itemvalue="Application.SegmentTree.백준2042번_구간합구하기.Main" />
         <item itemvalue="Application.Greedy.백11053번_가장긴증가하는부분수열.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +430,10 @@
       <workItem from="1719378210306" duration="13797000" />
       <workItem from="1719466057686" duration="4890000" />
       <workItem from="1719566563537" duration="49261000" />
-      <workItem from="1720334888260" duration="1521000" />
+      <workItem from="1720334888260" duration="1631000" />
+      <workItem from="1720337980427" duration="614000" />
+      <workItem from="1720534483842" duration="2435000" />
+      <workItem from="1721116195809" duration="2987000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>

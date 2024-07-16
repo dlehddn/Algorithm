@@ -26,7 +26,6 @@ public class Main {
             N = Integer.parseInt(br.readLine());
             sb.append(dp[N] + "\n");
         }
-
         System.out.println(sb);
     }
 }
