@@ -44,7 +44,6 @@ public class Main {
                 int poll = q.poll();
                 list.add(poll);
                 if (visited[graph[poll]] && !finished[graph[poll]]) {
-//                    checkCycle(graph[poll]);
                     cnt++;
                     for (int j = graph[poll]; j != poll; j = graph[j]) {
                         cnt++;
@@ -62,20 +61,4 @@ public class Main {
         }
     }
 
-    static void checkCycle(int n) {
-        Queue<Integer> q = new LinkedList<>();
-        boolean[] visit = new boolean[N + 1];
-        q.add(n);
-        visit[n] = true;
-
-        while (!q.isEmpty()) {
-            int poll = q.poll();
-            cnt++;
-
-            if (!visit[graph[poll]]) {
-                q.add(graph[poll]);
-                visit[graph[poll]] = true;
-            }
-        }
-    }
 }

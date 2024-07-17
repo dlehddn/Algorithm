@@ -99,13 +99,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dijkstra.백준1800번_인터넷설치.Main2">
-    <configuration name="DP.백준9095번_123더하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준9095번_123더하기.Main" />
+  <component name="RunManager" selected="Application.DP.백준1947번_선물전달.Main2">
+    <configuration name="DP.백준1947번_선물전달.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준1947번_선물전달.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준9095번_123더하기.*" />
+          <option name="PATTERN" value="DP.백준1947번_선물전달.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준13913번_숨바꼭질4.Main2" />
+    <configuration name="Recursion.백준9466번_텀프로젝트.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준9466번_텀프로젝트.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준13913번_숨바꼭질4.*" />
+          <option name="PATTERN" value="Recursion.백준9466번_텀프로젝트.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SegmentTree.백준1849번_순열.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegmentTree.백준1849번_순열.Main" />
+    <configuration name="Recursion.백준9466번_텀프로젝트.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.백준9466번_텀프로젝트.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SegmentTree.백준1849번_순열.*" />
+          <option name="PATTERN" value="Recursion.백준9466번_텀프로젝트.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DP.백준1947번_선물전달.Main2" />
       <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main2" />
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.DP.백준9095번_123더하기.Main" />
-      <item itemvalue="Application.SegmentTree.백준1849번_순열.Main" />
+      <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
+      <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main2" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준1947번_선물전달.Main2" />
+        <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main2" />
+        <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
         <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.DP.백준9095번_123더하기.Main" />
-        <item itemvalue="Application.SegmentTree.백준1849번_순열.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +433,7 @@
       <workItem from="1720334888260" duration="1631000" />
       <workItem from="1720337980427" duration="614000" />
       <workItem from="1720534483842" duration="2435000" />
-      <workItem from="1721116195809" duration="9666000" />
+      <workItem from="1721116195809" duration="19292000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
