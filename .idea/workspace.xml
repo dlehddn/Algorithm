@@ -99,7 +99,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준1947번_선물전달.Main2">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="DP.백준1947번_선물전달.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준1947번_선물전달.Main2" />
       <module name="Algorithm" />
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1800번_인터넷설치.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.백준2109번_순회강연.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준1800번_인터넷설치.*" />
+          <option name="PATTERN" value="Heap.백준2109번_순회강연.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,17 +168,17 @@
     <list>
       <item itemvalue="Application.DP.백준1947번_선물전달.Main2" />
       <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main2" />
+      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
       <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main2" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.DP.백준1947번_선물전달.Main2" />
         <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main2" />
         <item itemvalue="Application.Recursion.백준9466번_텀프로젝트.Main" />
         <item itemvalue="Application.Dijkstra.백준1800번_인터넷설치.Main2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +433,7 @@
       <workItem from="1720334888260" duration="1631000" />
       <workItem from="1720337980427" duration="614000" />
       <workItem from="1720534483842" duration="2435000" />
-      <workItem from="1721116195809" duration="19292000" />
+      <workItem from="1721116195809" duration="21706000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
