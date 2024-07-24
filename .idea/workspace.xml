@@ -109,7 +109,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준1976번_여행가자.Main2">
+  <component name="RunManager" selected="Application.Greedy.백준2110_공유기설치.Main">
     <configuration name="DFSBFS.백준1976번_여행가자.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1976번_여행가자.Main2" />
       <module name="Algorithm" />
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준1947번_선물전달.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준1947번_선물전달.Main2" />
+    <configuration name="Greedy.백준2110_공유기설치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준2110_공유기설치.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준1947번_선물전달.*" />
+          <option name="PATTERN" value="Greedy.백준2110_공유기설치.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,18 +177,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main2" />
+      <item itemvalue="Application.Greedy.백준2110_공유기설치.Main" />
       <item itemvalue="Application.Greedy.백준2138번_전구와스위치.Main2" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DP.백준1947번_선물전달.Main2" />
       <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준2110_공유기설치.Main" />
         <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main2" />
         <item itemvalue="Application.Greedy.백준2138번_전구와스위치.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.DP.백준1947번_선물전달.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +446,7 @@
       <workItem from="1721116195809" duration="21706000" />
       <workItem from="1721741564838" duration="3556000" />
       <workItem from="1721745265873" duration="2230000" />
-      <workItem from="1721825803770" duration="1135000" />
+      <workItem from="1721825803770" duration="5624000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
