@@ -46,6 +46,9 @@
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java" root0="SKIP_INSPECTION" />
     <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TimSort.java" root0="SKIP_INSPECTION" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2RL4Z431MutRFGL2Tn1rNIVCUZ7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,40 +57,40 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dongwoo/workspace/Algorithm/src/BinarySearch&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18820225&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dongwoo/workspace/Algorithm/src/BinarySearch",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.splitter.proportion": "0.18820225",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/BinarySearch" />
@@ -109,13 +112,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DFSBFS.백준1976번_여행가자.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1976번_여행가자.Main2" />
+  <component name="RunManager" selected="Application.Simulation.백준2573번_빙산.Main">
+    <configuration name="DFSBFS.백준15591번_MooTube.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준15591번_MooTube.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준1976번_여행가자.*" />
+          <option name="PATTERN" value="DFSBFS.백준15591번_MooTube.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준2631번_줄세우기.retry2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2631번_줄세우기.retry2.Main" />
+    <configuration name="Heap.백준1697번_숨바꼭질.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.백준1697번_숨바꼭질.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2631번_줄세우기.retry2.*" />
+          <option name="PATTERN" value="Heap.백준1697번_숨바꼭질.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,25 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dijkstra.백준1238번_파티.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1238번_파티.Main2" />
+    <configuration name="Heap.백준1715번_카드정렬하기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.백준1715번_카드정렬하기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준1238번_파티.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Greedy.백준2110_공유기설치.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2110_공유기설치.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준2110_공유기설치.*" />
+          <option name="PATTERN" value="Heap.백준1715번_카드정렬하기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,20 +165,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Simulation.백준2573번_빙산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation.백준2573번_빙산.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Simulation.백준2573번_빙산.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.DFSBFS.백준15591번_MooTube.Main" />
+      <item itemvalue="Application.Heap.백준1697번_숨바꼭질.Main" />
+      <item itemvalue="Application.Heap.백준1715번_카드정렬하기.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main2" />
-      <item itemvalue="Application.DP.백준2631번_줄세우기.retry2.Main" />
-      <item itemvalue="Application.Dijkstra.백준1238번_파티.Main2" />
-      <item itemvalue="Application.Greedy.백준2110_공유기설치.Main" />
+      <item itemvalue="Application.Simulation.백준2573번_빙산.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Simulation.백준2573번_빙산.Main" />
+        <item itemvalue="Application.Heap.백준1715번_카드정렬하기.Main" />
+        <item itemvalue="Application.Heap.백준1697번_숨바꼭질.Main" />
+        <item itemvalue="Application.DFSBFS.백준15591번_MooTube.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DP.백준2631번_줄세우기.retry2.Main" />
-        <item itemvalue="Application.Dijkstra.백준1238번_파티.Main2" />
-        <item itemvalue="Application.Greedy.백준2110_공유기설치.Main" />
-        <item itemvalue="Application.DFSBFS.백준1976번_여행가자.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +453,7 @@
       <workItem from="1722263515483" duration="1905000" />
       <workItem from="1722265433001" duration="1196000" />
       <workItem from="1722414327525" duration="3000" />
-      <workItem from="1723631436831" duration="1247000" />
+      <workItem from="1723631436831" duration="8464000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
