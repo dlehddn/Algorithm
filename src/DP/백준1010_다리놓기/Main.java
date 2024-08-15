@@ -1,12 +1,9 @@
 package DP.백준1010_다리놓기;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.StringTokenizer;
 
 public class Main {
-
     /**
      * nCr = n-1Cr-1 + n-1Cr
      */
