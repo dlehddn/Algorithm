@@ -5,7 +5,6 @@ import java.util.Iterator;
 
 class Solution {
     public String solution(String[] participant, String[] completion) {
-
         Map<String, Integer> map = new HashMap<>();
         for(int i = 0; i < participant.length; i++) {
             map.putIfAbsent(participant[i], 0);
