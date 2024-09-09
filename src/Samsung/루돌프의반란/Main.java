@@ -38,12 +38,9 @@ public class Main {
             santas[sN] = new Santa(sY - 1, sX - 1);
         }
 
-//        printSanta();
         for (int i = 1; i <= M; i++) {
             rMove(i);
-//            System.out.println("r : " + rudolph.y + ", " + rudolph.x);
             sMove(i);
-//            printSanta();
             if (isEnd()) break;
             addPoint();
         }
@@ -73,21 +70,6 @@ public class Main {
             if (!s.isOut) return false;
         }
         return true;
-    }
-
-    static void printSanta() {
-        int[][] santa = new int[N][N];
-        for (int i = 1; i <= P; i++) {
-            if (santas[i].isOut) continue;
-            santa[santas[i].y][santas[i].x] = i;
-        }
-        for (int[] ints : santa) {
-            for (int n : ints) {
-                System.out.print(n + " ");
-            }
-            System.out.println();
-        }
-        System.out.println();
     }
 
     static void sMove(int t) {
