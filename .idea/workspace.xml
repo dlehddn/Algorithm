@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad20151-d65a-447c-b3a8-cb13a848e3f6" name="Changes" comment="로봇 연구소">
-      <change afterPath="$PROJECT_DIR$/src/StringAndArray/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnionFind/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +112,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringAndArray.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BackTracking.백준9663번_NQueen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BackTracking.백준9663번_NQueen.Main" />
       <module name="Algorithm" />
@@ -154,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2805번_나무자르기.Main2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.루돌프의반란.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.백준2805번_나무자르기.*" />
+          <option name="PATTERN" value="Samsung.루돌프의반란.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +179,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.BackTracking.백준9663번_NQueen.Main" />
       <item itemvalue="Application.Comb_Per.백준1038번_감소하는수.Main" />
       <item itemvalue="Application.Greedy.백준2217번_로프.Main" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.StringAndArray.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringAndArray.Main" />
         <item itemvalue="Application.Comb_Per.백준1038번_감소하는수.Main" />
         <item itemvalue="Application.BackTracking.백준9663번_NQueen.Main" />
         <item itemvalue="Application.Greedy.백준2217번_로프.Main" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -467,6 +465,9 @@
       <workItem from="1723865061284" duration="269000" />
       <workItem from="1723868744787" duration="60000" />
       <workItem from="1723988038119" duration="658000" />
+      <workItem from="1725612416556" duration="917000" />
+      <workItem from="1725613533728" duration="1238000" />
+      <workItem from="1725763721279" duration="10126000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
