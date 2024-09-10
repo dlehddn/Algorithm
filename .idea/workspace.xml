@@ -112,7 +112,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Samsung.고대문명유적탐사.Main">
     <configuration name="BackTracking.백준9663번_NQueen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BackTracking.백준9663번_NQueen.Main" />
       <module name="Algorithm" />
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준2217번_로프.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2217번_로프.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.루돌프의반란.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준2217번_로프.*" />
+          <option name="PATTERN" value="Samsung.루돌프의반란.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Samsung.루돌프의반란.Main" />
+    <configuration name="Samsung.고대문명유적탐사.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.고대문명유적탐사.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Samsung.루돌프의반란.*" />
+          <option name="PATTERN" value="Samsung.고대문명유적탐사.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,19 +179,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Samsung.고대문명유적탐사.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BackTracking.백준9663번_NQueen.Main" />
       <item itemvalue="Application.Comb_Per.백준1038번_감소하는수.Main" />
-      <item itemvalue="Application.Greedy.백준2217번_로프.Main" />
       <item itemvalue="Application.StringAndArray.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Samsung.고대문명유적탐사.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringAndArray.Main" />
         <item itemvalue="Application.Comb_Per.백준1038번_감소하는수.Main" />
         <item itemvalue="Application.BackTracking.백준9663번_NQueen.Main" />
-        <item itemvalue="Application.Greedy.백준2217번_로프.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +467,9 @@
       <workItem from="1723988038119" duration="658000" />
       <workItem from="1725612416556" duration="917000" />
       <workItem from="1725613533728" duration="1238000" />
-      <workItem from="1725763721279" duration="10126000" />
+      <workItem from="1725763721279" duration="10538000" />
+      <workItem from="1725984231200" duration="233000" />
+      <workItem from="1725984472560" duration="10598000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
