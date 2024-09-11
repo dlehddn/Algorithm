@@ -112,20 +112,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Samsung.고대문명유적탐사.Main">
-    <configuration name="BackTracking.백준9663번_NQueen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BackTracking.백준9663번_NQueen.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BackTracking.백준9663번_NQueen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Samsung.마법의숲탐색.Main">
     <configuration name="Comb_Per.백준1038번_감소하는수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Comb_Per.백준1038번_감소하는수.Main" />
       <module name="Algorithm" />
@@ -165,6 +152,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Samsung.마법의숲탐색.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.마법의숲탐색.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Samsung.마법의숲탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringAndArray.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringAndArray.Main" />
       <module name="Algorithm" />
@@ -179,19 +179,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Samsung.마법의숲탐색.Main" />
       <item itemvalue="Application.Samsung.고대문명유적탐사.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.BackTracking.백준9663번_NQueen.Main" />
       <item itemvalue="Application.Comb_Per.백준1038번_감소하는수.Main" />
       <item itemvalue="Application.StringAndArray.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Samsung.마법의숲탐색.Main" />
         <item itemvalue="Application.Samsung.고대문명유적탐사.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StringAndArray.Main" />
         <item itemvalue="Application.Comb_Per.백준1038번_감소하는수.Main" />
-        <item itemvalue="Application.BackTracking.백준9663번_NQueen.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +469,8 @@
       <workItem from="1725613533728" duration="1238000" />
       <workItem from="1725763721279" duration="10538000" />
       <workItem from="1725984231200" duration="233000" />
-      <workItem from="1725984472560" duration="10598000" />
+      <workItem from="1725984472560" duration="10975000" />
+      <workItem from="1726044387880" duration="8689000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
