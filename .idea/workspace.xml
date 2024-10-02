@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준2631번_줄세우기.Main2">
+  <component name="RunManager" selected="Application.Heap.백준1781번_컵라면.Main">
     <configuration name="Comb_Per.백준15686번_치킨배달.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15686번_치킨배달.Main2" />
       <module name="Algorithm" />
@@ -133,6 +133,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.백준2631번_줄세우기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Heap.백준1781번_컵라면.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heap.백준1781번_컵라면.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heap.백준1781번_컵라면.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,33 +179,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준8980번_택배.Main2" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준8980번_택배.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DP.백준2631번_줄세우기.Main2" />
+      <item itemvalue="Application.Heap.백준1781번_컵라면.Main" />
       <item itemvalue="Application.Comb_Per.백준15686번_치킨배달.Main2" />
       <item itemvalue="Application.Heap.백준2110번_공유기설치.Main" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Heap.백준1781번_컵라면.Main" />
         <item itemvalue="Application.DP.백준2631번_줄세우기.Main2" />
         <item itemvalue="Application.Heap.백준2110번_공유기설치.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Comb_Per.백준15686번_치킨배달.Main2" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +477,7 @@
       <workItem from="1727079719334" duration="4954000" />
       <workItem from="1727698511200" duration="5000" />
       <workItem from="1727752151199" duration="10291000" />
-      <workItem from="1727793669033" duration="860000" />
+      <workItem from="1727793669033" duration="4443000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
