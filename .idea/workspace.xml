@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1253번_좋다.Main">
+  <component name="RunManager" selected="Application.Greedy.백준13144번_ListOfUniqueNumbers.Main">
     <configuration name="DFSBFS.백준16234번_인구이동.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준16234번_인구이동.Main" />
       <module name="Algorithm" />
@@ -140,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준7682번_틱택토.Main" />
+    <configuration name="Greedy.백준13144번_ListOfUniqueNumbers.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준13144번_ListOfUniqueNumbers.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준7682번_틱택토.*" />
+          <option name="PATTERN" value="Greedy.백준13144번_ListOfUniqueNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1911번_흙길보수하기.Main2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준7682번_틱택토.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준1911번_흙길보수하기.*" />
+          <option name="PATTERN" value="Greedy.백준7682번_틱택토.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +180,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Greedy.백준13144번_ListOfUniqueNumbers.Main" />
       <item itemvalue="Application.DFSBFS.백준16234번_인구이동.Main" />
       <item itemvalue="Application.Greedy.백준1253번_좋다.Main" />
       <item itemvalue="Application.Main3" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준13144번_ListOfUniqueNumbers.Main" />
         <item itemvalue="Application.Greedy.백준1253번_좋다.Main" />
         <item itemvalue="Application.DFSBFS.백준16234번_인구이동.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -478,7 +478,8 @@
       <workItem from="1727698511200" duration="5000" />
       <workItem from="1727752151199" duration="10291000" />
       <workItem from="1727793669033" duration="12364000" />
-      <workItem from="1727879709080" duration="3353000" />
+      <workItem from="1727879709080" duration="4077000" />
+      <workItem from="1727885988444" duration="4519000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
