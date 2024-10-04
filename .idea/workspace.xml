@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준2212번_센서.Main2">
+  <component name="RunManager" selected="Application.Main3">
     <configuration name="Floyd.백준10159번_저울.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Floyd.백준10159번_저울.Main" />
       <module name="Algorithm" />
@@ -166,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준11066번_파일합치기.Main2" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TopologicalSort.백준2252번_줄세우기.Main3" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준11066번_파일합치기.*" />
+          <option name="PATTERN" value="TopologicalSort.백준2252번_줄세우기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,18 +181,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Greedy.백준2212번_센서.Main2" />
+      <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Floyd.백준10159번_저울.Main" />
       <item itemvalue="Application.Floyd.백준1956번_운동.Main2" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Greedy.백준2212번_센서.Main2" />
         <item itemvalue="Application.Floyd.백준10159번_저울.Main" />
         <item itemvalue="Application.Floyd.백준1956번_운동.Main2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +480,7 @@
       <workItem from="1727793669033" duration="12364000" />
       <workItem from="1727879709080" duration="4077000" />
       <workItem from="1727885988444" duration="21266000" />
-      <workItem from="1728013693658" duration="325000" />
+      <workItem from="1728013693658" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
