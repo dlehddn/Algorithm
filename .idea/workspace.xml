@@ -113,13 +113,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main3">
-    <configuration name="Floyd.백준10159번_저울.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Floyd.백준10159번_저울.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Comb_Per.백준15649번_N과M1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15649번_N과M1.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Floyd.백준10159번_저울.*" />
+          <option name="PATTERN" value="Comb_Per.백준15649번_N과M1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Floyd.백준1956번_운동.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Floyd.백준1956번_운동.Main2" />
+    <configuration name="Floyd.백준10159번_저울.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Floyd.백준10159번_저울.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Floyd.백준1956번_운동.*" />
+          <option name="PATTERN" value="Floyd.백준10159번_저울.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1956번_운동.Main" />
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준7576번_토마토.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준1956번_운동.*" />
+          <option name="PATTERN" value="DFSBFS.백준7576번_토마토.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +180,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
       <item itemvalue="Application.Greedy.백준2212번_센서.Main2" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Floyd.백준10159번_저울.Main" />
-      <item itemvalue="Application.Floyd.백준1956번_운동.Main2" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Greedy.백준2212번_센서.Main2" />
         <item itemvalue="Application.Floyd.백준10159번_저울.Main" />
-        <item itemvalue="Application.Floyd.백준1956번_운동.Main2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +480,13 @@
       <workItem from="1727793669033" duration="12364000" />
       <workItem from="1727879709080" duration="4077000" />
       <workItem from="1727885988444" duration="21266000" />
-      <workItem from="1728013693658" duration="2076000" />
+      <workItem from="1728013693658" duration="4208000" />
+      <workItem from="1728087364762" duration="1292000" />
+      <workItem from="1728103153237" duration="1524000" />
+      <workItem from="1728404232375" duration="1279000" />
+      <workItem from="1728998991047" duration="25000" />
+      <workItem from="1730010427759" duration="1809000" />
+      <workItem from="1732005495487" duration="2165000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
