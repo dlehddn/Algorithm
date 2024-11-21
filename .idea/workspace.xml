@@ -113,13 +113,13 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준16933번_벽부수고이동하기3.Resolve">
-    <configuration name="Comb_Per.백준15649번_N과M1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준15649번_N과M1.Main" />
+  <component name="RunManager" selected="Application.DFSBFS.백준14503번_로봇청소기.Main">
+    <configuration name="DFSBFS.백준14442번_벽부수고이동하기2.Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준14442번_벽부수고이동하기2.Resolve" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comb_Per.백준15649번_N과M1.*" />
+          <option name="PATTERN" value="DFSBFS.백준14442번_벽부수고이동하기2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSBFS.백준14442번_벽부수고이동하기2.Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준14442번_벽부수고이동하기2.Resolve" />
+    <configuration name="DFSBFS.백준14503번_로봇청소기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준14503번_로봇청소기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준14442번_벽부수고이동하기2.*" />
+          <option name="PATTERN" value="DFSBFS.백준14503번_로봇청소기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +180,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DFSBFS.백준14503번_로봇청소기.Main" />
       <item itemvalue="Application.DFSBFS.백준14442번_벽부수고이동하기2.Resolve" />
       <item itemvalue="Application.DFSBFS.백준16933번_벽부수고이동하기3.Resolve" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Resolve" />
-      <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준14503번_로봇청소기.Main" />
         <item itemvalue="Application.DFSBFS.백준16933번_벽부수고이동하기3.Resolve" />
         <item itemvalue="Application.DFSBFS.백준14442번_벽부수고이동하기2.Resolve" />
         <item itemvalue="Application.Resolve" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Comb_Per.백준15649번_N과M1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +486,8 @@
       <workItem from="1728404232375" duration="1279000" />
       <workItem from="1728998991047" duration="25000" />
       <workItem from="1730010427759" duration="1809000" />
-      <workItem from="1732005495487" duration="6826000" />
+      <workItem from="1732005495487" duration="7644000" />
+      <workItem from="1732177209343" duration="2462000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
