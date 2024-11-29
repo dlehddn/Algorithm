@@ -113,20 +113,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Floyd.백준11404번_플로이드.Resolve">
-    <configuration name="DFSBFS.백준14503번_로봇청소기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준14503번_로봇청소기.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFSBFS.백준14503번_로봇청소기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DFSBFS.백준2573번_빙산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2573번_빙산.Main" />
       <module name="Algorithm" />
@@ -166,6 +153,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Floyd.백준1613번_역사.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Floyd.백준1613번_역사.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dijkstra.백준13549번_숨바꼭질3.Resolve" />
       <module name="Algorithm" />
@@ -181,18 +181,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Floyd.백준11404번_플로이드.Resolve" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Dijkstra.백준1753번_최단경로.Resolve" />
-      <item itemvalue="Application.DFSBFS.백준14503번_로봇청소기.Main" />
       <item itemvalue="Application.DFSBFS.백준2573번_빙산.Main" />
       <item itemvalue="Application.Resolve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Floyd.백준11404번_플로이드.Resolve" />
         <item itemvalue="Application.Resolve" />
         <item itemvalue="Application.Dijkstra.백준1753번_최단경로.Resolve" />
         <item itemvalue="Application.DFSBFS.백준2573번_빙산.Main" />
-        <item itemvalue="Application.DFSBFS.백준14503번_로봇청소기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +492,7 @@
       <workItem from="1732695206835" duration="4137000" />
       <workItem from="1732782702902" duration="203000" />
       <workItem from="1732785802603" duration="598000" />
-      <workItem from="1732869107358" duration="1202000" />
+      <workItem from="1732869107358" duration="3383000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
