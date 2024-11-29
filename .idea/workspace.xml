@@ -113,20 +113,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DFSBFS.백준2573번_빙산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준2573번_빙산.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFSBFS.백준2573번_빙산.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Kruskal.백준1922번_네트워크연결.Resolve">
     <configuration name="Dijkstra.백준1753번_최단경로.Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dijkstra.백준1753번_최단경로.Resolve" />
       <module name="Algorithm" />
@@ -146,6 +133,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Floyd.백준11404번_플로이드.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal.백준1922번_네트워크연결.Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1922번_네트워크연결.Resolve" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kruskal.백준1922번_네트워크연결.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,18 +181,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Floyd.백준11404번_플로이드.Resolve" />
+      <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Resolve" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Dijkstra.백준1753번_최단경로.Resolve" />
-      <item itemvalue="Application.DFSBFS.백준2573번_빙산.Main" />
       <item itemvalue="Application.Resolve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Resolve" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Floyd.백준11404번_플로이드.Resolve" />
         <item itemvalue="Application.Resolve" />
         <item itemvalue="Application.Dijkstra.백준1753번_최단경로.Resolve" />
-        <item itemvalue="Application.DFSBFS.백준2573번_빙산.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +492,7 @@
       <workItem from="1732695206835" duration="4137000" />
       <workItem from="1732782702902" duration="203000" />
       <workItem from="1732785802603" duration="598000" />
-      <workItem from="1732869107358" duration="3383000" />
+      <workItem from="1732869107358" duration="5548000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>

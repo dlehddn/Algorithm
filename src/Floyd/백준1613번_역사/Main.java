@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
-
     static int N, K, S;
     static int[][] graph;
     static List<History> questions;
