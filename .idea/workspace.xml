@@ -113,20 +113,7 @@
       <recent name="Dijkstra.백준12851번_숨바꼭질2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kruskal.백준1774번_우주신과의교감.Main">
-    <configuration name="Floyd.백준11404번_플로이드.Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Floyd.백준11404번_플로이드.Resolve" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Floyd.백준11404번_플로이드.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Third">
     <configuration name="Kruskal.백준1774번_우주신과의교감.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kruskal.백준1774번_우주신과의교감.Main" />
       <module name="Algorithm" />
@@ -167,11 +154,24 @@
       </method>
     </configuration>
     <configuration name="Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준13549번_숨바꼭질3.Resolve" />
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준16933번_벽부수고이동하기3.Resolve" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준13549번_숨바꼭질3.*" />
+          <option name="PATTERN" value="DFSBFS.백준16933번_벽부수고이동하기3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준16933번_벽부수고이동하기3.Third" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFSBFS.백준16933번_벽부수고이동하기3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +180,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Third" />
       <item itemvalue="Application.Kruskal.백준1774번_우주신과의교감.Main" />
-      <item itemvalue="Application.Floyd.백준11404번_플로이드.Resolve" />
       <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Resolve" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Resolve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Third" />
+        <item itemvalue="Application.Resolve" />
         <item itemvalue="Application.Kruskal.백준1774번_우주신과의교감.Main" />
         <item itemvalue="Application.Kruskal.백준1922번_네트워크연결.Resolve" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Floyd.백준11404번_플로이드.Resolve" />
-        <item itemvalue="Application.Resolve" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +493,12 @@
       <workItem from="1732782702902" duration="203000" />
       <workItem from="1732785802603" duration="598000" />
       <workItem from="1732869107358" duration="5831000" />
-      <workItem from="1733387197890" duration="2534000" />
+      <workItem from="1733387197890" duration="3515000" />
+      <workItem from="1733735335158" duration="606000" />
+      <workItem from="1733740152073" duration="598000" />
+      <workItem from="1733814198011" duration="598000" />
+      <workItem from="1733826108682" duration="598000" />
+      <workItem from="1737536633394" duration="4934000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -776,6 +781,11 @@
           <url>file://$PROJECT_DIR$/src/StringAndArray/Main.java</url>
           <line>5</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DFSBFS/백준16933번_벽부수고이동하기3/Third.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
