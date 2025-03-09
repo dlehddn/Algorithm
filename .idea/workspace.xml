@@ -114,20 +114,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Floyd.백준1613번_역사.Resolve (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Floyd.백준1613번_역사.Resolve" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Floyd.백준1613번_역사.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Greedy.백준7570번_줄세우기.Main">
     <configuration name="Greedy.백준1931번_회의실배정.Second (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준1931번_회의실배정.Second" />
       <module name="Algorithm" />
@@ -147,6 +134,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Greedy.백준1931번_회의실배정.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greedy.백준7570번_줄세우기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준7570번_줄세우기.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.백준7570번_줄세우기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,17 +183,17 @@
     <list>
       <item itemvalue="Application.Greedy.백준1931번_회의실배정.Second" />
       <item itemvalue="Application.Greedy.백준1931번_회의실배정.Second (1)" />
+      <item itemvalue="Application.Greedy.백준7570번_줄세우기.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Second" />
-      <item itemvalue="Application.Floyd.백준1613번_역사.Resolve (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준7570번_줄세우기.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Greedy.백준1931번_회의실배정.Second (1)" />
         <item itemvalue="Application.Greedy.백준1931번_회의실배정.Second" />
         <item itemvalue="Application.Second" />
-        <item itemvalue="Application.Floyd.백준1613번_역사.Resolve (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +503,7 @@
       <workItem from="1737556277631" duration="599000" />
       <workItem from="1737620208176" duration="599000" />
       <workItem from="1739175685412" duration="3000" />
-      <workItem from="1741516605468" duration="3396000" />
+      <workItem from="1741516605468" duration="4550000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
