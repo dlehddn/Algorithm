@@ -114,13 +114,13 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Greedy.백준10800_컬러볼.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준10800_컬러볼.Main" />
+  <component name="RunManager" selected="Application.DP.백준2011_암호코드.Main">
+    <configuration name="DP.백준2011_암호코드.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준2011_암호코드.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준10800_컬러볼.*" />
+          <option name="PATTERN" value="DP.백준2011_암호코드.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,19 +181,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DP.백준2011_암호코드.Main" />
       <item itemvalue="Application.Greedy.백준1082_방번호.Main" />
       <item itemvalue="Application.Greedy.백준12904번_A와B.Main" />
       <item itemvalue="Application.Second" />
-      <item itemvalue="Application.Greedy.백준10800_컬러볼.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DP.백준2011_암호코드.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Second" />
         <item itemvalue="Application.Greedy.백준1082_방번호.Main" />
         <item itemvalue="Application.Greedy.백준12904번_A와B.Main" />
-        <item itemvalue="Application.Greedy.백준10800_컬러볼.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +504,7 @@
       <workItem from="1737620208176" duration="599000" />
       <workItem from="1739175685412" duration="3000" />
       <workItem from="1741516605468" duration="15545000" />
-      <workItem from="1741595276959" duration="12208000" />
+      <workItem from="1741595276959" duration="15774000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
