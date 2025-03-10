@@ -114,7 +114,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1082_방번호.Main">
+  <component name="RunManager" selected="Application.Second">
     <configuration name="Greedy.백준10800_컬러볼.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준10800_컬러볼.Main" />
       <module name="Algorithm" />
@@ -167,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준7570번_줄세우기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준7570번_줄세우기.Main" />
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준2096번_내려가기.Second" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준7570번_줄세우기.*" />
+          <option name="PATTERN" value="DP.백준2096번_내려가기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,17 +183,17 @@
     <list>
       <item itemvalue="Application.Greedy.백준1082_방번호.Main" />
       <item itemvalue="Application.Greedy.백준12904번_A와B.Main" />
+      <item itemvalue="Application.Second" />
       <item itemvalue="Application.Greedy.백준10800_컬러볼.Main" />
       <item itemvalue="Application.Greedy.백준1715번_카드정렬하기.Second" />
-      <item itemvalue="Application.Greedy.백준7570번_줄세우기.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Second" />
         <item itemvalue="Application.Greedy.백준1082_방번호.Main" />
         <item itemvalue="Application.Greedy.백준12904번_A와B.Main" />
         <item itemvalue="Application.Greedy.백준10800_컬러볼.Main" />
         <item itemvalue="Application.Greedy.백준1715번_카드정렬하기.Second" />
-        <item itemvalue="Application.Greedy.백준7570번_줄세우기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +504,7 @@
       <workItem from="1737620208176" duration="599000" />
       <workItem from="1739175685412" duration="3000" />
       <workItem from="1741516605468" duration="15545000" />
-      <workItem from="1741595276959" duration="7052000" />
+      <workItem from="1741595276959" duration="11070000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
