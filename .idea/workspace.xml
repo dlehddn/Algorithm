@@ -114,7 +114,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준16928_뱀과사디리게임.Main">
+  <component name="RunManager" selected="Application.TwoPointer.백준1806번_부분합.Second">
     <configuration name="BruteForce.백준7490번_0만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준7490번_0만들기.Main" />
       <module name="Algorithm" />
@@ -167,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2096번_내려가기.Second" />
+    <configuration name="TwoPointer.백준1806번_부분합.Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준1806번_부분합.Second" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2096번_내려가기.*" />
+          <option name="PATTERN" value="TwoPointer.백준1806번_부분합.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,17 +183,17 @@
     <list>
       <item itemvalue="Application.BruteForce.백준7490번_0만들기.Main" />
       <item itemvalue="Application.DFSBFS.백준16928_뱀과사디리게임.Main" />
+      <item itemvalue="Application.TwoPointer.백준1806번_부분합.Second" />
       <item itemvalue="Application.DP.백준2011_암호코드.Main" />
-      <item itemvalue="Application.Second" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoPointer.백준1806번_부분합.Second" />
         <item itemvalue="Application.DFSBFS.백준16928_뱀과사디리게임.Main" />
         <item itemvalue="Application.BruteForce.백준7490번_0만들기.Main" />
         <item itemvalue="Application.DP.백준2011_암호코드.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Second" />
       </list>
     </recent_temporary>
   </component>
@@ -505,7 +505,7 @@
       <workItem from="1739175685412" duration="3000" />
       <workItem from="1741516605468" duration="15545000" />
       <workItem from="1741595276959" duration="16027000" />
-      <workItem from="1741785363507" duration="4836000" />
+      <workItem from="1741785363507" duration="6034000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
