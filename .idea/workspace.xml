@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BackTracking.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BackTracking.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BackTracking.Main" />
       <module name="Algorithm" />
@@ -153,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준2011_암호코드.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2011_암호코드.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준1253번_좋다.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2011_암호코드.*" />
+          <option name="PATTERN" value="TwoPointer.백준1253번_좋다.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,15 +184,15 @@
       <item itemvalue="Application.BruteForce.백준7490번_0만들기.Main" />
       <item itemvalue="Application.DFSBFS.백준16928_뱀과사디리게임.Main" />
       <item itemvalue="Application.TwoPointer.백준1806번_부분합.Second" />
-      <item itemvalue="Application.DP.백준2011_암호코드.Main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BackTracking.Main" />
         <item itemvalue="Application.TwoPointer.백준1806번_부분합.Second" />
         <item itemvalue="Application.DFSBFS.백준16928_뱀과사디리게임.Main" />
         <item itemvalue="Application.BruteForce.백준7490번_0만들기.Main" />
-        <item itemvalue="Application.DP.백준2011_암호코드.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +506,7 @@
       <workItem from="1741595276959" duration="16027000" />
       <workItem from="1741785363507" duration="8252000" />
       <workItem from="1741879353784" duration="1835000" />
-      <workItem from="1741970202458" duration="624000" />
+      <workItem from="1741970202458" duration="2373000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
