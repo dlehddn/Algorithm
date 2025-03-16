@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Second">
+  <component name="RunManager" selected="Application.DFSBFS.백준16234번_인구이동.Second">
     <configuration name="BackTracking.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BackTracking.Main" />
       <module name="Algorithm" />
@@ -127,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSBFS.백준16928_뱀과사디리게임.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준16928_뱀과사디리게임.Main" />
+    <configuration name="DFSBFS.백준16234번_인구이동.Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준16234번_인구이동.Second" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준16928_뱀과사디리게임.*" />
+          <option name="PATTERN" value="DFSBFS.백준16234번_인구이동.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,18 +181,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BackTracking.Main" />
+      <item itemvalue="Application.DFSBFS.백준16234번_인구이동.Second" />
       <item itemvalue="Application.Second" />
-      <item itemvalue="Application.DFSBFS.백준16928_뱀과사디리게임.Main" />
       <item itemvalue="Application.TwoPointer.백준1806번_부분합.Second" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준16234번_인구이동.Second" />
         <item itemvalue="Application.Second" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BackTracking.Main" />
         <item itemvalue="Application.TwoPointer.백준1806번_부분합.Second" />
-        <item itemvalue="Application.DFSBFS.백준16928_뱀과사디리게임.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +506,7 @@
       <workItem from="1741595276959" duration="16027000" />
       <workItem from="1741785363507" duration="8252000" />
       <workItem from="1741879353784" duration="1835000" />
-      <workItem from="1741970202458" duration="6331000" />
+      <workItem from="1741970202458" duration="8709000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
