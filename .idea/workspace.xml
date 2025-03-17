@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Second">
+  <component name="RunManager" selected="Application.BinarySearch.백준2143_두배열의합.Main">
     <configuration name="BackTracking.백준1759번_암호만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BackTracking.백준1759번_암호만들기.Main" />
       <module name="Algorithm" />
@@ -127,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BruteForce.백준2179번_비슷한단어.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.백준2179번_비슷한단어.Main" />
+    <configuration name="BinarySearch.백준2143_두배열의합.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2143_두배열의합.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BruteForce.백준2179번_비슷한단어.*" />
+          <option name="PATTERN" value="BinarySearch.백준2143_두배열의합.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,18 +181,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BackTracking.백준1759번_암호만들기.Main" />
+      <item itemvalue="Application.BinarySearch.백준2143_두배열의합.Main" />
       <item itemvalue="Application.DP.백준15989번_123더하기4.Main" />
-      <item itemvalue="Application.BruteForce.백준2179번_비슷한단어.Main" />
       <item itemvalue="Application.Second" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch.백준2143_두배열의합.Main" />
         <item itemvalue="Application.Second" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DP.백준15989번_123더하기4.Main" />
         <item itemvalue="Application.BackTracking.백준1759번_암호만들기.Main" />
-        <item itemvalue="Application.BruteForce.백준2179번_비슷한단어.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -507,7 +507,7 @@
       <workItem from="1741785363507" duration="8252000" />
       <workItem from="1741879353784" duration="1835000" />
       <workItem from="1741970202458" duration="14759000" />
-      <workItem from="1742200013200" duration="8507000" />
+      <workItem from="1742200013200" duration="11877000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
