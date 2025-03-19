@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch.백준3020_개똥벌레.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BinarySearch.백준2143_두배열의합.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2143_두배열의합.Main" />
       <module name="Algorithm" />
@@ -140,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준15989번_123더하기4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준15989번_123더하기4.Main" />
+    <configuration name="Greedy.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준15989번_123더하기4.*" />
+          <option name="PATTERN" value="Greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greedy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,24 +167,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2170번_선긋기.Main" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준3079번_입국심사.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준2170번_선긋기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2110번_공유기설치.Second" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.백준2110번_공유기설치.*" />
+          <option name="PATTERN" value="BinarySearch.백준3079번_입국심사.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,17 +182,17 @@
     <list>
       <item itemvalue="Application.BinarySearch.백준2143_두배열의합.Main" />
       <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Main" />
-      <item itemvalue="Application.DP.백준15989번_123더하기4.Main" />
-      <item itemvalue="Application.Second" />
+      <item itemvalue="Application.Greedy.Main" />
+      <item itemvalue="Application.Greedy.Main (1)" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Greedy.Main (1)" />
+        <item itemvalue="Application.Greedy.Main" />
         <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Main" />
         <item itemvalue="Application.BinarySearch.백준2143_두배열의합.Main" />
-        <item itemvalue="Application.Second" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DP.백준15989번_123더하기4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -507,7 +507,7 @@
       <workItem from="1741785363507" duration="8252000" />
       <workItem from="1741879353784" duration="1835000" />
       <workItem from="1741970202458" duration="14759000" />
-      <workItem from="1742200013200" duration="17604000" />
+      <workItem from="1742200013200" duration="21322000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -795,6 +795,11 @@
           <url>file://$PROJECT_DIR$/src/DFSBFS/백준16933번_벽부수고이동하기3/Third.java</url>
           <line>38</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/백준3020_개똥벌레/Main.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
