@@ -3,6 +3,8 @@ package BinarySearch.백준3079번_입국심사;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -20,7 +22,6 @@ public class Main {
             desks[i] = Integer.parseInt(br.readLine());
             max = Math.max(max, desks[i]);
         }
-
         long left = 1;
         long right = (long) max * M;
         long result = Long.MAX_VALUE;
