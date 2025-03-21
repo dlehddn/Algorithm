@@ -113,13 +113,26 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch.백준3020_개똥벌레.Second">
+  <component name="RunManager" selected="Application.BinarySearch.백준3079번_입국심사.Second">
     <configuration name="BinarySearch.백준3020_개똥벌레.Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.백준3020_개똥벌레.Second" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BinarySearch.백준3020_개똥벌레.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch.백준3079번_입국심사.Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준3079번_입국심사.Second" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.백준3079번_입국심사.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준3079번_입국심사.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.백준3079번_입국심사.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.백준2293번_동전1.Second" />
       <module name="Algorithm" />
@@ -181,18 +181,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Second" />
+      <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
       <item itemvalue="Application.Greedy.백준2011_암호코드.Main" />
       <item itemvalue="Application.Greedy.백준2179번_비슷한단어.Main" />
       <item itemvalue="Application.Second" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
         <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Second" />
         <item itemvalue="Application.Greedy.백준2179번_비슷한단어.Main" />
         <item itemvalue="Application.Greedy.백준2011_암호코드.Main" />
         <item itemvalue="Application.Second" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +508,7 @@
       <workItem from="1741879353784" duration="1835000" />
       <workItem from="1741970202458" duration="14759000" />
       <workItem from="1742200013200" duration="27723000" />
-      <workItem from="1742491934048" duration="10628000" />
+      <workItem from="1742491934048" duration="11675000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
