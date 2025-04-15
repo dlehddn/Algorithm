@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch.백준3079번_입국심사.Second">
+  <component name="RunManager" selected="Application.Retry">
     <configuration name="BinarySearch.백준3020_개똥벌레.Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.백준3020_개똥벌레.Second" />
       <module name="Algorithm" />
@@ -166,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준2293번_동전1.Second" />
+    <configuration name="Retry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준1911번_흙길보수하기.Retry" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준2293번_동전1.*" />
+          <option name="PATTERN" value="Greedy.백준1911번_흙길보수하기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +180,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Retry" />
       <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Second" />
       <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
       <item itemvalue="Application.Greedy.백준2011_암호코드.Main" />
       <item itemvalue="Application.Greedy.백준2179번_비슷한단어.Main" />
-      <item itemvalue="Application.Second" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Retry" />
         <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
         <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Second" />
         <item itemvalue="Application.Greedy.백준2179번_비슷한단어.Main" />
         <item itemvalue="Application.Greedy.백준2011_암호코드.Main" />
-        <item itemvalue="Application.Second" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +508,10 @@
       <workItem from="1741879353784" duration="1835000" />
       <workItem from="1741970202458" duration="14759000" />
       <workItem from="1742200013200" duration="27723000" />
-      <workItem from="1742491934048" duration="11675000" />
+      <workItem from="1742491934048" duration="15300000" />
+      <workItem from="1742639552056" duration="134000" />
+      <workItem from="1742643971633" duration="6000" />
+      <workItem from="1744705399301" duration="2458000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -801,6 +804,11 @@
           <url>file://$PROJECT_DIR$/src/BinarySearch/백준3020_개똥벌레/Main.java</url>
           <line>85</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/백준1911번_흙길보수하기/Retry.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
