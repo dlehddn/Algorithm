@@ -113,7 +113,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Retry">
+  <component name="RunManager" selected="Application.Greedy.백준2212번_센서.Retry">
     <configuration name="BinarySearch.백준3020_개똥벌레.Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.백준3020_개똥벌레.Second" />
       <module name="Algorithm" />
@@ -140,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준2011_암호코드.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2011_암호코드.Main" />
+    <configuration name="Greedy.백준2212번_센서.Retry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준2212번_센서.Retry" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준2011_암호코드.*" />
+          <option name="PATTERN" value="Greedy.백준2212번_센서.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준2179번_비슷한단어.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2179번_비슷한단어.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준2212번_센서.Main2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준2179번_비슷한단어.*" />
+          <option name="PATTERN" value="Greedy.백준2212번_센서.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,19 +180,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Greedy.백준2212번_센서.Retry" />
+      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Retry" />
       <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Second" />
       <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
-      <item itemvalue="Application.Greedy.백준2011_암호코드.Main" />
-      <item itemvalue="Application.Greedy.백준2179번_비슷한단어.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준2212번_센서.Retry" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Retry" />
         <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
         <item itemvalue="Application.BinarySearch.백준3020_개똥벌레.Second" />
-        <item itemvalue="Application.Greedy.백준2179번_비슷한단어.Main" />
-        <item itemvalue="Application.Greedy.백준2011_암호코드.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +511,8 @@
       <workItem from="1742491934048" duration="15300000" />
       <workItem from="1742639552056" duration="134000" />
       <workItem from="1742643971633" duration="6000" />
-      <workItem from="1744705399301" duration="2458000" />
+      <workItem from="1744705399301" duration="4467000" />
+      <workItem from="1744868734112" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
