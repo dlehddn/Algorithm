@@ -113,13 +113,26 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BinarySearch.백준3079번_입국심사.Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.백준3079번_입국심사.Second" />
+  <component name="RunManager" selected="Application.BruteForce.백준14500번_테트로미노.Main">
+    <configuration name="BruteForce.백준14500번_테트로미노.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준14500번_테트로미노.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.백준3079번_입국심사.*" />
+          <option name="PATTERN" value="BruteForce.백준14500번_테트로미노.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Comb_Per.백준1107번_리모콘.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준1107번_리모콘.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comb_Per.백준1107번_리모콘.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,33 +179,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Retry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1911번_흙길보수하기.Retry" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준1911번_흙길보수하기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.BruteForce.백준14500번_테트로미노.Main" />
+      <item itemvalue="Application.Comb_Per.백준1107번_리모콘.Main" />
       <item itemvalue="Application.Greedy.백준2212번_센서.Retry" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Retry" />
-      <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce.백준14500번_테트로미노.Main" />
+        <item itemvalue="Application.Comb_Per.백준1107번_리모콘.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Greedy.백준2212번_센서.Retry" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Retry" />
-        <item itemvalue="Application.BinarySearch.백준3079번_입국심사.Second" />
       </list>
     </recent_temporary>
   </component>
@@ -512,7 +512,8 @@
       <workItem from="1742639552056" duration="134000" />
       <workItem from="1742643971633" duration="6000" />
       <workItem from="1744705399301" duration="4467000" />
-      <workItem from="1744868734112" duration="3152000" />
+      <workItem from="1744868734112" duration="4239000" />
+      <workItem from="1744960529269" duration="10487000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -811,6 +812,11 @@
           <line>28</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Comb_Per/백준1107번_리모콘/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="4" />
@@ -910,6 +916,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BruteForce/백준14500번_테트로미노/Main.java</url>
+          <line>57</line>
+          <properties class="BruteForce.백준14500번_테트로미노.Main" method="checkDfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
