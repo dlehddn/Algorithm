@@ -62,8 +62,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BruteForce.백준1748번_수이어쓰기.Main.executor": "Run",
     "Application.BruteForce.백준3085번_사탕게임.Main.executor": "Run",
     "Application.Euclid.백준6064_카잉달력.Main.executor": "Run",
+    "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -119,7 +121,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BruteForce.백준1748번_수이어쓰기.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BruteForce.백준14500번_테트로미노.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준14500번_테트로미노.Main" />
       <module name="Algorithm" />
@@ -159,19 +161,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comb_Per.백준1107번_리모콘.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준1107번_리모콘.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Comb_Per.백준1107번_리모콘.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Euclid.백준6064_카잉달력.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Euclid.백준6064_카잉달력.Main" />
       <module name="Algorithm" />
@@ -185,20 +174,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준10971_외판원순회2.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFSBFS.백준10971_외판원순회2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.BruteForce.백준1748번_수이어쓰기.Main" />
       <item itemvalue="Application.BruteForce.백준3085번_사탕게임.Main" />
       <item itemvalue="Application.Euclid.백준6064_카잉달력.Main" />
       <item itemvalue="Application.BruteForce.백준14500번_테트로미노.Main" />
-      <item itemvalue="Application.Comb_Per.백준1107번_리모콘.Main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BruteForce.백준1748번_수이어쓰기.Main" />
         <item itemvalue="Application.BruteForce.백준3085번_사탕게임.Main" />
         <item itemvalue="Application.Euclid.백준6064_카잉달력.Main" />
         <item itemvalue="Application.BruteForce.백준14500번_테트로미노.Main" />
-        <item itemvalue="Application.Comb_Per.백준1107번_리모콘.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -532,7 +534,7 @@
       <workItem from="1744995568252" duration="443000" />
       <workItem from="1744996019980" duration="1574000" />
       <workItem from="1745001241531" duration="971000" />
-      <workItem from="1745044691028" duration="4661000" />
+      <workItem from="1745044691028" duration="8410000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -944,6 +946,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DFSBFS/백준10971_외판원순회2/Main.java</url>
+          <line>36</line>
+          <properties class="DFSBFS.백준10971_외판원순회2.Main" method="dfs">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
