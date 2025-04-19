@@ -60,43 +60,44 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Euclid.백준6064_카잉달력.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dongwoo/workspace/Algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18820225&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BruteForce.백준3085번_사탕게임.Main.executor": "Run",
+    "Application.Euclid.백준6064_카잉달력.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dongwoo/workspace/Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.splitter.proportion": "0.18820225",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/BinarySearch" />
@@ -118,13 +119,26 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Euclid.백준6064_카잉달력.Main">
+  <component name="RunManager" selected="Application.BruteForce.백준3085번_사탕게임.Main">
     <configuration name="BruteForce.백준14500번_테트로미노.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준14500번_테트로미노.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BruteForce.백준14500번_테트로미노.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BruteForce.백준3085번_사탕게임.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준3085번_사탕게임.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BruteForce.백준3085번_사탕게임.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,19 +172,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준2212번_센서.Retry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2212번_센서.Retry" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준2212번_센서.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.백준14226_이모티콘.Main" />
       <module name="Algorithm" />
@@ -185,19 +186,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BruteForce.백준3085번_사탕게임.Main" />
       <item itemvalue="Application.Euclid.백준6064_카잉달력.Main" />
       <item itemvalue="Application.BruteForce.백준14500번_테트로미노.Main" />
       <item itemvalue="Application.Comb_Per.백준1107번_리모콘.Main" />
-      <item itemvalue="Application.Greedy.백준2212번_센서.Retry" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce.백준3085번_사탕게임.Main" />
         <item itemvalue="Application.Euclid.백준6064_카잉달력.Main" />
         <item itemvalue="Application.BruteForce.백준14500번_테트로미노.Main" />
         <item itemvalue="Application.Comb_Per.백준1107번_리모콘.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Greedy.백준2212번_센서.Retry" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +530,9 @@
       <workItem from="1744960529269" duration="11318000" />
       <workItem from="1744995324536" duration="235000" />
       <workItem from="1744995568252" duration="443000" />
-      <workItem from="1744996019980" duration="411000" />
+      <workItem from="1744996019980" duration="1574000" />
+      <workItem from="1745001241531" duration="971000" />
+      <workItem from="1745044691028" duration="3630000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
