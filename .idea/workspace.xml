@@ -65,7 +65,9 @@
     "Application.BruteForce.백준1182번_부분수열의합.Main.executor": "Run",
     "Application.BruteForce.백준1748번_수이어쓰기.Main.executor": "Run",
     "Application.BruteForce.백준3085번_사탕게임.Main.executor": "Run",
+    "Application.Comb_Per.백준14888번_연산자끼워넣기.Main.executor": "Run",
     "Application.DFSBFS.백준1303번_전투.Main.executor": "Run",
+    "Application.DFSBFS.백준5014_스타트링크.Main.executor": "Run",
     "Application.Euclid.백준6064_카잉달력.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -123,7 +125,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DFSBFS.백준1303번_전투.Main">
+  <component name="RunManager" selected="Application.DFSBFS.백준5014_스타트링크.Main">
     <configuration name="BruteForce.백준1182번_부분수열의합.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준1182번_부분수열의합.Main" />
       <module name="Algorithm" />
@@ -137,25 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BruteForce.백준1748번_수이어쓰기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.백준1748번_수이어쓰기.Main" />
+    <configuration name="Comb_Per.백준14888번_연산자끼워넣기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comb_Per.백준14888번_연산자끼워넣기.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BruteForce.백준1748번_수이어쓰기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BruteForce.백준3085번_사탕게임.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.백준3085번_사탕게임.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BruteForce.백준3085번_사탕게임.*" />
+          <option name="PATTERN" value="Comb_Per.백준14888번_연산자끼워넣기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,6 +158,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DFSBFS.백준1303번_전투.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSBFS.백준5014_스타트링크.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준5014_스타트링크.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFSBFS.백준5014_스타트링크.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,18 +193,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BruteForce.백준1182번_부분수열의합.Main" />
-      <item itemvalue="Application.BruteForce.백준1748번_수이어쓰기.Main" />
-      <item itemvalue="Application.BruteForce.백준3085번_사탕게임.Main" />
+      <item itemvalue="Application.Comb_Per.백준14888번_연산자끼워넣기.Main" />
       <item itemvalue="Application.DFSBFS.백준1303번_전투.Main" />
+      <item itemvalue="Application.DFSBFS.백준5014_스타트링크.Main" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DFSBFS.백준5014_스타트링크.Main" />
+        <item itemvalue="Application.Comb_Per.백준14888번_연산자끼워넣기.Main" />
         <item itemvalue="Application.DFSBFS.백준1303번_전투.Main" />
         <item itemvalue="Application.BruteForce.백준1182번_부분수열의합.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BruteForce.백준1748번_수이어쓰기.Main" />
-        <item itemvalue="Application.BruteForce.백준3085번_사탕게임.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +538,7 @@
       <workItem from="1744995568252" duration="443000" />
       <workItem from="1744996019980" duration="1574000" />
       <workItem from="1745001241531" duration="971000" />
-      <workItem from="1745044691028" duration="10753000" />
+      <workItem from="1745044691028" duration="14096000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
