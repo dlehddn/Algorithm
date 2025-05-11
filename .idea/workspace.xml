@@ -72,6 +72,7 @@
     "Application.DFSBFS.백준5014_스타트링크.Main.executor": "Run",
     "Application.DP.백준9465번_스티커.Main.executor": "Run",
     "Application.Euclid.백준6064_카잉달력.Main.executor": "Run",
+    "Application.Greedy.백준20365번_블로그2.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main4.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -129,7 +130,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BruteForce.백준20207번_달력.Main">
+  <component name="RunManager" selected="Application.Greedy.백준20365번_블로그2.Main">
     <configuration name="BruteForce.백준20207번_달력.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BruteForce.백준20207번_달력.Main" />
       <module name="Algorithm" />
@@ -143,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSBFS.백준1325번_효율적인해킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1325번_효율적인해킹.Main" />
+    <configuration name="DP.백준9465번_스티커.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.백준9465번_스티커.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준1325번_효율적인해킹.*" />
+          <option name="PATTERN" value="DP.백준9465번_스티커.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP.백준9465번_스티커.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.백준9465번_스티커.Main" />
+    <configuration name="Greedy.백준20365번_블로그2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준20365번_블로그2.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.백준9465번_스티커.*" />
+          <option name="PATTERN" value="Greedy.백준20365번_블로그2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,17 +199,17 @@
     <list>
       <item itemvalue="Application.BruteForce.백준20207번_달력.Main" />
       <item itemvalue="Application.DP.백준9465번_스티커.Main" />
+      <item itemvalue="Application.Greedy.백준20365번_블로그2.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DFSBFS.백준1325번_효율적인해킹.Main" />
       <item itemvalue="Application.Main4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준20365번_블로그2.Main" />
         <item itemvalue="Application.BruteForce.백준20207번_달력.Main" />
         <item itemvalue="Application.DP.백준9465번_스티커.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.DFSBFS.백준1325번_효율적인해킹.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -543,7 +544,7 @@
       <workItem from="1744996019980" duration="1574000" />
       <workItem from="1745001241531" duration="971000" />
       <workItem from="1745044691028" duration="24729000" />
-      <workItem from="1746951646883" duration="5730000" />
+      <workItem from="1746951646883" duration="6690000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
