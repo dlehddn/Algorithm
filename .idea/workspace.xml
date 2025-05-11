@@ -64,6 +64,7 @@
   "keyToString": {
     "Application.BruteForce.백준1182번_부분수열의합.Main.executor": "Run",
     "Application.BruteForce.백준1748번_수이어쓰기.Main.executor": "Run",
+    "Application.BruteForce.백준20207번_달력.Main.executor": "Run",
     "Application.BruteForce.백준3085번_사탕게임.Main.executor": "Run",
     "Application.Comb_Per.백준14888번_연산자끼워넣기.Main.executor": "Run",
     "Application.DFSBFS.백준1303번_전투.Main.executor": "Run",
@@ -128,13 +129,13 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DP.백준9465번_스티커.Main">
-    <configuration name="DFSBFS.백준1325번_효율적인해킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1325번_효율적인해킹.Main" />
+  <component name="RunManager" selected="Application.BruteForce.백준20207번_달력.Main">
+    <configuration name="BruteForce.백준20207번_달력.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.백준20207번_달력.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준1325번_효율적인해킹.*" />
+          <option name="PATTERN" value="BruteForce.백준20207번_달력.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSBFS.백준5014_스타트링크.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준5014_스타트링크.Main" />
+    <configuration name="DFSBFS.백준1325번_효율적인해킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.백준1325번_효율적인해킹.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.백준5014_스타트링크.*" />
+          <option name="PATTERN" value="DFSBFS.백준1325번_효율적인해킹.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,19 +196,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BruteForce.백준20207번_달력.Main" />
       <item itemvalue="Application.DP.백준9465번_스티커.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DFSBFS.백준1325번_효율적인해킹.Main" />
-      <item itemvalue="Application.DFSBFS.백준5014_스타트링크.Main" />
       <item itemvalue="Application.Main4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BruteForce.백준20207번_달력.Main" />
         <item itemvalue="Application.DP.백준9465번_스티커.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main4" />
         <item itemvalue="Application.DFSBFS.백준1325번_효율적인해킹.Main" />
-        <item itemvalue="Application.DFSBFS.백준5014_스타트링크.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -542,7 +543,7 @@
       <workItem from="1744996019980" duration="1574000" />
       <workItem from="1745001241531" duration="971000" />
       <workItem from="1745044691028" duration="24729000" />
-      <workItem from="1746951646883" duration="2747000" />
+      <workItem from="1746951646883" duration="5730000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
