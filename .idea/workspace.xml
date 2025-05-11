@@ -73,6 +73,7 @@
     "Application.DFSBFS.백준5014_스타트링크.Main.executor": "Run",
     "Application.DP.백준9465번_스티커.Main.executor": "Run",
     "Application.Euclid.백준6064_카잉달력.Main.executor": "Run",
+    "Application.Greedy.백준1092번_배.Main.executor": "Run",
     "Application.Greedy.백준20365번_블로그2.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main4.executor": "Run",
@@ -131,7 +132,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BackTracking.백준16987번_계란으로계란치기.Main">
+  <component name="RunManager" selected="Application.Greedy.백준1092번_배.Main">
     <configuration name="BackTracking.백준16987번_계란으로계란치기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BackTracking.백준16987번_계란으로계란치기.Main" />
       <module name="Algorithm" />
@@ -171,6 +172,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Greedy.백준1092번_배.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준1092번_배.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.백준1092번_배.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Greedy.백준20365번_블로그2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준20365번_블로그2.Main" />
       <module name="Algorithm" />
@@ -184,33 +198,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준13305_주유소.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Greedy.백준13305_주유소.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.BackTracking.백준16987번_계란으로계란치기.Main" />
       <item itemvalue="Application.BruteForce.백준20207번_달력.Main" />
       <item itemvalue="Application.DP.백준9465번_스티커.Main" />
+      <item itemvalue="Application.Greedy.백준1092번_배.Main" />
       <item itemvalue="Application.Greedy.백준20365번_블로그2.Main" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준1092번_배.Main" />
         <item itemvalue="Application.BackTracking.백준16987번_계란으로계란치기.Main" />
         <item itemvalue="Application.Greedy.백준20365번_블로그2.Main" />
         <item itemvalue="Application.BruteForce.백준20207번_달력.Main" />
         <item itemvalue="Application.DP.백준9465번_스티커.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -545,7 +546,7 @@
       <workItem from="1744996019980" duration="1574000" />
       <workItem from="1745001241531" duration="971000" />
       <workItem from="1745044691028" duration="24729000" />
-      <workItem from="1746951646883" duration="8662000" />
+      <workItem from="1746951646883" duration="10478000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
