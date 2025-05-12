@@ -80,6 +80,8 @@
     "Application.Greedy.백준20365번_블로그2.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main4.executor": "Run",
+    "Application.Third.executor": "Run",
+    "Application.TwoPointer.백준22945_팀빌딩.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -135,7 +137,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch.백준2512_예산.Main">
+  <component name="RunManager" selected="Application.Third">
     <configuration name="BinarySearch.백준2512_예산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2512_예산.Main" />
       <module name="Algorithm" />
@@ -175,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준1092번_배.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준1092번_배.Main" />
+    <configuration name="Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준1806번_부분합.Third" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준1092번_배.*" />
+          <option name="PATTERN" value="TwoPointer.백준1806번_부분합.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.백준21315_카드섞기.Main" />
+    <configuration name="TwoPointer.백준22945_팀빌딩.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준22945_팀빌딩.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BruteForce.백준21315_카드섞기.*" />
+          <option name="PATTERN" value="TwoPointer.백준22945_팀빌딩.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,16 +207,16 @@
       <item itemvalue="Application.BinarySearch.백준2512_예산.Main" />
       <item itemvalue="Application.DFSBFS.백준11403_경로찾기.Main" />
       <item itemvalue="Application.Fourth" />
-      <item itemvalue="Application.Greedy.백준1092번_배.Main" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Third" />
+      <item itemvalue="Application.TwoPointer.백준22945_팀빌딩.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Third" />
+        <item itemvalue="Application.TwoPointer.백준22945_팀빌딩.Main" />
         <item itemvalue="Application.BinarySearch.백준2512_예산.Main" />
         <item itemvalue="Application.DFSBFS.백준11403_경로찾기.Main" />
         <item itemvalue="Application.Fourth" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Greedy.백준1092번_배.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -549,7 +551,7 @@
       <workItem from="1744996019980" duration="1574000" />
       <workItem from="1745001241531" duration="971000" />
       <workItem from="1745044691028" duration="24729000" />
-      <workItem from="1746951646883" duration="23057000" />
+      <workItem from="1746951646883" duration="31589000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
@@ -852,6 +854,11 @@
           <url>file://$PROJECT_DIR$/src/Comb_Per/백준1107번_리모콘/Main.java</url>
           <line>27</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoPointer/백준1806번_부분합/Third.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
