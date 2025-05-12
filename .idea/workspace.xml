@@ -137,7 +137,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Third">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BinarySearch.백준2512_예산.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.백준2512_예산.Main" />
       <module name="Algorithm" />
@@ -164,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fourth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dijkstra.백준13549번_숨바꼭질3.Fourth" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준19598번_최소회의실개수.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dijkstra.백준13549번_숨바꼭질3.*" />
+          <option name="PATTERN" value="Greedy.백준19598번_최소회의실개수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,17 +206,17 @@
     <list>
       <item itemvalue="Application.BinarySearch.백준2512_예산.Main" />
       <item itemvalue="Application.DFSBFS.백준11403_경로찾기.Main" />
-      <item itemvalue="Application.Fourth" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Third" />
       <item itemvalue="Application.TwoPointer.백준22945_팀빌딩.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Third" />
         <item itemvalue="Application.TwoPointer.백준22945_팀빌딩.Main" />
         <item itemvalue="Application.BinarySearch.백준2512_예산.Main" />
         <item itemvalue="Application.DFSBFS.백준11403_경로찾기.Main" />
-        <item itemvalue="Application.Fourth" />
       </list>
     </recent_temporary>
   </component>
@@ -551,7 +551,7 @@
       <workItem from="1744996019980" duration="1574000" />
       <workItem from="1745001241531" duration="971000" />
       <workItem from="1745044691028" duration="24729000" />
-      <workItem from="1746951646883" duration="31589000" />
+      <workItem from="1746951646883" duration="36126000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
