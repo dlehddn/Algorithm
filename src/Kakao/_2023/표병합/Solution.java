@@ -27,7 +27,7 @@ class Solution {
                 Set<Integer> set = new HashSet();
                 set.add(myLoc);
                 groupMembers.put(groupCounter, set);
-                groupCounter++;
+                  groupCounter++;
             }
         }
         List<String> result = new ArrayList<>();
