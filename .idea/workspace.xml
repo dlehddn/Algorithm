@@ -80,6 +80,7 @@
     "Application.Greedy.백준1092번_배.Main.executor": "Run",
     "Application.Greedy.백준13164_행복유치원.Main.executor": "Run",
     "Application.Greedy.백준1541번_잃어버린괄호.Main.executor": "Run",
+    "Application.Greedy.백준15903번_카드합체놀이.Main.executor": "Run",
     "Application.Greedy.백준20365번_블로그2.Main.executor": "Run",
     "Application.Greedy.백준2195_문자열복사.Main.executor": "Run",
     "Application.Main.executor": "Run",
@@ -143,13 +144,26 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Greedy.백준1541번_잃어버린괄호.Main">
+  <component name="RunManager" selected="Application.Greedy.백준15903번_카드합체놀이.Main">
     <configuration name="Greedy.백준1541번_잃어버린괄호.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준1541번_잃어버린괄호.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Greedy.백준1541번_잃어버린괄호.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Greedy.백준15903번_카드합체놀이.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.백준15903번_카드합체놀이.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.백준15903번_카드합체놀이.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,33 +210,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Third" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointer.백준2467번_용액.Third" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoPointer.백준2467번_용액.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Greedy.백준1541번_잃어버린괄호.Main" />
+      <item itemvalue="Application.Greedy.백준15903번_카드합체놀이.Main" />
       <item itemvalue="Application.Greedy.백준2195_문자열복사.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Second" />
-      <item itemvalue="Application.Third" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greedy.백준15903번_카드합체놀이.Main" />
         <item itemvalue="Application.Greedy.백준1541번_잃어버린괄호.Main" />
         <item itemvalue="Application.Greedy.백준2195_문자열복사.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Second" />
-        <item itemvalue="Application.Third" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +569,7 @@
       <workItem from="1758518638704" duration="706000" />
       <workItem from="1759133973739" duration="1336000" />
       <workItem from="1759327279520" duration="5627000" />
-      <workItem from="1759389936298" duration="8752000" />
+      <workItem from="1759389936298" duration="9781000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
