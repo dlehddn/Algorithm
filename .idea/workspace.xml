@@ -146,7 +146,7 @@
       <recent name="Dijkstra.백준13913번_숨바꼭질4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Samsung.AI로봇청소기.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Greedy.백준1541번_잃어버린괄호.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greedy.백준1541번_잃어버린괄호.Main" />
       <module name="Algorithm" />
@@ -173,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy.백준2195_문자열복사.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy.백준2195_문자열복사.Main" />
+    <configuration name="Kruskal.백준1774번_우주신과의교감.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1774번_우주신과의교감.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Greedy.백준2195_문자열복사.*" />
+          <option name="PATTERN" value="Kruskal.백준1774번_우주신과의교감.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kruskal.백준1774번_우주신과의교감.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kruskal.백준1774번_우주신과의교감.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Samsung.택배하차.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kruskal.백준1774번_우주신과의교감.*" />
+          <option name="PATTERN" value="Samsung.택배하차.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,15 +217,15 @@
       <item itemvalue="Application.Kruskal.백준1774번_우주신과의교감.Main" />
       <item itemvalue="Application.Greedy.백준1541번_잃어버린괄호.Main" />
       <item itemvalue="Application.Greedy.백준15903번_카드합체놀이.Main" />
-      <item itemvalue="Application.Greedy.백준2195_문자열복사.Main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Samsung.AI로봇청소기.Main" />
         <item itemvalue="Application.Kruskal.백준1774번_우주신과의교감.Main" />
         <item itemvalue="Application.Greedy.백준15903번_카드합체놀이.Main" />
         <item itemvalue="Application.Greedy.백준1541번_잃어버린괄호.Main" />
-        <item itemvalue="Application.Greedy.백준2195_문자열복사.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -580,7 +580,7 @@
       <workItem from="1760946826570" duration="2376000" />
       <workItem from="1761202127217" duration="1853000" />
       <workItem from="1761403399808" duration="1757000" />
-      <workItem from="1761624517529" duration="7801000" />
+      <workItem from="1761624517529" duration="12857000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1687016235434</created>
